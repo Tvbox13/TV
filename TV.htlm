@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>TV Sensa Selector</title>
+    <script src="https://cdn.jwplayer.com/libraries/AbCdEfGHi.js"></script> <!-- Cambia por tu clave -->
+    <style>
+        body { font-family: Arial, sans-serif; background: #111; color: #fff; text-align: center; }
+        select, button { font-size: 1.2em; margin: 10px; }
+        #player { margin: 0 auto; width: 80vw; max-width: 800px; }
+    </style>
+</head>
+<body>
+    <h1>TV Sensa</h1>
+    <select id="canales">
+        <option value="">Selecciona un canal...</option>
+        <option value="A24">A24</option>
+        <option value="C5N">C5N</option>
+        <option value="Canal26">Canal 26</option>
+        <option value="Cronica">Crónica</option>
+        <option value="LaNacionMas">La Nación +</option>
+        <option value="TN">TN</option>
+        <option value="TVPublica">TV Pública</option>
+        <option value="Canal9">El Nueve</option>
+        <option value="Canal10cba">Canal 10 Córdoba</option>
+        <option value="Telefe">Telefé</option>
+        <option value="ElTrece">El Trece</option>
+        <option value="America">América</option>
+        <option value="NETTV">Net TV</option>
+        <option value="BravoTV">Bravo TV</option>
+        <option value="CanalE">Canal E</option>
+        <option value="CiudadMagazine">Ciudad Magazine</option>
+        <option value="Volver">Volver</option>
+        <option value="CanalRural">Canal Rural</option>
+        <option value="CineAR">Cine.AR</option>
+        <option value="Encuentro">Encuentro</option>
+        <option value="Argentinisima">Argentinísima Satelital</option>
+        <option value="ElDestape">El Destape</option>
+        <option value="DeporTV">DeporTV</option>
+        <option value="ClaroSports">Claro Sports</option>
+        <option value="TYCSports">TyC Sports</option>
+        <!-- Puedes seguir agregando más canales aquí -->
+    </select>
+    <div id="player"></div>
+    <script>
+    // Mapea los canales a sus URLs y claves DRM
+    const canales = {
+        "A24": {
+            url: "https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "ed936cd5cb59eeee83addafb446662a4": "dd4b7aeb2bc000468883296e7ae4a09b"
+                }
+            }
+        },
+        "C5N": {
+            url: "https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "bd1767fe3554f1285222b5610105c0e9": "839d5b1eec7eb70d68c1e1531fc0d6d4"
+                }
+            }
+        },
+        "Canal26": {
+            url: "https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "b35aecc554b859a97cf11b892731af1f": "3a5da1a7c6a5cc6e488bdbbbf09132ff"
+                }
+            }
+        },
+        "Cronica": {
+            url: "https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "194f0682180e147f7928078dcc78a019": "ddfc08545e74a6bd8870f1189cd1bec0"
+                }
+            }
+        },
+        "LaNacionMas": {
+            url: "https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "a002010b506854599dffbb8b9048ec7c": "160eedf85229da919a7c5eec4fbef809"
+                }
+            }
+        },
+        "TN": {
+            url: "https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "4b4ebe3c68c4c95c7639096e76c233d0": "0c48cd5e3298b762a099acdc05a5182a"
+                }
+            }
+        },
+        "TVPublica": {
+            url: "https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "6b17538810f1dd4485f174dcc204872c": "3d5b973772433ce07c8999aa659ea48c"
+                }
+            }
+        },
+        "Canal9": {
+            url: "https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "7c1f50e3f51216bdd1efcc99d3a27217": "3441c930277d824402aafee446ba8f90"
+                }
+            }
+        },
+        "Canal10cba": {
+            url: "https://cdn.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "faf29a5a543c9d82ef34ec2479140003": "2452197f9d4eb63a3081d986ca413375"
+                }
+            }
+        },
+        "Telefe": {
+            url: "https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "9bb54fccffaddd38916e85c08de98cc9": "d06f509c418eb6f1b2fc2b766445328b"
+                }
+            }
+        },
+        "ElTrece": {
+            url: "https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "e7b05c7a737b7f0a5d571b91deaa2697": "4079ac205b544b1c294ee1568906ff58"
+                }
+            }
+        },
+        "America": {
+            url: "https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "b5651806b42f087c58332b052de727c5": "11901b35cc3e5aa73619f64d02c38a0f"
+                }
+            }
+        },
+        "NETTV": {
+            url: "https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "c3db691c7e4520b7b2dc822ab905545a": "ee2a1ebe6fcc2ef3b01943cdd9256cc6"
+                }
+            }
+        },
+        "BravoTV": {
+            url: "https://cdn.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "1d7d1609477d0b0d51a5b7d1539e65eb": "90b61b3fa577eab7b53ef6f1caeb82bf"
+                }
+            }
+        },
+        "CanalE": {
+            url: "https://cdn.sensa.com.ar/bpk-tv/CanalE/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "1894229072ccac2d0f6a101d618d039d": "9a7ea848df202bf22ac51bda4482a4c2"
+                }
+            }
+        },
+        "CiudadMagazine": {
+            url: "https://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "014771c4a91db80e96f038ec0acfc304": "e37fa696265923a6082de157662aab73"
+                }
+            }
+        },
+        "Volver": {
+            url: "https://cdn.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "7a7ecf0c34695dd4e253574b0b85441e": "e6518e0b5dfa5e0dc268a5b16106811b"
+                }
+            }
+        },
+        "CanalRural": {
+            url: "https://cdn.sensa.com.ar/live/eds/CanalRural/live_dash_cld/CanalRural.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "24ecaed20225a367ad8fde9b6e826cd6": "14dbfc007a3f5648d2c30075f037a830"
+                }
+            }
+        },
+        "CineAR": {
+            url: "https://cdn.sensa.com.ar/live/eds/CineAR/live_dash_cld/CineAR.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "68e7788389d18bfa49daf812c581a3b0": "b4ef16f31325e24d16390ea74b088512"
+                }
+            }
+        },
+        "Encuentro": {
+            url: "https://cdn.sensa.com.ar/live/eds/Encuentro/live_dash_cld/Encuentro.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "9e6bc6cd9b600238f89d75ffb02cb852": "f102949aa16d1a741d0fa30dc60f9cbd"
+                }
+            }
+        },
+        "Argentinisima": {
+            url: "https://cdn.sensa.com.ar/bpk-tv/Argentinisima/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "ed25b5db60330e7ea14e3bf007db0797": "9b378d59f78e04e697ca958b1dd69ca7"
+                }
+            }
+        },
+        "ElDestape": {
+            url: "https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "af0566c50e733c311bdfa6736a95ce50": "e4dfd12993097b3c35ad47562d61b4ce"
+                }
+            }
+        },
+        "DeporTV": {
+            url: "https://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "1904c4d846a99e940903174bdbab74f0": "08a4ca972cd037a1fe042515c310bfe1"
+                }
+            }
+        },
+        "ClaroSports": {
+            url: "https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "04983282c2fa819a08fa03a13fe4fdbe": "4780a24340ea957c4a27b257e2b6ec4c"
+                }
+            }
+        },
+        "TYCSports": {
+            url: "https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+            drm: {
+                clearkey: {
+                    "53d0cf6c1d49c16f5180f86e1870b00f": "7eb6743b5f44b52ba27c88229c8c7ae2"
+                }
+            }
+        }
+    };
+
+    document.getElementById('canales').onchange = function() {
+        let canal = this.value;
+        if (!canal) return;
+        let info = canales[canal];
+        jwplayer("player").setup({
+            file: info.url,
+            type: "dash",
+            drm: {
+                clearkey: info.drm.clearkey
+            },
+            width: "100%",
+            aspectratio: "16:9"
+        });
+    };
+    </script>
+</body>
+</html>
