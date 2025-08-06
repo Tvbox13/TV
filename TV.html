@@ -104,15 +104,64 @@
     <h1>DC Store</h1>
     <section class="app-list" role="list">
 
- 
-      <a href="go:tvivo" class="app-item"><img src="https://dl.dropboxusercontent.com/scl/fi/nev3wn6qn83izo0ftjni7/TV.png?rlkey=j6w2dhj3r1a6txk4e4xtvaxs3&st=kvemcvcj&dl=0"alt=""><div class="app-info"><h2>TV</h2><p>TV</p></div></a>
-      <a href="go:peli" class="app-item"><img src="https://dl.dropboxusercontent.com/scl/fi/ppsrpocym1z3jdi3ld2nh/Peliculas-y-Series.png?rlkey=0mq3jfvzq770iuxwrbflhisp8&st=xvmyaoww&dl=0" alt=""><div class="app-info"><h2>Películas y Series</h2><p>Streaming</p></div></a>
-      <a href="go:tv" class="app-item"><img src="https://dl.dropboxusercontent.com/scl/fi/nev3wn6qn83izo0ftjni7/TV.png?rlkey=j6w2dhj3r1a6txk4e4xtvaxs3&st=kvemcvcj&dl=0" alt=""><div class="app-info"><h2>App TV</h2><p>TV en vivo</p></div></a>
-      <a href="go:youtube" class="app-item"><img src="https://dl.dropboxusercontent.com/scl/fi/mdlokqiy7x7vyt7giktqx/Youtube-y-Ri.png?rlkey=6rmvfx8xmhs1qvtfisf51drsq&st=ugm6cz3j&dl=0" alt=""><div class="app-info"><h2>Youtube y Ri Music</h2><p>Video y música</p></div></a>
-      <a href="go:Herra" class="app-item"><img src="https://dl.dropboxusercontent.com/scl/fi/yso976wjvc0imt5sg69fc/Herramientas.png?rlkey=p4pgcyhc66x2ca9eew847ekou&st=ryqb4wdq&dl=0" alt=""><div class="app-info"><h2>Herramientas</h2><p>Utilidades</p></div></a>
-      <a href="go:listas" class="app-item"><img src="https://dl.dropboxusercontent.com/scl/fi/yb1dwf5fs36pt6noqthtf/M3U.png?rlkey=d4dvvu9jzcwuwr0jblokovkrv&st=c5u3sumq&dl=0" alt=""><div class="app-info"><h2>Listas M3U</h2><p>IPTV personalizadas</p></div></a>
+      <!-- TV modificado -->
+      <a href="#" class="app-item" onclick="openTV()">
+        <img src="https://dl.dropboxusercontent.com/scl/fi/nev3wn6qn83izo0ftjni7/TV.png?rlkey=j6w2dhj3r1a6txk4e4xtvaxs3&st=kvemcvcj&dl=0" alt="">
+        <div class="app-info">
+          <h2>TV</h2>
+          <p>TV</p>
+        </div>
+      </a>
+
+      <!-- Resto de apps -->
+      <a href="go:peli" class="app-item">
+        <img src="https://dl.dropboxusercontent.com/scl/fi/ppsrpocym1z3jdi3ld2nh/Peliculas-y-Series.png?rlkey=0mq3jfvzq770iuxwrbflhisp8&st=xvmyaoww&dl=0" alt="">
+        <div class="app-info">
+          <h2>Películas y Series</h2>
+          <p>Streaming</p>
+        </div>
+      </a>
+
+      <a href="go:tv" class="app-item">
+        <img src="https://dl.dropboxusercontent.com/scl/fi/nev3wn6qn83izo0ftjni7/TV.png?rlkey=j6w2dhj3r1a6txk4e4xtvaxs3&st=kvemcvcj&dl=0" alt="">
+        <div class="app-info">
+          <h2>App TV</h2>
+          <p>TV en vivo</p>
+        </div>
+      </a>
+
+      <a href="go:youtube" class="app-item">
+        <img src="https://dl.dropboxusercontent.com/scl/fi/mdlokqiy7x7vyt7giktqx/Youtube-y-Ri.png?rlkey=6rmvfx8xmhs1qvtfisf51drsq&st=ugm6cz3j&dl=0" alt="">
+        <div class="app-info">
+          <h2>Youtube y Ri Music</h2>
+          <p>Video y música</p>
+        </div>
+      </a>
+
+      <a href="go:Herra" class="app-item">
+        <img src="https://dl.dropboxusercontent.com/scl/fi/yso976wjvc0imt5sg69fc/Herramientas.png?rlkey=p4pgcyhc66x2ca9eew847ekou&st=ryqb4wdq&dl=0" alt="">
+        <div class="app-info">
+          <h2>Herramientas</h2>
+          <p>Utilidades</p>
+        </div>
+      </a>
+
+      <a href="go:listas" class="app-item">
+        <img src="https://dl.dropboxusercontent.com/scl/fi/yb1dwf5fs36pt6noqthtf/M3U.png?rlkey=d4dvvu9jzcwuwr0jblokovkrv&st=c5u3sumq&dl=0" alt="">
+        <div class="app-info">
+          <h2>Listas M3U</h2>
+          <p>IPTV personalizadas</p>
+        </div>
+      </a>
 
     </section>
   </div>
+
+  <!-- JavaScript para redirigir sin salir de la app -->
+  <script>
+    function openTV() {
+      window.location.href = "https://canales-favoritos.netlify.app/favoritos.html";
+    }
+  </script>
 </body>
 </html>
