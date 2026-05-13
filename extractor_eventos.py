@@ -12,7 +12,7 @@ import base64
 from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup
 import time
-from datetime import datetime
+from datetime import datetime, timedelta
 
 class EventExtractor:
     def __init__(self):
@@ -26,6 +26,29 @@ class EventExtractor:
             'Connection': 'keep-alive',
             'Upgrade-Insecure-Requests': '1',
         })
+    
+    def convert_to_argentina_time(self, hour_str):
+        """Convertir hora a horario de Argentina (UTC-3)"""
+        if not hour_str:
+            return hour_str
+        
+        try:
+            # Parsear la hora (formato esperado: "HH:MM" o "HH:MM:SS")
+            if ':' in hour_str:
+                parts = hour_str.split(':')
+                hours = int(parts[0])
+                minutes = int(parts[1]) if len(parts) > 1 else 0
+                
+                # Sumar 2 horas para horario de Argentina
+                hours = (hours + 2) % 24
+                
+                # Formatear de nuevo
+                return f"{hours:02d}:{minutes:02d}"
+        except Exception as e:
+            print(f"⚠️ Error convirtiendo hora '{hour_str}': {e}")
+            return hour_str
+        
+        return hour_str
         
     def get_page_content(self, url):
         """Obtener contenido de página"""
@@ -121,7 +144,7 @@ class EventExtractor:
             attrs = event_data.get('attributes', {})
             
             description = attrs.get('diary_description', '')
-            hour = attrs.get('diary_hour', '')
+            hour = self.convert_to_argentina_time(attrs.get('diary_hour', ''))
             date = attrs.get('date_diary', '')
             country = attrs.get('country', {}).get('data', {}).get('attributes', {}).get('name', '')
             
