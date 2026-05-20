@@ -1,0 +1,2394 @@
+[
+  {
+    "id": "americatv",
+    "name": "América TV",
+    "logo": "https://bestleague.world/img/americatv.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AmericaTV.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "info_mora",
+    "name": "Info Mora",
+    "logo": "https://bestleague.world/img/info_mora.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Info_Mora/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Info_Mora.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "info_flow",
+    "name": "Info Flow",
+    "logo": "https://bestleague.world/img/info_flow.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Info_Flow/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Info_Flow.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "metro",
+    "name": "Metro",
+    "logo": "https://bestleague.world/img/metro.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Metro/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Metro.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "americatv",
+    "name": "América TV",
+    "logo": "https://bestleague.world/img/americatv.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AmericaTV.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "telefehd",
+    "name": "Telefe",
+    "logo": "https://bestleague.world/img/telefehd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TelefeHD.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "canal7",
+    "name": "Canal7",
+    "logo": "https://bestleague.world/img/canal7.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal7/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal7.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "artearhd",
+    "name": "Artearhd",
+    "logo": "https://bestleague.world/img/artearhd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ArtearHD.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "canal9",
+    "name": "Canal9",
+    "logo": "https://bestleague.world/img/canal9.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Canal9/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal9.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "todonoticias",
+    "name": "TN",
+    "logo": "https://bestleague.world/img/todonoticias.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TodoNoticias.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "la_nacion",
+    "name": "La Nación",
+    "logo": "https://bestleague.world/img/la_nacion.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/La_Nacion.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "c5n",
+    "name": "C5N",
+    "logo": "https://bestleague.world/img/c5n.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/C5N/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/C5N.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "cronicatv",
+    "name": "Crónica TV",
+    "logo": "https://bestleague.world/img/cronicatv.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CronicaTV.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "26_tv_hd",
+    "name": "26 TV HD",
+    "logo": "https://bestleague.world/img/26_tv_hd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/26_TV_HD.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "america24",
+    "name": "América 24",
+    "logo": "https://bestleague.world/img/america24.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/America24/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/America24.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "magazine",
+    "name": "Magazine",
+    "logo": "https://bestleague.world/img/magazine.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Magazine/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Magazine.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "net_tv",
+    "name": "Net TV",
+    "logo": "https://bestleague.world/img/net_tv.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Net_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Net_TV.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "encuentro",
+    "name": "Encuentro",
+    "logo": "https://bestleague.world/img/encuentro.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Encuentro/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Encuentro.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "cnn_en_espanol",
+    "name": "CNN En Espanol",
+    "logo": "https://bestleague.world/img/cnn_en_espanol.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CNN_en_Espanol.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "investigacion_periodistica",
+    "name": "Investigacion Periodistica",
+    "logo": "https://bestleague.world/img/investigacion_periodistica.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Investigacion_Periodistica.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "bravotv",
+    "name": "Bravotv",
+    "logo": "https://bestleague.world/img/bravotv.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/BravoTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/BravoTV.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "kzo",
+    "name": "KZO",
+    "logo": "https://bestleague.world/img/kzo.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/KZO/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/KZO.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "diputados_tv",
+    "name": "Diputados TV",
+    "logo": "https://bestleague.world/img/diputados_tv.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Diputados_TV.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "mixtv",
+    "name": "Mixtv",
+    "logo": "https://bestleague.world/img/mixtv.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/MixTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/MixTV.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "canal_90",
+    "name": "Canal 90",
+    "logo": "https://bestleague.world/img/canal_90.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_90/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_90.mpd",
+    "group": "ARGENTINA",
+    "type": "live"
+  },
+  {
+    "id": "deportvhd",
+    "name": "Deportvhd",
+    "logo": "https://bestleague.world/img/deportvhd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DeporTVHD.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "tycsport",
+    "name": "TyC Sports",
+    "logo": "https://bestleague.world/img/tycsport.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/TyCSport/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TyCSport.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "espn2hd",
+    "name": "Espn2hd",
+    "logo": "https://bestleague.world/img/espn2hd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2HD.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "espn2_arg",
+    "name": "Espn2 ARG",
+    "logo": "https://bestleague.world/img/espn2_arg.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2_Arg.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "espn3",
+    "name": "Espn3",
+    "logo": "https://bestleague.world/img/espn3.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPN3/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN3.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "espnhd",
+    "name": "Espnhd",
+    "logo": "https://bestleague.world/img/espnhd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPNHD.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "eventos_py",
+    "name": "Eventos PY",
+    "logo": "https://bestleague.world/img/eventos_py.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Eventos_PY.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "espn_py",
+    "name": "Espn PY",
+    "logo": "https://bestleague.world/img/espn_py.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/ESPN_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN_PY.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "espn_uy",
+    "name": "Espn UY",
+    "logo": "https://bestleague.world/img/espn_uy.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN_UY.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "espn2_py",
+    "name": "Espn2 PY",
+    "logo": "https://bestleague.world/img/espn2_py.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/ESPN2_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2_PY.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "espn2_uy",
+    "name": "Espn2 UY",
+    "logo": "https://bestleague.world/img/espn2_uy.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2_UY.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "espn3_uy-py",
+    "name": "Espn3 Uy-py",
+    "logo": "https://bestleague.world/img/espn3_uy-py.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN3_Uy-Py.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "eventos2_py",
+    "name": "Eventos2 PY",
+    "logo": "https://bestleague.world/img/eventos2_py.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Eventos2_PY.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "espn4",
+    "name": "Espn4",
+    "logo": "https://bestleague.world/img/espn4.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/ESPN4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN4.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "foxsports3_uy",
+    "name": "Foxsports3 UY",
+    "logo": "https://bestleague.world/img/foxsports3_uy.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports3_UY.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "foxsports2_uy",
+    "name": "Foxsports2 UY",
+    "logo": "https://bestleague.world/img/foxsports2_uy.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports2_UY.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "foxsports",
+    "name": "Foxsports",
+    "logo": "https://bestleague.world/img/foxsports.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "foxsports2hd",
+    "name": "Foxsports2hd",
+    "logo": "https://bestleague.world/img/foxsports2hd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports2HD.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "foxsports3hd",
+    "name": "Foxsports3hd",
+    "logo": "https://bestleague.world/img/foxsports3hd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports3HD.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "nba_tv",
+    "name": "NBA TV",
+    "logo": "https://bestleague.world/img/nba_tv.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/NBA_TV.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "el_garage",
+    "name": "El Garage",
+    "logo": "https://bestleague.world/img/el_garage.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/El_Garage/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/El_Garage.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "golf_channel",
+    "name": "Golf Channel",
+    "logo": "https://bestleague.world/img/golf_channel.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Golf_Channel.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "discoveryturbo",
+    "name": "Discoveryturbo",
+    "logo": "https://bestleague.world/img/discoveryturbo.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DiscoveryTurbo.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "px_sports",
+    "name": "PX Sports",
+    "logo": "https://bestleague.world/img/px_sports.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/PX_Sports.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "america_sports",
+    "name": "America Sports",
+    "logo": "https://bestleague.world/img/america_sports.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/America_Sports/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/America_Sports.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "eventos1hd",
+    "name": "Eventos1hd",
+    "logo": "https://bestleague.world/img/eventos1hd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Eventos1HD.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "eventos_2_hd",
+    "name": "Eventos 2 HD",
+    "logo": "https://bestleague.world/img/eventos_2_hd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Eventos_2_HD.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "eventos_3",
+    "name": "Eventos 3",
+    "logo": "https://bestleague.world/img/eventos_3.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Eventos_3/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Eventos_3.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "placa_futbol_promoch",
+    "name": "Placa Futbol Promoch",
+    "logo": "https://bestleague.world/img/placa_futbol_promoch.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Placa_Futbol_PromoCH/verimatrix_rotating/Placa_Futbol_PromoCH.m3u8",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "placa_futbol_ppv",
+    "name": "Placa Futbol PPV",
+    "logo": "https://bestleague.world/img/placa_futbol_ppv.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Placa_Futbol_PPV/verimatrix_rotating/Placa_Futbol_PPV.m3u8",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "fox_sports_premiun_hd",
+    "name": "Fox Sports Premiun HD",
+    "logo": "https://bestleague.world/img/fox_sports_premiun_hd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Fox_Sports_Premiun_HD.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "tnt_sports_hd",
+    "name": "TNT Sports HD",
+    "logo": "https://bestleague.world/img/tnt_sports_hd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TNT_Sports_HD.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "tyc_internacional",
+    "name": "TyC Internacional",
+    "logo": "https://bestleague.world/img/tyc_internacional.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TyC_Internacional.mpd",
+    "group": "DEPORTES",
+    "type": "live"
+  },
+  {
+    "id": "paka_paka",
+    "name": "Paka Paka",
+    "logo": "https://bestleague.world/img/paka_paka.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/PAKA_PAKA.mpd",
+    "group": "INFANTILES",
+    "type": "live"
+  },
+  {
+    "id": "disneychannelhd",
+    "name": "Disney Channel",
+    "logo": "https://bestleague.world/img/disneychannelhd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DisneyChannelHD.mpd",
+    "group": "INFANTILES",
+    "type": "live"
+  },
+  {
+    "id": "nickelodeon",
+    "name": "Nickelodeon",
+    "logo": "https://bestleague.world/img/nickelodeon.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Nickelodeon.mpd",
+    "group": "INFANTILES",
+    "type": "live"
+  },
+  {
+    "id": "cartoonnetwork",
+    "name": "Cartoon Network",
+    "logo": "https://bestleague.world/img/cartoonnetwork.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CartoonNetwork.mpd",
+    "group": "INFANTILES",
+    "type": "live"
+  },
+  {
+    "id": "dreamworks",
+    "name": "Dreamworks",
+    "logo": "https://bestleague.world/img/dreamworks.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Dreamworks.mpd",
+    "group": "INFANTILES",
+    "type": "live"
+  },
+  {
+    "id": "discovery_kids",
+    "name": "Discovery Kids",
+    "logo": "https://bestleague.world/img/discovery_kids.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Discovery_Kids.mpd",
+    "group": "INFANTILES",
+    "type": "live"
+  },
+  {
+    "id": "boomerang",
+    "name": "Boomerang",
+    "logo": "https://bestleague.world/img/boomerang.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Boomerang/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Boomerang.mpd",
+    "group": "INFANTILES",
+    "type": "live"
+  },
+  {
+    "id": "disneyjr",
+    "name": "Disney Jr",
+    "logo": "https://bestleague.world/img/disneyjr.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DisneyJr.mpd",
+    "group": "INFANTILES",
+    "type": "live"
+  },
+  {
+    "id": "babytv",
+    "name": "Baby TV",
+    "logo": "https://bestleague.world/img/babytv.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/BabyTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/BabyTV.mpd",
+    "group": "INFANTILES",
+    "type": "live"
+  },
+  {
+    "id": "tooncast",
+    "name": "Tooncast",
+    "logo": "https://bestleague.world/img/tooncast.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Tooncast/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Tooncast.mpd",
+    "group": "INFANTILES",
+    "type": "live"
+  },
+  {
+    "id": "nick_jr",
+    "name": "Nick Jr",
+    "logo": "https://bestleague.world/img/nick_jr.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Nick_Jr.mpd",
+    "group": "INFANTILES",
+    "type": "live"
+  },
+  {
+    "id": "plim_plim",
+    "name": "Plim Plim",
+    "logo": "https://bestleague.world/img/plim_plim.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Plim_Plim/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Plim_Plim.mpd",
+    "group": "INFANTILES",
+    "type": "live"
+  },
+  {
+    "id": "kidoo",
+    "name": "Kidoo",
+    "logo": "https://bestleague.world/img/kidoo.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Kidoo/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Kidoo.mpd",
+    "group": "INFANTILES",
+    "type": "live"
+  },
+  {
+    "id": "incaa_tv",
+    "name": "INCAA TV",
+    "logo": "https://bestleague.world/img/incaa_tv.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/INCAA_Tv.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "cinemax",
+    "name": "Cinemax",
+    "logo": "https://bestleague.world/img/cinemax.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Cinemax/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Cinemax.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "volver",
+    "name": "Volver",
+    "logo": "https://bestleague.world/img/volver.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Volver/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Volver.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "space",
+    "name": "Space",
+    "logo": "https://bestleague.world/img/space.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Space/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Space.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "cinecanalhd",
+    "name": "Cinecanal",
+    "logo": "https://bestleague.world/img/cinecanalhd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CinecanalHD.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "tnt_hd_arg",
+    "name": "TNT HD",
+    "logo": "https://bestleague.world/img/tnt_hd_arg.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TNT_HD_Arg.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "tntseries",
+    "name": "TNT Series",
+    "logo": "https://bestleague.world/img/tntseries.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TNTSeries.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "fxhd",
+    "name": "FX HD",
+    "logo": "https://bestleague.world/img/fxhd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/FXHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FXHD.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "foxhd",
+    "name": "FOX HD",
+    "logo": "https://bestleague.world/img/foxhd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/FOXHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FOXHD.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "sonyhd",
+    "name": "Sony HD",
+    "logo": "https://bestleague.world/img/sonyhd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/SonyHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/SonyHD.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "warnerhd",
+    "name": "Warner HD",
+    "logo": "https://bestleague.world/img/warnerhd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/WarnerHD.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "universal_channel_hd",
+    "name": "Universal Channel HD",
+    "logo": "https://bestleague.world/img/universal_channel_hd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Universal_Channel_HD.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "axnhd",
+    "name": "Axnhd",
+    "logo": "https://bestleague.world/img/axnhd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/AXNHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AXNHD.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "studio_universal",
+    "name": "Studio Universal",
+    "logo": "https://bestleague.world/img/studio_universal.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Studio_Universal.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "aehd",
+    "name": "Aehd",
+    "logo": "https://bestleague.world/img/aehd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/AEHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AEHD.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "europa_europa",
+    "name": "Europa Europa",
+    "logo": "https://bestleague.world/img/europa_europa.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Europa_Europa/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Europa_Europa.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "usa_network",
+    "name": "USA Network",
+    "logo": "https://bestleague.world/img/usa_network.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/USA_Network/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/USA_Network.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "tcm",
+    "name": "TCM",
+    "logo": "https://bestleague.world/img/tcm.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/TCM/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TCM.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "amc",
+    "name": "AMC",
+    "logo": "https://bestleague.world/img/amc.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/AMC/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AMC.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "amc_series",
+    "name": "AMC Series",
+    "logo": "https://bestleague.world/img/amc_series.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/AMC_Series/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AMC_Series.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "a3_series",
+    "name": "A3 Series",
+    "logo": "https://bestleague.world/img/a3_series.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/A3_Series/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/A3_Series.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "golden",
+    "name": "Golden",
+    "logo": "https://bestleague.world/img/golden.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Golden/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Golden.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "sony_movies",
+    "name": "Sony Movies",
+    "logo": "https://bestleague.world/img/sony_movies.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Sony_Movies.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "eurochannel",
+    "name": "Eurochannel",
+    "logo": "https://bestleague.world/img/eurochannel.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Eurochannel/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Eurochannel.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "id",
+    "name": "ID",
+    "logo": "https://bestleague.world/img/id.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/ID/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ID.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "comedycentral",
+    "name": "Comedycentral",
+    "logo": "https://bestleague.world/img/comedycentral.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ComedyCentral.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "paramount",
+    "name": "Paramount",
+    "logo": "https://bestleague.world/img/paramount.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Paramount/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Paramount.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "a3_cine",
+    "name": "A3 Cine",
+    "logo": "https://bestleague.world/img/a3_cine.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/A3_Cine/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/A3_Cine.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "dhe",
+    "name": "DHE",
+    "logo": "https://bestleague.world/img/dhe.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/DHE/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DHE.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "pasiones",
+    "name": "Pasiones",
+    "logo": "https://bestleague.world/img/pasiones.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Pasiones/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Pasiones.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "telemundo_hd",
+    "name": "Telemundo HD",
+    "logo": "https://bestleague.world/img/telemundo_hd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Telemundo_HD.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "tbs",
+    "name": "TBS",
+    "logo": "https://bestleague.world/img/tbs.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/TBS/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TBS.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "telenovelas",
+    "name": "Telenovelas",
+    "logo": "https://bestleague.world/img/telenovelas.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Telenovelas/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Telenovelas.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "adult_swim",
+    "name": "Adult Swim",
+    "logo": "https://bestleague.world/img/adult_swim.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Adult_Swim.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "placa_disney_plus",
+    "name": "Placa Disney Plus",
+    "logo": "https://bestleague.world/img/placa_disney_plus.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Placa_Disney_Plus/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Placa_Disney_Plus.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "placa_hbo",
+    "name": "Placa HBO",
+    "logo": "https://bestleague.world/img/placa_hbo.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Placa_HBO/verimatrix_rotating/Placa_HBO.m3u8",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "hbohd",
+    "name": "Hbohd",
+    "logo": "https://bestleague.world/img/hbohd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/HBOHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBOHD.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "hbo_2",
+    "name": "HBO 2",
+    "logo": "https://bestleague.world/img/hbo_2.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_2/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBO_2.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "hbo_plus",
+    "name": "HBO Plus",
+    "logo": "https://bestleague.world/img/hbo_plus.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBO_Plus.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "hbo_mundi",
+    "name": "HBO Mundi",
+    "logo": "https://bestleague.world/img/hbo_mundi.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBO_Mundi.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "hbo_pop",
+    "name": "HBO POP",
+    "logo": "https://bestleague.world/img/hbo_pop.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBO_POP.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "hbo_extreme",
+    "name": "HBO Extreme",
+    "logo": "https://bestleague.world/img/hbo_extreme.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBO_Extreme.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "hbo_family",
+    "name": "HBO Family",
+    "logo": "https://bestleague.world/img/hbo_family.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBO_Family.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "hbo_signature",
+    "name": "HBO Signature",
+    "logo": "https://bestleague.world/img/hbo_signature.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBO_Signature.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "universal_premiere",
+    "name": "Universal Premiere",
+    "logo": "https://bestleague.world/img/universal_premiere.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Universal_Premiere.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "universal_cinema",
+    "name": "Universal Cinema",
+    "logo": "https://bestleague.world/img/universal_cinema.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Universal_Cinema.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "universal_comedy",
+    "name": "Universal Comedy",
+    "logo": "https://bestleague.world/img/universal_comedy.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Universal_Comedy.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "universal_crime",
+    "name": "Universal Crime",
+    "logo": "https://bestleague.world/img/universal_crime.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/universal_Crime/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/universal_Crime.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "universal_reality",
+    "name": "Universal Reality",
+    "logo": "https://bestleague.world/img/universal_reality.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Universal_Reality.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "lifetime",
+    "name": "Lifetime",
+    "logo": "https://bestleague.world/img/lifetime.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Lifetime/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Lifetime.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "gourmet",
+    "name": "Gourmet",
+    "logo": "https://bestleague.world/img/gourmet.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Gourmet/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Gourmet.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "food_network",
+    "name": "Food Network",
+    "logo": "https://bestleague.world/img/food_network.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Food_Network/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Food_Network.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "e_entertainment_television",
+    "name": "E Entertainment Television",
+    "logo": "https://bestleague.world/img/e_entertainment_television.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/E_Entertainment_Television/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/E_Entertainment_Television.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "discoveryhomehealthhd",
+    "name": "Discoveryhomehealthhd",
+    "logo": "https://bestleague.world/img/discoveryhomehealthhd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DiscoveryHomeHealthHD.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "tlc",
+    "name": "TLC",
+    "logo": "https://bestleague.world/img/tlc.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/TLC/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TLC.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "home_and_garden",
+    "name": "Home And Garden",
+    "logo": "https://bestleague.world/img/home_and_garden.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Home_and_Garden/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Home_and_Garden.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "hola_tv",
+    "name": "Hola TV",
+    "logo": "https://bestleague.world/img/hola_tv.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Hola_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Hola_TV.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "canal_rural",
+    "name": "Canal Rural",
+    "logo": "https://bestleague.world/img/canal_rural.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_Rural/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_Rural.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "latam_rural",
+    "name": "Latam Rural",
+    "logo": "https://bestleague.world/img/latam_rural.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Latam_Rural/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Latam_Rural.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "sun_channel",
+    "name": "Sun Channel",
+    "logo": "https://bestleague.world/img/sun_channel.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Sun_Channel.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "telemax",
+    "name": "Telemax",
+    "logo": "https://bestleague.world/img/telemax.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Telemax/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Telemax.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "senal_maria",
+    "name": "Senal Maria",
+    "logo": "https://bestleague.world/img/senal_maria.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Senal_Maria/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Senal_Maria.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "canal_21",
+    "name": "Canal 21",
+    "logo": "https://bestleague.world/img/canal_21.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_21/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_21.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "ewtn",
+    "name": "Ewtn",
+    "logo": "https://bestleague.world/img/ewtn.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/EWTN/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/EWTN.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "canal_luz",
+    "name": "Canal LUZ",
+    "logo": "https://bestleague.world/img/canal_luz.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/CANAL_LUZ/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CANAL_LUZ.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "daystar",
+    "name": "Daystar",
+    "logo": "https://bestleague.world/img/daystar.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Daystar/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Daystar.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "natgeohd",
+    "name": "Natgeohd",
+    "logo": "https://bestleague.world/img/natgeohd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/NatGeoHD.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "discoveryhd",
+    "name": "Discoveryhd",
+    "logo": "https://bestleague.world/img/discoveryhd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DiscoveryHD.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "animalplanet",
+    "name": "Animalplanet",
+    "logo": "https://bestleague.world/img/animalplanet.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AnimalPlanet.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "theater_hd",
+    "name": "Theater HD",
+    "logo": "https://bestleague.world/img/theater_hd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Theater_HD.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "historyhd",
+    "name": "Historyhd",
+    "logo": "https://bestleague.world/img/historyhd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HistoryHD.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "canal_a",
+    "name": "Canal A",
+    "logo": "https://bestleague.world/img/canal_a.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_a/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_a.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "film_arts",
+    "name": "Film Arts",
+    "logo": "https://bestleague.world/img/film_arts.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Film_Arts/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Film_Arts.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "history_2",
+    "name": "History 2",
+    "logo": "https://bestleague.world/img/history_2.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/History_2/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/History_2.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "discovery_world_hd",
+    "name": "Discovery World HD",
+    "logo": "https://bestleague.world/img/discovery_world_hd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_World_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Discovery_World_HD.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "discovery_science",
+    "name": "Discovery Science",
+    "logo": "https://bestleague.world/img/discovery_science.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Discovery_Science.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "discoveryturbo",
+    "name": "Discoveryturbo",
+    "logo": "https://bestleague.world/img/discoveryturbo.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DiscoveryTurbo.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "id",
+    "name": "ID",
+    "logo": "https://bestleague.world/img/id.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/ID/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ID.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "mtv_hd",
+    "name": "MTV HD",
+    "logo": "https://bestleague.world/img/mtv_hd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/MTV_HD.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "quiero_hd",
+    "name": "Quiero HD",
+    "logo": "https://bestleague.world/img/quiero_hd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Quiero_HD.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "vorterix",
+    "name": "Vorterix",
+    "logo": "https://bestleague.world/img/vorterix.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Vorterix/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Vorterix.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "allegrohd",
+    "name": "Allegrohd",
+    "logo": "https://bestleague.world/img/allegrohd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/AllegroHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AllegroHD.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "mtv00",
+    "name": "Mtv00",
+    "logo": "https://bestleague.world/img/mtv00.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/MTV00/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/MTV00.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "htv",
+    "name": "HTV",
+    "logo": "https://bestleague.world/img/htv.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/HTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HTV.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "cm",
+    "name": "CM",
+    "logo": "https://bestleague.world/img/cm.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/CM/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CM.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "mtv_hits",
+    "name": "MTV Hits",
+    "logo": "https://bestleague.world/img/mtv_hits.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/MTV_Hits/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/MTV_Hits.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "nickmusic",
+    "name": "Nickmusic",
+    "logo": "https://bestleague.world/img/nickmusic.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Nickmusic/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Nickmusic.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "flow_music_xp",
+    "name": "Flow Music XP",
+    "logo": "https://bestleague.world/img/flow_music_xp.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Flow_Music_XP.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "flow_music_1",
+    "name": "Flow Music 1",
+    "logo": "https://bestleague.world/img/flow_music_1.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_1/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Flow_Music_1.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "flow_music_2",
+    "name": "Flow Music 2",
+    "logo": "https://bestleague.world/img/flow_music_2.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Flow_Music_2.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "flow_music_3",
+    "name": "Flow Music 3",
+    "logo": "https://bestleague.world/img/flow_music_3.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_3/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Flow_Music_3.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "rai",
+    "name": "RAI",
+    "logo": "https://bestleague.world/img/rai.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/RAI/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/RAI.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "bloomberg",
+    "name": "Bloomberg",
+    "logo": "https://bestleague.world/img/bloomberg.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Bloomberg/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Bloomberg.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "tv_chile",
+    "name": "TV Chile",
+    "logo": "https://bestleague.world/img/tv_chile.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Tv_Chile.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "tv5_monde",
+    "name": "TV5 Monde",
+    "logo": "https://bestleague.world/img/tv5_monde.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/TV5_Monde/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TV5_Monde.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "antena_3",
+    "name": "Antena 3",
+    "logo": "https://bestleague.world/img/antena_3.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Antena_3/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Antena_3.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "telesur",
+    "name": "Telesur",
+    "logo": "https://bestleague.world/img/telesur.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Telesur/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Telesur.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "cnn_internacional",
+    "name": "CNN Internacional",
+    "logo": "https://bestleague.world/img/cnn_internacional.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/CNN_Internacional/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CNN_Internacional.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "bbc_world_news",
+    "name": "BBC World News",
+    "logo": "https://bestleague.world/img/bbc_world_news.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/BBC_World_News/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/BBC_World_News.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "fox_news",
+    "name": "Fox News",
+    "logo": "https://bestleague.world/img/fox_news.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Fox_News/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Fox_News.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "alljazzera",
+    "name": "Alljazzera",
+    "logo": "https://bestleague.world/img/alljazzera.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Alljazzera/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Alljazzera.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "euronews",
+    "name": "Euronews",
+    "logo": "https://bestleague.world/img/euronews.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Euronews/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Euronews.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "dw",
+    "name": "DW",
+    "logo": "https://bestleague.world/img/dw.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/DW/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DW.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "tv_espana",
+    "name": "TV Espana",
+    "logo": "https://bestleague.world/img/tv_espana.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/TV_Espana/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TV_Espana.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "tv_galicia",
+    "name": "TV Galicia",
+    "logo": "https://bestleague.world/img/tv_galicia.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Tv_Galicia/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Tv_Galicia.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "canal_de_las_estrellas",
+    "name": "Canal De Las Estrellas",
+    "logo": "https://bestleague.world/img/canal_de_las_estrellas.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_de_las_estrellas.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "arirang",
+    "name": "Arirang",
+    "logo": "https://bestleague.world/img/arirang.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Arirang/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Arirang.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "canal_u",
+    "name": "Canal U",
+    "logo": "https://bestleague.world/img/canal_u.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Canal_U/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_U.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "france24_flow",
+    "name": "France24 Flow",
+    "logo": "https://bestleague.world/img/france24_flow.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/France24_Flow/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/France24_Flow.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "france_24",
+    "name": "France 24",
+    "logo": "https://bestleague.world/img/france_24.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/France_24/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/France_24.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "bandeirantes",
+    "name": "Bandeirantes",
+    "logo": "https://bestleague.world/img/bandeirantes.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Bandeirantes/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Bandeirantes.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "rede_record",
+    "name": "Rede Record",
+    "logo": "https://bestleague.world/img/rede_record.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Rede_Record/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Rede_Record.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "dnews",
+    "name": "Dnews",
+    "logo": "https://bestleague.world/img/dnews.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/DNews/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DNews.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "argentinisima",
+    "name": "Argentinisima",
+    "logo": "https://bestleague.world/img/argentinisima.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Argentinisima.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "tv_publica_internacional",
+    "name": "TV Publica Internacional",
+    "logo": "https://bestleague.world/img/tv_publica_internacional.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/TV_Publica_Internacional/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TV_Publica_Internacional.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "telefe_internacional",
+    "name": "Telefe Internacional",
+    "logo": "https://bestleague.world/img/telefe_internacional.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Telefe_Internacional.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "artear_internacional",
+    "name": "Artear Internacional",
+    "logo": "https://bestleague.world/img/artear_internacional.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Artear_Internacional/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Artear_Internacional.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "venus",
+    "name": "Venus",
+    "logo": "https://bestleague.world/img/venus.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Venus/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Venus.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "playboy",
+    "name": "Playboy",
+    "logo": "https://bestleague.world/img/playboy.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Playboy/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Playboy.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "hustler",
+    "name": "Hustler",
+    "logo": "https://bestleague.world/img/hustler.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Hustler/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Hustler.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "sextreme",
+    "name": "Sextreme",
+    "logo": "https://bestleague.world/img/sextreme.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Sextreme/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Sextreme.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "flow_music_xp",
+    "name": "Flow Music XP",
+    "logo": "https://bestleague.world/img/flow_music_xp.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Flow_Music_XP.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "flow_music_1",
+    "name": "Flow Music 1",
+    "logo": "https://bestleague.world/img/flow_music_1.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_1/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Flow_Music_1.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "flow_music_2",
+    "name": "Flow Music 2",
+    "logo": "https://bestleague.world/img/flow_music_2.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Flow_Music_2.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "canal_de_la_ciudad",
+    "name": "Canal De La Ciudad",
+    "logo": "https://bestleague.world/img/canal_de_la_ciudad.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_de_la_ciudad.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "somos_norte",
+    "name": "Somos Norte",
+    "logo": "https://bestleague.world/img/somos_norte.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Somos_Norte.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "somos_la_plata",
+    "name": "Somos La Plata",
+    "logo": "https://bestleague.world/img/somos_la_plata.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Somos_La_Plata/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Somos_La_Plata.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "canal_universidad",
+    "name": "Canal Universidad",
+    "logo": "https://bestleague.world/img/canal_universidad.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Canal_Universidad/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_Universidad.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "somos_san_pedro",
+    "name": "Somos San Pedro",
+    "logo": "https://bestleague.world/img/somos_san_pedro.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Somos_San_Pedro/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Somos_San_Pedro.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "somos_azul",
+    "name": "Somos Azul",
+    "logo": "https://bestleague.world/img/somos_azul.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Somos_Azul/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Somos_Azul.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "canal_10_junin",
+    "name": "Canal 10 Junin",
+    "logo": "https://bestleague.world/img/canal_10_junin.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Canal_10_Junin/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_10_Junin.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "telejunin",
+    "name": "Telejunin",
+    "logo": "https://bestleague.world/img/telejunin.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/TeleJunin/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TeleJunin.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "tsn_necochea",
+    "name": "TSN Necochea",
+    "logo": "https://bestleague.world/img/tsn_necochea.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/TSN_Necochea/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TSN_Necochea.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "somos_balcarce",
+    "name": "Somos Balcarce",
+    "logo": "https://bestleague.world/img/somos_balcarce.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Somos_Balcarce/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Somos_Balcarce.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "telefe_mdq_hd",
+    "name": "Telefe MDQ HD",
+    "logo": "https://bestleague.world/img/telefe_mdq_hd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Telefe_MDQ_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Telefe_MDQ_HD.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "canal_10_mdq",
+    "name": "Canal 10 MDQ",
+    "logo": "https://bestleague.world/img/canal_10_mdq.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_10_MDQ/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_10_MDQ.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "canal_ciudad_mdq",
+    "name": "Canal Ciudad MDQ",
+    "logo": "https://bestleague.world/img/canal_ciudad_mdq.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal_Ciudad_MDQ/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_Ciudad_MDQ.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "canal_2_mdq_lcc",
+    "name": "Canal 2 MDQ LCC",
+    "logo": "https://bestleague.world/img/canal_2_mdq_lcc.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal_2_MDQ_LCC/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_2_MDQ_LCC.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "canal_79_mdq",
+    "name": "Canal 79 MDQ",
+    "logo": "https://bestleague.world/img/canal_79_mdq.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Canal_79_MDQ/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_79_MDQ.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "universidad_mdq",
+    "name": "Universidad MDQ",
+    "logo": "https://bestleague.world/img/universidad_mdq.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Universidad_MDQ/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Universidad_MDQ.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "ecotv_tandil",
+    "name": "Ecotv Tandil",
+    "logo": "https://bestleague.world/img/ecotv_tandil.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/EcoTv_Tandil/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/EcoTv_Tandil.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "somos_bahia_blanca",
+    "name": "Somos Bahia Blanca",
+    "logo": "https://bestleague.world/img/somos_bahia_blanca.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Somos_Bahia_Blanca/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Somos_Bahia_Blanca.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "canal7_bahia_blanca",
+    "name": "Canal7 Bahia Blanca",
+    "logo": "https://bestleague.world/img/canal7_bahia_blanca.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Canal7_Bahia_Blanca/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal7_Bahia_Blanca.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "canal9_bahia_blanca",
+    "name": "Canal9 Bahia Blanca",
+    "logo": "https://bestleague.world/img/canal9_bahia_blanca.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Canal9_Bahia_Blanca/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal9_Bahia_Blanca.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "canal_8_cba",
+    "name": "Canal 8 CBA",
+    "logo": "https://bestleague.world/img/canal_8_cba.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_8_CBA/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_8_CBA.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "canal10_cba_hd",
+    "name": "Canal10 CBA HD",
+    "logo": "https://bestleague.world/img/canal10_cba_hd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal10_CBA_HD.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "canal_12_cba",
+    "name": "Canal 12 CBA",
+    "logo": "https://bestleague.world/img/canal_12_cba.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_12_CBA.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "canal_c",
+    "name": "Canal C",
+    "logo": "https://bestleague.world/img/canal_c.png",
+    "url": "https://cdn.cvattv.com.ar/live/c5eds/Canal_C/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_C.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "cba24",
+    "name": "Cba24",
+    "logo": "https://bestleague.world/img/cba24.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/CBA24/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CBA24.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "show_sports",
+    "name": "Show Sports",
+    "logo": "https://bestleague.world/img/show_sports.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Show_Sports/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Show_Sports.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "local_carlos_paz",
+    "name": "Local Carlos Paz",
+    "logo": "https://bestleague.world/img/local_carlos_paz.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Local_Carlos_Paz/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Local_Carlos_Paz.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "canal_13_rio_4to",
+    "name": "Canal 13 Rio 4to",
+    "logo": "https://bestleague.world/img/canal_13_rio_4to.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal_13_Rio_4to/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_13_Rio_4to.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "somos_villa_maria",
+    "name": "Somos Villa Maria",
+    "logo": "https://bestleague.world/img/somos_villa_maria.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Somos_Villa_Maria/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Somos_Villa_Maria.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "somos_bell_ville",
+    "name": "Somos Bell Ville",
+    "logo": "https://bestleague.world/img/somos_bell_ville.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Somos_Bell_Ville/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Somos_Bell_Ville.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "somos_rio_3ro",
+    "name": "Somos Rio 3ro",
+    "logo": "https://bestleague.world/img/somos_rio_3ro.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Somos_Rio_3ro/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Somos_Rio_3ro.mpd",
+    "group": "CINE Y SERIES",
+    "type": "live"
+  },
+  {
+    "id": "somos_rafaela",
+    "name": "Somos Rafaela",
+    "logo": "https://bestleague.world/img/somos_rafaela.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Somos_Rafaela/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Somos_Rafaela.mpd",
+    "group": "LITORAL",
+    "type": "live"
+  },
+  {
+    "id": "somos_rosario",
+    "name": "Somos Rosario",
+    "logo": "https://bestleague.world/img/somos_rosario.png",
+    "url": "https://cdn.cvattv.com.ar/live/c5eds/Somos_Rosario/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Somos_Rosario.mpd",
+    "group": "LITORAL",
+    "type": "live"
+  },
+  {
+    "id": "canal_3_rosario",
+    "name": "Canal 3 Rosario",
+    "logo": "https://bestleague.world/img/canal_3_rosario.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_3_Rosario.mpd",
+    "group": "LITORAL",
+    "type": "live"
+  },
+  {
+    "id": "canal_5_rosario",
+    "name": "Canal 5 Rosario",
+    "logo": "https://bestleague.world/img/canal_5_rosario.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal_5_Rosario/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_5_Rosario.mpd",
+    "group": "LITORAL",
+    "type": "live"
+  },
+  {
+    "id": "somos_stf",
+    "name": "Somos STF",
+    "logo": "https://bestleague.world/img/somos_stf.png",
+    "url": "https://cdn.cvattv.com.ar/live/c5eds/Somos_STF/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Somos_STF.mpd",
+    "group": "LITORAL",
+    "type": "live"
+  },
+  {
+    "id": "canal_13_sfe",
+    "name": "Canal 13 SFE",
+    "logo": "https://bestleague.world/img/canal_13_sfe.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_13_SFE/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_13_SFE.mpd",
+    "group": "LITORAL",
+    "type": "live"
+  },
+  {
+    "id": "canal_9_parana",
+    "name": "Canal 9 Parana",
+    "logo": "https://bestleague.world/img/canal_9_parana.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_9_Parana/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_9_Parana.mpd",
+    "group": "LITORAL",
+    "type": "live"
+  },
+  {
+    "id": "5rtv",
+    "name": "5rtv",
+    "logo": "https://bestleague.world/img/5rtv.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/5RTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/5RTV.mpd",
+    "group": "LITORAL",
+    "type": "live"
+  },
+  {
+    "id": "cable_y_diario",
+    "name": "Cable Y Diario",
+    "logo": "https://bestleague.world/img/cable_y_diario.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Cable_Y_Diario/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Cable_Y_Diario.mpd",
+    "group": "LITORAL",
+    "type": "live"
+  },
+  {
+    "id": "canal_11_parana",
+    "name": "Canal 11 Parana",
+    "logo": "https://bestleague.world/img/canal_11_parana.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Canal_11_Parana/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_11_Parana.mpd",
+    "group": "LITORAL",
+    "type": "live"
+  },
+  {
+    "id": "somos_parana",
+    "name": "Somos Parana",
+    "logo": "https://bestleague.world/img/somos_parana.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Somos_Parana/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Somos_Parana.mpd",
+    "group": "LITORAL",
+    "type": "live"
+  },
+  {
+    "id": "canal7_sde",
+    "name": "Canal7 SDE",
+    "logo": "https://bestleague.world/img/canal7_sde.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Canal7_SDE/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal7_SDE.mpd",
+    "group": "NORTE",
+    "type": "live"
+  },
+  {
+    "id": "canal7_catamarca",
+    "name": "Canal7 Catamarca",
+    "logo": "https://bestleague.world/img/canal7_catamarca.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal7_Catamarca/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal7_Catamarca.mpd",
+    "group": "NORTE",
+    "type": "live"
+  },
+  {
+    "id": "canal9_la_rioja",
+    "name": "Canal9 La Rioja",
+    "logo": "https://bestleague.world/img/canal9_la_rioja.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal9_La_Rioja/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal9_La_Rioja.mpd",
+    "group": "NORTE",
+    "type": "live"
+  },
+  {
+    "id": "somos_salta",
+    "name": "Somos Salta",
+    "logo": "https://bestleague.world/img/somos_salta.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Somos_Salta/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Somos_Salta.mpd",
+    "group": "NORTE",
+    "type": "live"
+  },
+  {
+    "id": "telefe_salta",
+    "name": "Telefe Salta",
+    "logo": "https://bestleague.world/img/telefe_salta.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Telefe_Salta/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Telefe_Salta.mpd",
+    "group": "NORTE",
+    "type": "live"
+  },
+  {
+    "id": "ch_7_jujuy",
+    "name": "CH 7 Jujuy",
+    "logo": "https://bestleague.world/img/ch_7_jujuy.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/CH_7_Jujuy/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CH_7_Jujuy.mpd",
+    "group": "NORTE",
+    "type": "live"
+  },
+  {
+    "id": "somos_tucuman",
+    "name": "Somos Tucuman",
+    "logo": "https://bestleague.world/img/somos_tucuman.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Somos_Tucuman/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Somos_Tucuman.mpd",
+    "group": "NORTE",
+    "type": "live"
+  },
+  {
+    "id": "canal_8_tucuman",
+    "name": "Canal 8 Tucuman",
+    "logo": "https://bestleague.world/img/canal_8_tucuman.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_8_Tucuman.mpd",
+    "group": "NORTE",
+    "type": "live"
+  },
+  {
+    "id": "ch10_tucuman",
+    "name": "Ch10 Tucuman",
+    "logo": "https://bestleague.world/img/ch10_tucuman.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Ch10_Tucuman/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Ch10_Tucuman.mpd",
+    "group": "NORTE",
+    "type": "live"
+  },
+  {
+    "id": "america_tucuman",
+    "name": "America Tucuman",
+    "logo": "https://bestleague.world/img/america_tucuman.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/America_Tucuman/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/America_Tucuman.mpd",
+    "group": "NORTE",
+    "type": "live"
+  },
+  {
+    "id": "somos_corrientes",
+    "name": "Somos Corrientes",
+    "logo": "https://bestleague.world/img/somos_corrientes.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Somos_Corrientes/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Somos_Corrientes.mpd",
+    "group": "CHACO Y CORRIENTES",
+    "type": "live"
+  },
+  {
+    "id": "somos_resistencia",
+    "name": "Somos Resistencia",
+    "logo": "https://bestleague.world/img/somos_resistencia.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Somos_Resistencia/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Somos_Resistencia.mpd",
+    "group": "CHACO Y CORRIENTES",
+    "type": "live"
+  },
+  {
+    "id": "ch_9_resistencia",
+    "name": "CH 9 Resistencia",
+    "logo": "https://bestleague.world/img/ch_9_resistencia.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/CH_9_Resistencia/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CH_9_Resistencia.mpd",
+    "group": "CHACO Y CORRIENTES",
+    "type": "live"
+  },
+  {
+    "id": "ch_13_corrientes",
+    "name": "CH 13 Corrientes",
+    "logo": "https://bestleague.world/img/ch_13_corrientes.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/CH_13_Corrientes/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CH_13_Corrientes.mpd",
+    "group": "CHACO Y CORRIENTES",
+    "type": "live"
+  },
+  {
+    "id": "telemedia",
+    "name": "Telemedia",
+    "logo": "https://bestleague.world/img/telemedia.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Telemedia/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Telemedia.mpd",
+    "group": "CHACO Y CORRIENTES",
+    "type": "live"
+  },
+  {
+    "id": "somos_formosa",
+    "name": "Somos Formosa",
+    "logo": "https://bestleague.world/img/somos_formosa.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Somos_Formosa/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Somos_Formosa.mpd",
+    "group": "FORMOSA",
+    "type": "live"
+  },
+  {
+    "id": "canal_3_formosa",
+    "name": "Canal 3 Formosa",
+    "logo": "https://bestleague.world/img/canal_3_formosa.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal_3_Formosa/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_3_Formosa.mpd",
+    "group": "FORMOSA",
+    "type": "live"
+  },
+  {
+    "id": "canal_11_formosa",
+    "name": "Canal 11 Formosa",
+    "logo": "https://bestleague.world/img/canal_11_formosa.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal_11_Formosa/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_11_Formosa.mpd",
+    "group": "FORMOSA",
+    "type": "live"
+  },
+  {
+    "id": "somos_misiones",
+    "name": "Somos Misiones",
+    "logo": "https://bestleague.world/img/somos_misiones.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Somos_Misiones/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Somos_Misiones.mpd",
+    "group": "MISIONES",
+    "type": "live"
+  },
+  {
+    "id": "ch_12_posadas",
+    "name": "CH 12 Posadas",
+    "logo": "https://bestleague.world/img/ch_12_posadas.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/CH_12_Posadas/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CH_12_Posadas.mpd",
+    "group": "MISIONES",
+    "type": "live"
+  },
+  {
+    "id": "somos_la_pampa",
+    "name": "Somos La Pampa",
+    "logo": "https://bestleague.world/img/somos_la_pampa.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Somos_La_Pampa/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Somos_La_Pampa.mpd",
+    "group": "LA PAMPA",
+    "type": "live"
+  },
+  {
+    "id": "canal3_santa_rosa",
+    "name": "Canal3 Santa Rosa",
+    "logo": "https://bestleague.world/img/canal3_santa_rosa.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal3_Santa_Rosa/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal3_Santa_Rosa.mpd",
+    "group": "LA PAMPA",
+    "type": "live"
+  },
+  {
+    "id": "somos_el_valle",
+    "name": "Somos El Valle",
+    "logo": "https://bestleague.world/img/somos_el_valle.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Somos_El_Valle/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Somos_El_Valle.mpd",
+    "group": "NEUQUEN",
+    "type": "live"
+  },
+  {
+    "id": "telefe_neuquen",
+    "name": "Telefe Neuquen",
+    "logo": "https://bestleague.world/img/telefe_neuquen.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Telefe_Neuquen/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Telefe_Neuquen.mpd",
+    "group": "NEUQUEN",
+    "type": "live"
+  },
+  {
+    "id": "canal10_rio_negro",
+    "name": "Canal10 Rio Negro",
+    "logo": "https://bestleague.world/img/canal10_rio_negro.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal10_Rio_Negro/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal10_Rio_Negro.mpd",
+    "group": "NEUQUEN",
+    "type": "live"
+  },
+  {
+    "id": "eventos3_uy",
+    "name": "Eventos3 UY",
+    "logo": "https://bestleague.world/img/eventos3_uy.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Eventos3_UY.mpd",
+    "group": "URUGUAY",
+    "type": "live"
+  },
+  {
+    "id": "eventos_2_uy",
+    "name": "Eventos 2 UY",
+    "logo": "https://bestleague.world/img/eventos_2_uy.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Eventos_2_UY.mpd",
+    "group": "URUGUAY",
+    "type": "live"
+  },
+  {
+    "id": "teve_ciudad",
+    "name": "Teve Ciudad",
+    "logo": "https://bestleague.world/img/teve_ciudad.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Teve_Ciudad.mpd",
+    "group": "URUGUAY",
+    "type": "live"
+  },
+  {
+    "id": "tv_nacional_uy",
+    "name": "TV Nacional Uy",
+    "logo": "https://bestleague.world/img/tv_nacional_uy.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TV_Nacional_Uy.mpd",
+    "group": "URUGUAY",
+    "type": "live"
+  },
+  {
+    "id": "canal4_uru",
+    "name": "Canal 4 Uruguay",
+    "logo": "https://bestleague.world/img/canal4_uru.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal4_URU.mpd",
+    "group": "URUGUAY",
+    "type": "live"
+  },
+  {
+    "id": "canal10_uru",
+    "name": "Canal 10 Uruguay",
+    "logo": "https://bestleague.world/img/canal10_uru.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal10_URU/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal10_URU.mpd",
+    "group": "URUGUAY",
+    "type": "live"
+  },
+  {
+    "id": "canal12uru",
+    "name": "Canal 12 Uruguay",
+    "logo": "https://bestleague.world/img/canal12uru.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal12URU/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal12URU.mpd",
+    "group": "URUGUAY",
+    "type": "live"
+  },
+  {
+    "id": "vtv_hd",
+    "name": "VTV HD",
+    "logo": "https://bestleague.world/img/vtv_hd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/VTV_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/VTV_HD.mpd",
+    "group": "URUGUAY",
+    "type": "live"
+  },
+  {
+    "id": "vtv_plus_hd",
+    "name": "VTV Plus HD",
+    "logo": "https://bestleague.world/img/vtv_plus_hd.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/VTV_Plus_HD.mpd",
+    "group": "URUGUAY",
+    "type": "live"
+  },
+  {
+    "id": "eventos_hd_uy",
+    "name": "Eventos HD UY",
+    "logo": "https://bestleague.world/img/eventos_hd_uy.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Eventos_HD_Uy.mpd",
+    "group": "URUGUAY",
+    "type": "live"
+  },
+  {
+    "id": "abc_tv_c4",
+    "name": "ABC TV C4",
+    "logo": "https://bestleague.world/img/abc_tv_c4.png",
+    "url": "https://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ABC_TV_C4.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "c9n_c4",
+    "name": "C9N C4",
+    "logo": "https://bestleague.world/img/c9n_c4.png",
+    "url": "https://cdn.cvattv.com.ar/live/c5eds/C9N_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/C9N_C4.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "paravision_c4",
+    "name": "Paravisión",
+    "logo": "https://bestleague.world/img/paravision_c4.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/PARAVISION_C4.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "noticias_py_c4",
+    "name": "Noticias PY",
+    "logo": "https://bestleague.world/img/noticias_py_c4.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/NOTICIAS_PY_C4.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "telefuturo_c4",
+    "name": "Telefuturo",
+    "logo": "https://bestleague.world/img/telefuturo_c4.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TELEFUTURO_C4.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "unicanal_c4",
+    "name": "Unicanal",
+    "logo": "https://bestleague.world/img/unicanal_c4.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/UNICANAL_C4.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "snt_c4",
+    "name": "SNT C4",
+    "logo": "https://bestleague.world/img/snt_c4.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/SNT_C4.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "rpc_c4",
+    "name": "RPC C4",
+    "logo": "https://bestleague.world/img/rpc_c4.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/RPC_C4.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "la_tele_c4",
+    "name": "La Tele",
+    "logo": "https://bestleague.world/img/la_tele_c4.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/LA_TELE_C4.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "gen_tv",
+    "name": "GEN TV",
+    "logo": "https://bestleague.world/img/gen_tv.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/GEN_TV.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "sur_tv_c4",
+    "name": "SUR TV C4",
+    "logo": "https://bestleague.world/img/sur_tv_c4.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/SUR_TV_C4.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "canal_pro",
+    "name": "Canal PRO",
+    "logo": "https://bestleague.world/img/canal_pro.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Canal_PRO/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_PRO.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "mega_tv",
+    "name": "Mega TV",
+    "logo": "https://bestleague.world/img/mega_tv.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Mega_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Mega_TV.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "5_dias_py",
+    "name": "5 Dias PY",
+    "logo": "https://bestleague.world/img/5_dias_py.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/5_Dias_PY.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "uniontv",
+    "name": "Uniontv",
+    "logo": "https://bestleague.world/img/uniontv.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/UnionTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/UnionTV.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "hei_now",
+    "name": "HEI NOW",
+    "logo": "https://bestleague.world/img/hei_now.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/HEI_NOW/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HEI_NOW.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "venus_media",
+    "name": "Venus Media",
+    "logo": "https://bestleague.world/img/venus_media.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Venus_Media/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Venus_Media.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "tv_camara",
+    "name": "TV Camara",
+    "logo": "https://bestleague.world/img/tv_camara.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/TV_Camara/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TV_Camara.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "paraguay_tv",
+    "name": "Paraguay TV",
+    "logo": "https://bestleague.world/img/paraguay_tv.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Paraguay_TV.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "universo",
+    "name": "Universo",
+    "logo": "https://bestleague.world/img/universo.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Universo/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Universo.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "america_py",
+    "name": "América PY",
+    "logo": "https://bestleague.world/img/america_py.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/America_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/America_PY.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "a24_py",
+    "name": "A24 PY",
+    "logo": "https://bestleague.world/img/a24_py.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/A24_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/A24_PY.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "canal2_py",
+    "name": "Canal2 PY",
+    "logo": "https://bestleague.world/img/canal2_py.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Canal2_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal2_PY.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "nanduti_py",
+    "name": "Nanduti",
+    "logo": "https://bestleague.world/img/nanduti_py.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Nanduti_Py/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Nanduti_Py.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "educanal",
+    "name": "Educanal",
+    "logo": "https://bestleague.world/img/educanal.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Educanal/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Educanal.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "rcc",
+    "name": "RCC",
+    "logo": "https://bestleague.world/img/rcc.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/RCC/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/RCC.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  },
+  {
+    "id": "tv_publica_internacional",
+    "name": "TV Publica Internacional",
+    "logo": "https://bestleague.world/img/tv_publica_internacional.png",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/TV_Publica_Internacional/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TV_Publica_Internacional.mpd",
+    "group": "PARAGUAY",
+    "type": "live"
+  }
+]
