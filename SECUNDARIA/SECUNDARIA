@@ -177,8 +177,8 @@
   },
   {
     "id": "canal_90",
-    "name": "Canal 90",
-    "logo": "https://iptv-org.github.io/logos/canal90.png",
+    "name": "Senado TV",
+    "logo": "https://www.senado.gob.ar/bundles/senadoportal/webNueva/images/hsn25.png",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_90/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_90.mpd",
     "group": "ARGENTINA",
     "type": "live"
