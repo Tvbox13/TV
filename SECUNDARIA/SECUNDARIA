@@ -8,17 +8,9 @@
     "type": "live"
   },
   {
-    "id": "info_mora",
-    "name": "Info Mora",
-    "logo": "https://iptv-org.github.io/logos/default.png",
-    "url": "https://cdn.cvattv.com.ar/live/c4eds/Info_Mora/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Info_Mora.mpd",
-    "group": "ARGENTINA",
-    "type": "live"
-  },
-  {
     "id": "info_flow",
     "name": "Info Flow",
-    "logo": "https://iptv-org.github.io/logos/default.png",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGBg6c8epCS5g/company-logo_200_200/B4DZ2MFAcJH8AM-/0/1776171616741/flow_argentina_logo?e=2147483647&v=beta&t=hIpkpRghaB9lAPJx2O1GIa6UnMTHJnRmB2E8yXrLavs",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/Info_Flow/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Info_Flow.mpd",
     "group": "ARGENTINA",
     "type": "live"
