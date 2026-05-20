@@ -2,7 +2,7 @@
   {
     "id": "americatv",
     "name": "América TV",
-    "logo": "https://iptv-org.github.io/logos/americatv.png",
+    "logo": "https://bestleague.world/img/america.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AmericaTV.mpd",
     "group": "ARGENTINA",
     "type": "live"
@@ -26,7 +26,7 @@
   {
     "id": "metro",
     "name": "Metro",
-    "logo": "https://iptv-org.github.io/logos/metro.png",
+    "logo": "https://bestleague.world/img/metro.png",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Metro/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Metro.mpd",
     "group": "ARGENTINA",
     "type": "live"
@@ -34,7 +34,7 @@
   {
     "id": "telefehd",
     "name": "Telefe",
-    "logo": "https://iptv-org.github.io/logos/telefe.png",
+    "logo": "https://bestleague.world/img/telefe.png",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TelefeHD.mpd",
     "group": "ARGENTINA",
     "type": "live"
@@ -42,15 +42,15 @@
   {
     "id": "canal7",
     "name": "Canal7",
-    "logo": "https://iptv-org.github.io/logos/tvpublica.png",
+    "logo": "https://bestleague.world/img/tvpublica.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal7/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal7.mpd",
     "group": "ARGENTINA",
     "type": "live"
   },
   {
-    "id": "artearhd",
-    "name": "Artearhd",
-    "logo": "https://iptv-org.github.io/logos/eltrece.png",
+    "id": "eltrece",
+    "name": "el trece",
+    "logo": "https://bestleague.world/img/eltrece.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ArtearHD.mpd",
     "group": "ARGENTINA",
     "type": "live"
@@ -58,7 +58,7 @@
   {
     "id": "canal9",
     "name": "Canal9",
-    "logo": "https://iptv-org.github.io/logos/canal9.png",
+    "logo": "https://bestleague.world/img/nueve.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/Canal9/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal9.mpd",
     "group": "ARGENTINA",
     "type": "live"
@@ -66,7 +66,7 @@
   {
     "id": "todonoticias",
     "name": "TN",
-    "logo": "https://iptv-org.github.io/logos/tn.png",
+    "logo": "https://bestleague.world/img/tn.png",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TodoNoticias.mpd",
     "group": "ARGENTINA",
     "type": "live"
@@ -74,7 +74,7 @@
   {
     "id": "la_nacion",
     "name": "La Nación",
-    "logo": "https://iptv-org.github.io/logos/lanacionmas.png",
+    "logo": "https://bestleague.world/img/ln.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/La_Nacion.mpd",
     "group": "ARGENTINA",
     "type": "live"
@@ -82,7 +82,7 @@
   {
     "id": "c5n",
     "name": "C5N",
-    "logo": "https://iptv-org.github.io/logos/c5n.png",
+    "logo": "https://bestleague.world/img/c5n.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/C5N/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/C5N.mpd",
     "group": "ARGENTINA",
     "type": "live"
@@ -90,7 +90,7 @@
   {
     "id": "cronicatv",
     "name": "Crónica TV",
-    "logo": "https://iptv-org.github.io/logos/cronicatv.png",
+    "logo": "https://bestleague.world/img/cronica.png",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CronicaTV.mpd",
     "group": "ARGENTINA",
     "type": "live"
@@ -98,7 +98,7 @@
   {
     "id": "26_tv_hd",
     "name": "26 TV HD",
-    "logo": "https://iptv-org.github.io/logos/canal26.png",
+    "logo": "https://bestleague.world/img/canal26.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/26_TV_HD.mpd",
     "group": "ARGENTINA",
     "type": "live"
@@ -106,7 +106,7 @@
   {
     "id": "america24",
     "name": "América 24",
-    "logo": "https://iptv-org.github.io/logos/a24.png",
+    "logo": "https://bestleague.world/img/a24.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/America24/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/America24.mpd",
     "group": "ARGENTINA",
     "type": "live"
@@ -114,7 +114,7 @@
   {
     "id": "magazine",
     "name": "Magazine",
-    "logo": "https://iptv-org.github.io/logos/magazine.png",
+    "logo": "https://bestleague.world/img/ciudad.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/Magazine/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Magazine.mpd",
     "group": "ARGENTINA",
     "type": "live"
@@ -122,7 +122,7 @@
   {
     "id": "net_tv",
     "name": "Net TV",
-    "logo": "https://iptv-org.github.io/logos/nettv.png",
+    "logo": "https://bestleague.world/img/nettv.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Net_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Net_TV.mpd",
     "group": "ARGENTINA",
     "type": "live"
@@ -130,7 +130,7 @@
   {
     "id": "encuentro",
     "name": "Encuentro",
-    "logo": "https://iptv-org.github.io/logos/encuentro.png",
+    "logo": "https://bestleague.world/img/encuentro.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Encuentro/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Encuentro.mpd",
     "group": "ARGENTINA",
     "type": "live"
@@ -146,7 +146,7 @@
   {
     "id": "investigacion_periodistica",
     "name": "Investigacion Periodistica",
-    "logo": "https://iptv-org.github.io/logos/ip.png",
+    "logo": "https://bestleague.world/img/ip.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Investigacion_Periodistica.mpd",
     "group": "ARGENTINA",
     "type": "live"
@@ -154,7 +154,7 @@
   {
     "id": "bravotv",
     "name": "Bravotv",
-    "logo": "https://iptv-org.github.io/logos/bravo.png",
+    "logo": "https://bestleague.world/img/bravotv.png",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/BravoTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/BravoTV.mpd",
     "group": "ARGENTINA",
     "type": "live"
@@ -162,7 +162,7 @@
   {
     "id": "kzo",
     "name": "KZO",
-    "logo": "https://iptv-org.github.io/logos/kzo.png",
+    "logo": "https://bestleague.world/img/kzowhite.png",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/KZO/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/KZO.mpd",
     "group": "ARGENTINA",
     "type": "live"
@@ -170,7 +170,7 @@
   {
     "id": "diputados_tv",
     "name": "Diputados TV",
-    "logo": "https://iptv-org.github.io/logos/diputados.png",
+    "logo": "https://bestleague.world/img/dtv.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Diputados_TV.mpd",
     "group": "ARGENTINA",
     "type": "live"
@@ -194,7 +194,7 @@
   {
     "id": "deportvhd",
     "name": "Deportvhd",
-    "logo": "https://iptv-org.github.io/logos/deportv.png",
+    "logo": "https://bestleague.world/img/deportv.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DeporTVHD.mpd",
     "group": "DEPORTES",
     "type": "live"
@@ -202,7 +202,7 @@
   {
     "id": "tycsport",
     "name": "TyC Sports",
-    "logo": "https://iptv-org.github.io/logos/tycsports.png",
+    "logo": "https://bestleague.world/img/tyc.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/TyCSport/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TyCSport.mpd",
     "group": "DEPORTES",
     "type": "live"
@@ -210,7 +210,7 @@
   {
     "id": "espn2hd",
     "name": "Espn2hd",
-    "logo": "https://iptv-org.github.io/logos/espn2.png",
+    "logo": "https://bestleague.world/img/espn2.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2HD.mpd",
     "group": "DEPORTES",
     "type": "live"
@@ -218,7 +218,7 @@
   {
     "id": "espn2_arg",
     "name": "Espn2 ARG",
-    "logo": "https://iptv-org.github.io/logos/espn2.png",
+    "logo": "https://bestleague.world/img/espn2.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2_Arg.mpd",
     "group": "DEPORTES",
     "type": "live"
@@ -226,7 +226,7 @@
   {
     "id": "espn3",
     "name": "Espn3",
-    "logo": "https://iptv-org.github.io/logos/espn3.png",
+    "logo": "https://bestleague.world/img/espn3.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPN3/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN3.mpd",
     "group": "DEPORTES",
     "type": "live"
@@ -234,7 +234,7 @@
   {
     "id": "espnhd",
     "name": "Espnhd",
-    "logo": "https://iptv-org.github.io/logos/espn.png",
+    "logo": "https://bestleague.world/img/espn.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPNHD.mpd",
     "group": "DEPORTES",
     "type": "live"
@@ -250,7 +250,7 @@
   {
     "id": "espn_py",
     "name": "Espn PY",
-    "logo": "https://iptv-org.github.io/logos/espn.png",
+    "logo": "https://bestleague.world/img/espn.webp",
     "url": "https://cdn.cvattv.com.ar/live/c4eds/ESPN_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN_PY.mpd",
     "group": "DEPORTES",
     "type": "live"
@@ -258,7 +258,7 @@
   {
     "id": "espn_uy",
     "name": "Espn UY",
-    "logo": "https://iptv-org.github.io/logos/espn.png",
+    "logo": "https://bestleague.world/img/espn.webp",
     "url": "https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN_UY.mpd",
     "group": "DEPORTES",
     "type": "live"
@@ -266,7 +266,7 @@
   {
     "id": "espn2_py",
     "name": "Espn2 PY",
-    "logo": "https://iptv-org.github.io/logos/espn2.png",
+    "logo": "https://bestleague.world/img/espn2.webp",
     "url": "https://cdn.cvattv.com.ar/live/c4eds/ESPN2_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2_PY.mpd",
     "group": "DEPORTES",
     "type": "live"
@@ -274,7 +274,7 @@
   {
     "id": "espn2_uy",
     "name": "Espn2 UY",
-    "logo": "https://iptv-org.github.io/logos/espn2.png",
+    "logo": "https://bestleague.world/img/espn2.webp",
     "url": "https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2_UY.mpd",
     "group": "DEPORTES",
     "type": "live"
@@ -282,7 +282,7 @@
   {
     "id": "espn3_uy-py",
     "name": "Espn3 Uy-py",
-    "logo": "https://iptv-org.github.io/logos/espn3.png",
+    "logo": "https://bestleague.world/img/espn3.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN3_Uy-Py.mpd",
     "group": "DEPORTES",
     "type": "live"
@@ -298,7 +298,7 @@
   {
     "id": "espn4",
     "name": "Espn4",
-    "logo": "https://iptv-org.github.io/logos/espn4.png",
+    "logo": "https://bestleague.world/img/espn4.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/ESPN4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN4.mpd",
     "group": "DEPORTES",
     "type": "live"
@@ -306,7 +306,7 @@
   {
     "id": "foxsports3_uy",
     "name": "Foxsports3 UY",
-    "logo": "https://iptv-org.github.io/logos/foxsports3.png",
+    "logo": "https://bestleague.world/img/foxsports3.png",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports3_UY.mpd",
     "group": "DEPORTES",
     "type": "live"
@@ -314,7 +314,7 @@
   {
     "id": "foxsports2_uy",
     "name": "Foxsports2 UY",
-    "logo": "https://iptv-org.github.io/logos/foxsports2.png",
+    "logo": "https://bestleague.world/img/foxsports2.png",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports2_UY.mpd",
     "group": "DEPORTES",
     "type": "live"
@@ -322,7 +322,7 @@
   {
     "id": "foxsports",
     "name": "Foxsports",
-    "logo": "https://iptv-org.github.io/logos/foxsports.png",
+    "logo": "https://bestleague.world/img/foxsports.png",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports.mpd",
     "group": "DEPORTES",
     "type": "live"
@@ -330,7 +330,7 @@
   {
     "id": "foxsports2hd",
     "name": "Foxsports2hd",
-    "logo": "https://iptv-org.github.io/logos/foxsports2.png",
+    "logo": "https://bestleague.world/img/foxsports2.png",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports2HD.mpd",
     "group": "DEPORTES",
     "type": "live"
@@ -338,7 +338,7 @@
   {
     "id": "foxsports3hd",
     "name": "Foxsports3hd",
-    "logo": "https://iptv-org.github.io/logos/foxsports3.png",
+    "logo": "https://bestleague.world/img/foxsports3.png",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports3HD.mpd",
     "group": "DEPORTES",
     "type": "live"
@@ -346,7 +346,7 @@
   {
     "id": "nba_tv",
     "name": "NBA TV",
-    "logo": "https://iptv-org.github.io/logos/nbatv.png",
+    "logo": "https://bestleague.world/img/nba.png",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/NBA_TV.mpd",
     "group": "DEPORTES",
     "type": "live"
@@ -370,7 +370,7 @@
   {
     "id": "discoveryturbo",
     "name": "Discoveryturbo",
-    "logo": "https://iptv-org.github.io/logos/discoveryturbo.png",
+    "logo": "https://bestleague.world/img/turbo.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DiscoveryTurbo.mpd",
     "group": "DEPORTES",
     "type": "live"
@@ -434,7 +434,7 @@
   {
     "id": "fox_sports_premiun_hd",
     "name": "Fox Sports Premiun HD",
-    "logo": "https://iptv-org.github.io/logos/foxsports.png",
+    "logo": "https://bestleague.world/img/foxsports.png",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Fox_Sports_Premiun_HD.mpd",
     "group": "DEPORTES",
     "type": "live"
@@ -442,7 +442,7 @@
   {
     "id": "tnt_sports_hd",
     "name": "TNT Sports HD",
-    "logo": "https://iptv-org.github.io/logos/tntsports.png",
+    "logo": "https://gollibre.com/img/tntsports.png",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TNT_Sports_HD.mpd",
     "group": "DEPORTES",
     "type": "live"
@@ -450,7 +450,7 @@
   {
     "id": "tyc_internacional",
     "name": "TyC Internacional",
-    "logo": "https://iptv-org.github.io/logos/tycsports.png",
+    "logo": "https://bestleague.world/img/tyc.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TyC_Internacional.mpd",
     "group": "DEPORTES",
     "type": "live"
@@ -466,7 +466,7 @@
   {
     "id": "disneychannelhd",
     "name": "Disney Channel",
-    "logo": "https://iptv-org.github.io/logos/disneychannel.png",
+    "logo": "https://bestleague.world/img/disney.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DisneyChannelHD.mpd",
     "group": "INFANTILES",
     "type": "live"
@@ -474,7 +474,7 @@
   {
     "id": "nickelodeon",
     "name": "Nickelodeon",
-    "logo": "https://iptv-org.github.io/logos/nickelodeon.png",
+    "logo": "https://bestleague.world/img/nick.png",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Nickelodeon.mpd",
     "group": "INFANTILES",
     "type": "live"
@@ -482,7 +482,7 @@
   {
     "id": "cartoonnetwork",
     "name": "Cartoon Network",
-    "logo": "https://iptv-org.github.io/logos/cartoonnetwork.png",
+    "logo": "https://bestleague.world/img/cn.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CartoonNetwork.mpd",
     "group": "INFANTILES",
     "type": "live"
@@ -490,7 +490,7 @@
   {
     "id": "dreamworks",
     "name": "Dreamworks",
-    "logo": "https://iptv-org.github.io/logos/dreamworks.png",
+    "logo": "https://bestleague.world/img/dream.png",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Dreamworks.mpd",
     "group": "INFANTILES",
     "type": "live"
@@ -498,7 +498,7 @@
   {
     "id": "discovery_kids",
     "name": "Discovery Kids",
-    "logo": "https://iptv-org.github.io/logos/discoverykids.png",
+    "logo": "https://bestleague.world/img/diskids.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Discovery_Kids.mpd",
     "group": "INFANTILES",
     "type": "live"
@@ -506,7 +506,7 @@
   {
     "id": "boomerang",
     "name": "Boomerang",
-    "logo": "https://iptv-org.github.io/logos/boomerang.png",
+    "logo": "https://bestleague.world/img/cart.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/Boomerang/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Boomerang.mpd",
     "group": "INFANTILES",
     "type": "live"
@@ -514,7 +514,7 @@
   {
     "id": "disneyjr",
     "name": "Disney Jr",
-    "logo": "https://iptv-org.github.io/logos/disneyjr.png",
+    "logo": "https://bestleague.world/img/disneyjr.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DisneyJr.mpd",
     "group": "INFANTILES",
     "type": "live"
@@ -538,7 +538,7 @@
   {
     "id": "nick_jr",
     "name": "Nick Jr",
-    "logo": "https://iptv-org.github.io/logos/nickjr.png",
+    "logo": "https://bestleague.world/img/nickjr.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Nick_Jr.mpd",
     "group": "INFANTILES",
     "type": "live"
@@ -570,7 +570,7 @@
   {
     "id": "cinemax",
     "name": "Cinemax",
-    "logo": "https://iptv-org.github.io/logos/cinemax.png",
+    "logo": "https://bestleague.world/img/cinemax.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Cinemax/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Cinemax.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -578,7 +578,7 @@
   {
     "id": "volver",
     "name": "Volver",
-    "logo": "https://iptv-org.github.io/logos/volver.png",
+    "logo": "https://bestleague.world/img/volver.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Volver/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Volver.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -586,7 +586,7 @@
   {
     "id": "space",
     "name": "Space",
-    "logo": "https://iptv-org.github.io/logos/space.png",
+    "logo": "https://bestleague.world/img/space.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/Space/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Space.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -594,7 +594,7 @@
   {
     "id": "cinecanalhd",
     "name": "Cinecanal",
-    "logo": "https://iptv-org.github.io/logos/cinecanal.png",
+    "logo": "https://bestleague.world/img/cinecanal.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CinecanalHD.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -602,7 +602,7 @@
   {
     "id": "tnt_hd_arg",
     "name": "TNT HD",
-    "logo": "https://iptv-org.github.io/logos/tnt.png",
+    "logo": "https://bestleague.world/img/tnt.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TNT_HD_Arg.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -610,7 +610,7 @@
   {
     "id": "tntseries",
     "name": "TNT Series",
-    "logo": "https://iptv-org.github.io/logos/tntseries.png",
+    "logo": "https://bestleague.world/img/tntseries.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TNTSeries.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -618,7 +618,7 @@
   {
     "id": "fxhd",
     "name": "FX HD",
-    "logo": "https://iptv-org.github.io/logos/fx.png",
+    "logo": "https://bestleague.world/img/fx.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/FXHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FXHD.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -626,7 +626,7 @@
   {
     "id": "foxhd",
     "name": "FOX HD",
-    "logo": "https://iptv-org.github.io/logos/foxhd.png",
+    "logo": "https://bestleague.world/img/star.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/FOXHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FOXHD.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -634,7 +634,7 @@
   {
     "id": "sonyhd",
     "name": "Sony HD",
-    "logo": "https://iptv-org.github.io/logos/sonyhd.png",
+    "logo": "https://bestleague.world/img/sony.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/SonyHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/SonyHD.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -642,7 +642,7 @@
   {
     "id": "warnerhd",
     "name": "Warner HD",
-    "logo": "https://iptv-org.github.io/logos/warnerhd.png",
+    "logo": "https://bestleague.world/img/warner.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/WarnerHD.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -650,7 +650,7 @@
   {
     "id": "universal_channel_hd",
     "name": "Universal Channel HD",
-    "logo": "https://iptv-org.github.io/logos/universal_channel_hd.png",
+    "logo": "https://bestleague.world/img/studio.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Universal_Channel_HD.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -658,7 +658,7 @@
   {
     "id": "axnhd",
     "name": "Axnhd",
-    "logo": "https://iptv-org.github.io/logos/axnhd.png",
+    "logo": "https://bestleague.world/img/axn.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/AXNHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AXNHD.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -666,7 +666,7 @@
   {
     "id": "studio_universal",
     "name": "Studio Universal",
-    "logo": "https://iptv-org.github.io/logos/studio_universal.png",
+    "logo": "https://bestleague.world/img/studio.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Studio_Universal.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -674,7 +674,7 @@
   {
     "id": "aehd",
     "name": "Aehd",
-    "logo": "https://iptv-org.github.io/logos/aehd.png",
+    "logo": "https://bestleague.world/img/ae.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/AEHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AEHD.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -698,7 +698,7 @@
   {
     "id": "tcm",
     "name": "TCM",
-    "logo": "https://iptv-org.github.io/logos/tcm.png",
+    "logo": "https://bestleague.world/img/tcm.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/TCM/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TCM.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -706,7 +706,7 @@
   {
     "id": "amc",
     "name": "AMC",
-    "logo": "https://iptv-org.github.io/logos/amc.png",
+    "logo": "https://bestleague.world/img/amc.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/AMC/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AMC.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -714,7 +714,7 @@
   {
     "id": "amc_series",
     "name": "AMC Series",
-    "logo": "https://iptv-org.github.io/logos/amc_series.png",
+    "logo": "https://bestleague.world/img/amc.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/AMC_Series/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AMC_Series.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -722,7 +722,7 @@
   {
     "id": "a3_series",
     "name": "A3 Series",
-    "logo": "https://iptv-org.github.io/logos/a3_series.png",
+    "logo": "https://bestleague.world/img/a3cine.png",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/A3_Series/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/A3_Series.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -730,7 +730,7 @@
   {
     "id": "golden",
     "name": "Golden",
-    "logo": "https://iptv-org.github.io/logos/golden.png",
+    "logo": "https://bestleague.world/img/Logo_Golden_TV.svg",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Golden/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Golden.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -754,7 +754,7 @@
   {
     "id": "id",
     "name": "ID",
-    "logo": "https://iptv-org.github.io/logos/id.png",
+    "logo": "https://bestleague.world/img/id.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/ID/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ID.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -762,7 +762,7 @@
   {
     "id": "comedycentral",
     "name": "Comedycentral",
-    "logo": "https://iptv-org.github.io/logos/comedycentral.png",
+    "logo": "https://bestleague.world/img/comedy.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ComedyCentral.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -770,7 +770,7 @@
   {
     "id": "paramount",
     "name": "Paramount",
-    "logo": "https://iptv-org.github.io/logos/paramount.png",
+    "logo": "https://bestleague.world/img/paramount.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/Paramount/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Paramount.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -778,7 +778,7 @@
   {
     "id": "a3_cine",
     "name": "A3 Cine",
-    "logo": "https://iptv-org.github.io/logos/a3_cine.png",
+    "logo": "https://bestleague.world/img/a3cine.png",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/A3_Cine/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/A3_Cine.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -802,7 +802,7 @@
   {
     "id": "telemundo_hd",
     "name": "Telemundo HD",
-    "logo": "https://iptv-org.github.io/logos/telemundo_hd.png",
+    "logo": "https://bestleague.world/img/telemundo.png",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Telemundo_HD.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -810,7 +810,7 @@
   {
     "id": "tbs",
     "name": "TBS",
-    "logo": "https://iptv-org.github.io/logos/tbs.png",
+    "logo": "https://bestleague.world/img/tntnovelas.png",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/TBS/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TBS.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -818,7 +818,7 @@
   {
     "id": "telenovelas",
     "name": "Telenovelas",
-    "logo": "https://iptv-org.github.io/logos/telenovelas.png",
+    "logo": "https://bestleague.world/img/tntnovelas.png",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Telenovelas/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Telenovelas.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -826,7 +826,7 @@
   {
     "id": "adult_swim",
     "name": "Adult Swim",
-    "logo": "https://iptv-org.github.io/logos/adult_swim.png",
+    "logo": "https://bestleague.world/img/adults.png",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Adult_Swim.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -850,7 +850,7 @@
   {
     "id": "hbohd",
     "name": "Hbohd",
-    "logo": "https://iptv-org.github.io/logos/hbohd.png",
+    "logo": "https://bestleague.world/img/hbo.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/HBOHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBOHD.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -858,7 +858,7 @@
   {
     "id": "hbo_2",
     "name": "HBO 2",
-    "logo": "https://iptv-org.github.io/logos/hbo_2.png",
+    "logo": "https://bestleague.world/img/hbo2.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_2/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBO_2.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -866,7 +866,7 @@
   {
     "id": "hbo_plus",
     "name": "HBO Plus",
-    "logo": "https://iptv-org.github.io/logos/hbo_plus.png",
+    "logo": "https://bestleague.world/img/hboplus.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBO_Plus.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -874,7 +874,7 @@
   {
     "id": "hbo_mundi",
     "name": "HBO Mundi",
-    "logo": "https://iptv-org.github.io/logos/hbo_mundi.png",
+    "logo": "https://bestleague.world/img/hboxtreme.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBO_Mundi.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -882,7 +882,7 @@
   {
     "id": "hbo_pop",
     "name": "HBO POP",
-    "logo": "https://iptv-org.github.io/logos/hbo_pop.png",
+    "logo": "https://bestleague.world/img/hbopop.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBO_POP.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -890,7 +890,7 @@
   {
     "id": "hbo_extreme",
     "name": "HBO Extreme",
-    "logo": "https://iptv-org.github.io/logos/hbo_extreme.png",
+    "logo": "https://bestleague.world/img/hboxtreme.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBO_Extreme.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -898,7 +898,7 @@
   {
     "id": "hbo_family",
     "name": "HBO Family",
-    "logo": "https://iptv-org.github.io/logos/hbo_family.png",
+    "logo": "https://bestleague.world/img/hbofam.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBO_Family.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -906,7 +906,7 @@
   {
     "id": "hbo_signature",
     "name": "HBO Signature",
-    "logo": "https://iptv-org.github.io/logos/hbo_signature.png",
+    "logo": "https://bestleague.world/img/hbosig.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBO_Signature.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -914,7 +914,7 @@
   {
     "id": "universal_premiere",
     "name": "Universal Premiere",
-    "logo": "https://iptv-org.github.io/logos/universal_premiere.png",
+    "logo": "https://bestleague.world/img/universalpremiere.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Universal_Premiere.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -922,7 +922,7 @@
   {
     "id": "universal_cinema",
     "name": "Universal Cinema",
-    "logo": "https://iptv-org.github.io/logos/universal_cinema.png",
+    "logo": "https://bestleague.world/img/universalcinema.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Universal_Cinema.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -930,7 +930,7 @@
   {
     "id": "universal_comedy",
     "name": "Universal Comedy",
-    "logo": "https://iptv-org.github.io/logos/universal_comedy.png",
+    "logo": "https://bestleague.world/img/universalcomedy.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Universal_Comedy.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -938,7 +938,7 @@
   {
     "id": "universal_crime",
     "name": "Universal Crime",
-    "logo": "https://iptv-org.github.io/logos/universal_crime.png",
+    "logo": "https://bestleague.world/img/universalcrime.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/universal_Crime/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/universal_Crime.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -946,7 +946,7 @@
   {
     "id": "universal_reality",
     "name": "Universal Reality",
-    "logo": "https://iptv-org.github.io/logos/universal_reality.png",
+    "logo": "https://bestleague.world/img/universalreality.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Universal_Reality.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -954,7 +954,7 @@
   {
     "id": "lifetime",
     "name": "Lifetime",
-    "logo": "https://iptv-org.github.io/logos/lifetime.png",
+    "logo": "https://bestleague.world/img/lifetime.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Lifetime/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Lifetime.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -962,7 +962,7 @@
   {
     "id": "gourmet",
     "name": "Gourmet",
-    "logo": "https://iptv-org.github.io/logos/gourmet.png",
+    "logo": "https://bestleague.world/img/Group.svg",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/Gourmet/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Gourmet.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -970,7 +970,7 @@
   {
     "id": "food_network",
     "name": "Food Network",
-    "logo": "https://iptv-org.github.io/logos/food_network.png",
+    "logo": "https://bestleague.world/img/food.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Food_Network/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Food_Network.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -978,7 +978,7 @@
   {
     "id": "e_entertainment_television",
     "name": "E Entertainment Television",
-    "logo": "https://iptv-org.github.io/logos/e_entertainment_television.png",
+    "logo": "https://bestleague.world/img/e.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/E_Entertainment_Television/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/E_Entertainment_Television.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -986,7 +986,7 @@
   {
     "id": "discoveryhomehealthhd",
     "name": "Discoveryhomehealthhd",
-    "logo": "https://iptv-org.github.io/logos/discoveryhomehealthhd.png",
+    "logo": "https://bestleague.world/img/hyh.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DiscoveryHomeHealthHD.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -994,7 +994,7 @@
   {
     "id": "tlc",
     "name": "TLC",
-    "logo": "https://iptv-org.github.io/logos/tlc.png",
+    "logo": "https://bestleague.world/img/tlc.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/TLC/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TLC.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1018,7 +1018,7 @@
   {
     "id": "canal_rural",
     "name": "Canal Rural",
-    "logo": "https://iptv-org.github.io/logos/canal_rural.png",
+    "logo": "https://bestleague.world/img/rural.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_Rural/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_Rural.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1026,7 +1026,7 @@
   {
     "id": "latam_rural",
     "name": "Latam Rural",
-    "logo": "https://iptv-org.github.io/logos/latam_rural.png",
+    "logo": "https://bestleague.world/img/rural.webp",
     "url": "https://cdn.cvattv.com.ar/live/c4eds/Latam_Rural/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Latam_Rural.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1034,7 +1034,7 @@
   {
     "id": "sun_channel",
     "name": "Sun Channel",
-    "logo": "https://iptv-org.github.io/logos/sun_channel.png",
+    "logo": "https://bestleague.world/img/sun.png",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Sun_Channel.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1042,7 +1042,7 @@
   {
     "id": "telemax",
     "name": "Telemax",
-    "logo": "https://iptv-org.github.io/logos/telemax.png",
+    "logo": "https://bestleague.world/img/telemax.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Telemax/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Telemax.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1090,7 +1090,7 @@
   {
     "id": "natgeohd",
     "name": "Natgeohd",
-    "logo": "https://iptv-org.github.io/logos/natgeohd.png",
+    "logo": "https://bestleague.world/img/natgeo.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/NatGeoHD.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1098,7 +1098,7 @@
   {
     "id": "discoveryhd",
     "name": "Discoveryhd",
-    "logo": "https://iptv-org.github.io/logos/discoveryhd.png",
+    "logo": "https://bestleague.world/img/discovery.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DiscoveryHD.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1106,7 +1106,7 @@
   {
     "id": "animalplanet",
     "name": "Animalplanet",
-    "logo": "https://iptv-org.github.io/logos/animalplanet.png",
+    "logo": "https://bestleague.world/img/aplanet.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AnimalPlanet.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1114,7 +1114,7 @@
   {
     "id": "theater_hd",
     "name": "Theater HD",
-    "logo": "https://iptv-org.github.io/logos/theater_hd.png",
+    "logo": "https://bestleague.world/img/distheater.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Theater_HD.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1122,7 +1122,7 @@
   {
     "id": "historyhd",
     "name": "Historyhd",
-    "logo": "https://iptv-org.github.io/logos/historyhd.png",
+    "logo": "https://bestleague.world/img/history.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HistoryHD.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1138,7 +1138,7 @@
   {
     "id": "film_arts",
     "name": "Film Arts",
-    "logo": "https://iptv-org.github.io/logos/film_arts.png",
+    "logo": "https://bestleague.world/img/film.png",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Film_Arts/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Film_Arts.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1146,7 +1146,7 @@
   {
     "id": "history_2",
     "name": "History 2",
-    "logo": "https://iptv-org.github.io/logos/history_2.png",
+    "logo": "https://bestleague.world/img/history2.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/History_2/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/History_2.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1154,7 +1154,7 @@
   {
     "id": "discovery_world_hd",
     "name": "Discovery World HD",
-    "logo": "https://iptv-org.github.io/logos/discovery_world_hd.png",
+    "logo": "https://bestleague.world/img/disworld.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_World_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Discovery_World_HD.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1162,7 +1162,7 @@
   {
     "id": "discovery_science",
     "name": "Discovery Science",
-    "logo": "https://iptv-org.github.io/logos/discovery_science.png",
+    "logo": "https://bestleague.world/img/disscience.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Discovery_Science.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1242,7 +1242,7 @@
   {
     "id": "flow_music_xp",
     "name": "Flow Music XP",
-    "logo": "https://iptv-org.github.io/logos/flow_music_xp.png",
+    "logo": "https://bestleague.world/img/flowmusic.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Flow_Music_XP.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1250,7 +1250,7 @@
   {
     "id": "flow_music_1",
     "name": "Flow Music 1",
-    "logo": "https://iptv-org.github.io/logos/flow_music_1.png",
+    "logo": "https://bestleague.world/img/flowmusic.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_1/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Flow_Music_1.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1258,7 +1258,7 @@
   {
     "id": "flow_music_2",
     "name": "Flow Music 2",
-    "logo": "https://iptv-org.github.io/logos/flow_music_2.png",
+    "logo": "https://bestleague.world/img/flowmusic.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Flow_Music_2.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1266,7 +1266,7 @@
   {
     "id": "flow_music_3",
     "name": "Flow Music 3",
-    "logo": "https://iptv-org.github.io/logos/flow_music_3.png",
+    "logo": "https://bestleague.world/img/flowmusic.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_3/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Flow_Music_3.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1386,7 +1386,7 @@
   {
     "id": "canal_de_las_estrellas",
     "name": "Canal De Las Estrellas",
-    "logo": "https://iptv-org.github.io/logos/canal_de_las_estrellas.png",
+    "logo": "https://bestleague.world/img/estrellas.png",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_de_las_estrellas.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1450,7 +1450,7 @@
   {
     "id": "argentinisima",
     "name": "Argentinisima",
-    "logo": "https://iptv-org.github.io/logos/argentinisima.png",
+    "logo": "https://bestleague.world/img/arsat.png",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Argentinisima.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1458,7 +1458,7 @@
   {
     "id": "tv_publica_internacional",
     "name": "TV Publica Internacional",
-    "logo": "https://iptv-org.github.io/logos/tv_publica_internacional.png",
+    "logo": "https://bestleague.world/img/tvpublica.webp",
     "url": "https://cdn.cvattv.com.ar/live/c4eds/TV_Publica_Internacional/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TV_Publica_Internacional.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1466,7 +1466,7 @@
   {
     "id": "telefe_internacional",
     "name": "Telefe Internacional",
-    "logo": "https://iptv-org.github.io/logos/telefe_internacional.png",
+    "logo": "https://bestleague.world/img/telefe.png",
     "url": "https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Telefe_Internacional.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1474,7 +1474,7 @@
   {
     "id": "artear_internacional",
     "name": "Artear Internacional",
-    "logo": "https://iptv-org.github.io/logos/artear_internacional.png",
+    "logo": "https://bestleague.world/img/eltrece.webp",
     "url": "https://cdn.cvattv.com.ar/live/c4eds/Artear_Internacional/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Artear_Internacional.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1514,7 +1514,7 @@
   {
     "id": "canal_de_la_ciudad",
     "name": "Canal De La Ciudad",
-    "logo": "https://iptv-org.github.io/logos/canal_de_la_ciudad.png",
+    "logo": "https://bestleague.world/img/canaldelaciudad.webp",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_de_la_ciudad.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1594,7 +1594,7 @@
   {
     "id": "telefe_mdq_hd",
     "name": "Telefe MDQ HD",
-    "logo": "https://iptv-org.github.io/logos/telefe_mdq_hd.png",
+    "logo": "https://bestleague.world/img/telefe.png",
     "url": "https://cdn.cvattv.com.ar/live/c4eds/Telefe_MDQ_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Telefe_MDQ_HD.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1690,7 +1690,7 @@
   {
     "id": "canal_12_cba",
     "name": "Canal 12 CBA",
-    "logo": "https://iptv-org.github.io/logos/canal_12_cba.png",
+    "logo": "https://bestleague.world/img/docor.png",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_12_CBA.mpd",
     "group": "CINE Y SERIES",
     "type": "live"
@@ -1882,7 +1882,7 @@
   {
     "id": "telefe_salta",
     "name": "Telefe Salta",
-    "logo": "https://iptv-org.github.io/logos/telefe_salta.png",
+    "logo": "https://bestleague.world/img/telefe.png",
     "url": "https://cdn.cvattv.com.ar/live/c4eds/Telefe_Salta/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Telefe_Salta.mpd",
     "group": "NORTE",
     "type": "live"
@@ -1922,7 +1922,7 @@
   {
     "id": "america_tucuman",
     "name": "America Tucuman",
-    "logo": "https://iptv-org.github.io/logos/america_tucuman.png",
+    "logo": "https://bestleague.world/img/america.webp",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/America_Tucuman/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/America_Tucuman.mpd",
     "group": "NORTE",
     "type": "live"
@@ -2034,7 +2034,7 @@
   {
     "id": "telefe_neuquen",
     "name": "Telefe Neuquen",
-    "logo": "https://iptv-org.github.io/logos/telefe_neuquen.png",
+    "logo": "https://bestleague.world/img/telefe.png",
     "url": "https://cdn.cvattv.com.ar/live/c4eds/Telefe_Neuquen/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Telefe_Neuquen.mpd",
     "group": "NEUQUEN",
     "type": "live"
@@ -2106,7 +2106,7 @@
   {
     "id": "vtv_hd",
     "name": "VTV HD",
-    "logo": "https://iptv-org.github.io/logos/vtv.png",
+    "logo": "https://bestleague.world/img/vtv.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/VTV_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/VTV_HD.mpd",
     "group": "URUGUAY",
     "type": "live"
@@ -2114,7 +2114,7 @@
   {
     "id": "vtv_plus_hd",
     "name": "VTV Plus HD",
-    "logo": "https://iptv-org.github.io/logos/vtvplus.png",
+    "logo": "https://bestleague.world/img/vtv.webp",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/VTV_Plus_HD.mpd",
     "group": "URUGUAY",
     "type": "live"
@@ -2290,7 +2290,7 @@
   {
     "id": "america_py",
     "name": "América PY",
-    "logo": "https://iptv-org.github.io/logos/americapy.png",
+    "logo": "https://bestleague.world/img/america.webp",
     "url": "https://cdn.cvattv.com.ar/live/c4eds/America_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/America_PY.mpd",
     "group": "PARAGUAY",
     "type": "live"
@@ -2298,7 +2298,7 @@
   {
     "id": "a24_py",
     "name": "A24 PY",
-    "logo": "https://iptv-org.github.io/logos/a24.png",
+    "logo": "https://bestleague.world/img/a24.webp",
     "url": "https://cdn.cvattv.com.ar/live/c4eds/A24_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/A24_PY.mpd",
     "group": "PARAGUAY",
     "type": "live"
