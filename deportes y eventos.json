@@ -1,40 +1,7 @@
 [
   {
-    "title": "BOXEO: Dmitry Bivol vs Michael Eifert - ESPN 7",
-    "url": "https://cgxheq.fubohd.com:443/espn7/mono.m3u8?token=5148f7b2e87bb77ca35146a15d1282f8bc29ee5e-d0-1780166042-1780148042",
-    "type": "event",
-    "source": "https://tvtvhd.com/canales.php?stream=espn7",
-    "country": "Boxeo",
-    "event_description": "BOXEO: Dmitry Bivol vs Michael Eifert",
-    "event_hour": "12:00",
-    "event_date": "2026-05-30",
-    "embed_name": "ESPN 7"
-  },
-  {
-    "title": "BOXEO: Dmitry Bivol vs Michael Eifert - ESPN 7 | OP2",
-    "url": "https://a2vlca.fubohd.com:443/espn7/mono.m3u8?token=b8cfa7c27542c1f6b6e1a80f07a452bc999656fb-7b-1780166042-1780148042",
-    "type": "event",
-    "source": "https://tvtvhd.com/vivo/canal.php?stream=espn7",
-    "country": "Boxeo",
-    "event_description": "BOXEO: Dmitry Bivol vs Michael Eifert",
-    "event_hour": "12:00",
-    "event_date": "2026-05-30",
-    "embed_name": "ESPN 7 | OP2"
-  },
-  {
-    "title": "BOXEO: Dmitry Bivol vs Michael Eifert - ESPN 7 | OP3",
-    "url": "https://cgxheq.fubohd.com:443/espn7/mono.m3u8?token=e07b0d01afc2f49d663dacfbfe00bf3b6101b2c2-c3-1780166042-1780148042",
-    "type": "event",
-    "source": "https://tvtvhd.com/vivo/canales.php?stream=espn7",
-    "country": "Boxeo",
-    "event_description": "BOXEO: Dmitry Bivol vs Michael Eifert",
-    "event_hour": "12:00",
-    "event_date": "2026-05-30",
-    "embed_name": "ESPN 7 | OP3"
-  },
-  {
     "title": "Liga 1: \nDeportivo Garcilaso vs Juan Pablo II College - Liga1MAX",
-    "url": "https://tyg2mnl9.fubohd.com:443/liga1max/mono.m3u8?token=826a4dbee069b1253ecf340e72130e46fa1bd945-4e-1780166043-1780148043",
+    "url": "https://ym9yzq.fubohd.com:443/liga1max/mono.m3u8?token=264f959e52dcefe54207585474c0f2fe4950459b-2a-1780186137-1780168137",
     "type": "event",
     "source": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
     "country": "Perú",
@@ -45,7 +12,7 @@
   },
   {
     "title": "Liga 1: \nDeportivo Garcilaso vs Juan Pablo II College - Liga1Max | OP2",
-    "url": "https://a2vlca.fubohd.com:443/liga1max/mono.m3u8?token=5a7709cd77c16cdb85afc8eb35fd789f9c66e313-5e-1780166043-1780148043",
+    "url": "https://agvyby.fubohd.com:443/liga1max/mono.m3u8?token=386e12a79924f5d05b102a3d685635181dd1beb3-b5-1780186138-1780168138",
     "type": "event",
     "source": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
     "country": "Perú",
@@ -56,7 +23,7 @@
   },
   {
     "title": "Liga 1: \nDeportivo Garcilaso vs Juan Pablo II College - Liga1Max | OP3",
-    "url": "https://wp9xqedt.fubohd.com:443/liga1max/mono.m3u8?token=cb22ca873263c3ebb84e77fca2b169fac02e3a2d-f1-1780166044-1780148044",
+    "url": "https://agvyby.fubohd.com:443/liga1max/mono.m3u8?token=108bb301c33fb203405f5c2dd9e4671205740dc5-35-1780186138-1780168138",
     "type": "event",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=liga1max",
     "country": "Perú",
@@ -67,7 +34,7 @@
   },
   {
     "title": "Liga 1: \nUniversitario vs Sport Huancayo - Liga1MAX",
-    "url": "https://anvtcax.fubohd.com:443/liga1max/mono.m3u8?token=9551253f8ea3a39d313df76780177f6477f18727-19-1780166044-1780148044",
+    "url": "https://qzv4jmsc.fubohd.com:443/liga1max/mono.m3u8?token=b3fd7b00c870b19e4ea163366ccf810216fb66f7-5-1780186139-1780168139",
     "type": "event",
     "source": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
     "country": "Perú",
@@ -78,7 +45,7 @@
   },
   {
     "title": "Liga 1: \nUniversitario vs Sport Huancayo - Liga1Max | OP2",
-    "url": "https://a2vlca.fubohd.com:443/liga1max/mono.m3u8?token=0b54e57f5bf6da56c9810f488b188b905c94aea1-5d-1780166045-1780148045",
+    "url": "https://a2vlca.fubohd.com:443/liga1max/mono.m3u8?token=fd0dd7e2c52f73d79c4c9de8d8e691cb7e3071b5-bc-1780186139-1780168139",
     "type": "event",
     "source": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
     "country": "Perú",
@@ -89,7 +56,7 @@
   },
   {
     "title": "Liga 1: \nUniversitario vs Sport Huancayo - Liga1Max | OP3",
-    "url": "https://rm8zcvk3.fubohd.com:443/liga1max/mono.m3u8?token=011f6cd981a82100a0ba10e4679506135389bb24-ac-1780166045-1780148045",
+    "url": "https://qzv4jmsc.fubohd.com:443/liga1max/mono.m3u8?token=b14955256aa348b0bbb0407bf24bc3ef4774f951-ec-1780186140-1780168140",
     "type": "event",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=liga1max",
     "country": "Perú",
@@ -100,7 +67,7 @@
   },
   {
     "title": "Rugby – SR Americas – Cobras Brasil Rugby vs Tarucas - ESPN 5",
-    "url": "https://a2vlca.fubohd.com:443/espn5/mono.m3u8?token=05088cf013798effc70cf96e08c4b96506e99380-37-1780166046-1780148046",
+    "url": "https://bGFuZQ.fubohd.com:443/espn5/mono.m3u8?token=834d4ecfe731fc6e2d96370cc600a9710b92daf8-62-1780186140-1780168140",
     "type": "event",
     "source": "https://tvtvhd.com/canales.php?stream=espn5",
     "country": "Rugby",
@@ -111,7 +78,7 @@
   },
   {
     "title": "Rugby – SR Americas – Cobras Brasil Rugby vs Tarucas - ESPN 5 | OP2",
-    "url": "https://x4bnd7lq.fubohd.com:443/espn5/mono.m3u8?token=51346c53112a5b43e925a7e4925a1a6110c19ff3-ff-1780166046-1780148046",
+    "url": "https://tyg2mnl9.fubohd.com:443/espn5/mono.m3u8?token=bf003eeaa1fbd072f49daa79cb81a54d1b6906b6-8b-1780186140-1780168140",
     "type": "event",
     "source": "https://tvtvhd.com/vivo/canal.php?stream=espn5",
     "country": "Rugby",
@@ -122,7 +89,7 @@
   },
   {
     "title": "Rugby – SR Americas – Cobras Brasil Rugby vs Tarucas - ESPN 5 | OP3",
-    "url": "https://agvyby.fubohd.com:443/espn5/mono.m3u8?token=6439f6f408633ae4e616281ecec73f7ef78dc349-b1-1780166046-1780148046",
+    "url": "https://qzv4jmsc.fubohd.com:443/espn5/mono.m3u8?token=9aeebf0e5978932f97c9d382d93ebe713fd28163-9a-1780186141-1780168141",
     "type": "event",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
     "country": "Rugby",
@@ -133,7 +100,7 @@
   },
   {
     "title": "Copa Oro Final – A Confirmar - ESPN 3",
-    "url": "https://aw1wcm92zq.fubohd.com:443/espn3/mono.m3u8?token=53d4194a3066a509e6bd635e0b59f59b24eefb4b-c-1780166047-1780148047",
+    "url": "https://anvtcax.fubohd.com:443/espn3/mono.m3u8?token=2c2884ad5cc9ea910e8a3b092427c2ce96b7e9eb-d7-1780186141-1780168141",
     "type": "event",
     "source": "https://tvtvhd.com/canales.php?stream=espn3",
     "country": "Amistosos Paises",
@@ -144,7 +111,7 @@
   },
   {
     "title": "Copa Oro Final – A Confirmar - ESPN 3 | OP2",
-    "url": "https://a2vlca.fubohd.com:443/espn3/mono.m3u8?token=60779d187db903acc2b3a2c4c3a99bc895e01c54-61-1780166047-1780148047",
+    "url": "https://c2nvdxq.fubohd.com:443/espn3/mono.m3u8?token=6e214137a752fb838b52fe52943cf8625d7bfcfc-f8-1780186142-1780168142",
     "type": "event",
     "source": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
     "country": "Amistosos Paises",
@@ -155,7 +122,7 @@
   },
   {
     "title": "Copa Oro Final – A Confirmar - ESPN 3 | OP3",
-    "url": "https://ag9wzq.fubohd.com:443/espn3/mono.m3u8?token=35883dfc0b6c250b89cfc97c0a3fefba8863ecbf-86-1780166048-1780148048",
+    "url": "https://dw5pdgvk.fubohd.com:443/espn3/mono.m3u8?token=0f63bf9fee6032a6f4fd10df5efa66b489731777-8b-1780186142-1780168142",
     "type": "event",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
     "country": "Amistosos Paises",
@@ -166,7 +133,7 @@
   },
   {
     "title": "Primera División: \nABB vs Always Ready - Futbol Canal",
-    "url": "https://cxm1.futbolonlinehd.com:443/even1/mono.m3u8?token=391b82b1d3785785d4c48183751ae25f0d431423-ab-1780166048-1780148048",
+    "url": "https://cxm1.futbolonlinehd.com:443/even1/mono.m3u8?token=81c26d407ee925d727e07068b87c1cf39501dae6-86-1780186143-1780168143",
     "type": "event",
     "source": "https://tvtvhd.com/tv/canal.php?stream=even1",
     "country": "Bolivia",
@@ -177,7 +144,7 @@
   },
   {
     "title": "Primera División: \nABB vs Always Ready - Futbol Canal | OP2",
-    "url": "https://cxm3.futbolonlinehd.com:443/even1/mono.m3u8?token=27d88a82c6381a0183721f571744d86540c3d4d7-32-1780166049-1780148049",
+    "url": "https://cxm2.futbolonlinehd.com:443/even1/mono.m3u8?token=b0b1eda225f02d447d07c0e6b2123b399a4c15fe-32-1780186143-1780168143",
     "type": "event",
     "source": "https://tvtvhd.com/tv/canal.php?stream=even1",
     "country": "Bolivia",
@@ -188,7 +155,7 @@
   },
   {
     "title": "Primera División: \nABB vs Always Ready - Futbol Canal | OP3",
-    "url": "https://cxm2.futbolonlinehd.com:443/even1/mono.m3u8?token=c6ae10857547bd7043cf72a3211a3bb881ed92c4-a4-1780166049-1780148049",
+    "url": "https://cxm4.futbolonlinehd.com:443/even1/mono.m3u8?token=42b0d81241210828b0b95bbc40ef71cd0db52342-45-1780186143-1780168143",
     "type": "event",
     "source": "https://tvtvhd.com/tv/canal.php?stream=even1",
     "country": "Bolivia",
@@ -198,129 +165,8 @@
     "embed_name": "Futbol Canal | OP3"
   },
   {
-    "title": "Amistoso: \nMéxico vs Australia - Canal 5 MX",
-    "url": "https://agvyby.fubohd.com:443/canal5/mono.m3u8?token=a3438c5215e1dd93badb958c99abd55266d957b3-3a-1780166049-1780148049",
-    "type": "event",
-    "source": "https://tvtvhd.com/canales.php?stream=canal5",
-    "country": "Amistoso",
-    "event_description": "Amistoso: \nMéxico vs Australia",
-    "event_hour": "23:00",
-    "event_date": "2026-05-30",
-    "embed_name": "Canal 5 MX"
-  },
-  {
-    "title": "Amistoso: \nMéxico vs Australia - Azteca 7",
-    "url": "https://dw5pdgvk.fubohd.com:443/azteca7/mono.m3u8?token=ffe05c3c82129f92f2a93d35a3b35ce9ef1db5ec-e1-1780166050-1780148050",
-    "type": "event",
-    "source": "https://tvtvhd.com/canales.php?stream=azteca7",
-    "country": "Amistoso",
-    "event_description": "Amistoso: \nMéxico vs Australia",
-    "event_hour": "23:00",
-    "event_date": "2026-05-30",
-    "embed_name": "Azteca 7"
-  },
-  {
-    "title": "Amistoso: \nMéxico vs Australia - Azteca 7 | OP2",
-    "url": "https://rm8zcvk3.fubohd.com:443/azteca7/mono.m3u8?token=fdfaa7a3b41b7c9f0d5204b0dcce53009d267c89-f8-1780166050-1780148050",
-    "type": "event",
-    "source": "https://tvtvhd.com/vivo/canal.php?stream=azteca7",
-    "country": "Amistoso",
-    "event_description": "Amistoso: \nMéxico vs Australia",
-    "event_hour": "23:00",
-    "event_date": "2026-05-30",
-    "embed_name": "Azteca 7 | OP2"
-  },
-  {
-    "title": "Amistoso: \nMéxico vs Australia - Azteca 7 | OP3",
-    "url": "https://cgxheq.fubohd.com:443/azteca7/mono.m3u8?token=7085476ca752f2c310edb89c843eaa73f4a0cc33-c9-1780166051-1780148051",
-    "type": "event",
-    "source": "https://tvtvhd.com/vivo/canales.php?stream=azteca7",
-    "country": "Amistoso",
-    "event_description": "Amistoso: \nMéxico vs Australia",
-    "event_hour": "23:00",
-    "event_date": "2026-05-30",
-    "embed_name": "Azteca 7 | OP3"
-  },
-  {
-    "title": "Amistoso: \nMéxico vs Australia - TUDN USA",
-    "url": "https://cgxheq.fubohd.com:443/tudn/mono.m3u8?token=4dbeeb87252455dd351accc0adac1b92772ac747-24-1780166051-1780148051",
-    "type": "event",
-    "source": "https://tvtvhd.com/canales.php?stream=tudn",
-    "country": "Amistoso",
-    "event_description": "Amistoso: \nMéxico vs Australia",
-    "event_hour": "23:00",
-    "event_date": "2026-05-30",
-    "embed_name": "TUDN USA"
-  },
-  {
-    "title": "Amistoso: \nMéxico vs Australia - TUDN USA | OP2",
-    "url": "https://rm8zcvk3.fubohd.com:443/tudn/mono.m3u8?token=00f2d240badd572444e1566543e2261ec1d89dff-68-1780166052-1780148052",
-    "type": "event",
-    "source": "https://tvtvhd.com/vivo/canal.php?stream=tudn",
-    "country": "Amistoso",
-    "event_description": "Amistoso: \nMéxico vs Australia",
-    "event_hour": "23:00",
-    "event_date": "2026-05-30",
-    "embed_name": "TUDN USA | OP2"
-  },
-  {
-    "title": "Amistoso: \nMéxico vs Australia - TUDN USA | OP3",
-    "url": "https://ym9yzq.fubohd.com:443/tudn/mono.m3u8?token=e96507ec4e8028149bae36e55132bc3fbea51567-12-1780166052-1780148052",
-    "type": "event",
-    "source": "https://tvtvhd.com/vivo/canales.php?stream=tudn",
-    "country": "Amistoso",
-    "event_description": "Amistoso: \nMéxico vs Australia",
-    "event_hour": "23:00",
-    "event_date": "2026-05-30",
-    "embed_name": "TUDN USA | OP3"
-  },
-  {
-    "title": "Amistoso: \nMéxico vs Australia - FOX Deportes",
-    "url": "https://aw1wcm92zq.fubohd.com:443/foxdeportes/mono.m3u8?token=98767b9f49b0357ee340c9d2eb094fa51d40bfe1-e0-1780166053-1780148053",
-    "type": "event",
-    "source": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
-    "country": "Amistoso",
-    "event_description": "Amistoso: \nMéxico vs Australia",
-    "event_hour": "23:00",
-    "event_date": "2026-05-30",
-    "embed_name": "FOX Deportes"
-  },
-  {
-    "title": "Amistoso: \nMéxico vs Australia - FOX Deportes | OP2",
-    "url": "https://cgxheq.fubohd.com:443/foxdeportes/mono.m3u8?token=8fe2da97c3b47a4f7ffba390b194cc0dc7dd241a-b8-1780166053-1780148053",
-    "type": "event",
-    "source": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
-    "country": "Amistoso",
-    "event_description": "Amistoso: \nMéxico vs Australia",
-    "event_hour": "23:00",
-    "event_date": "2026-05-30",
-    "embed_name": "FOX Deportes | OP2"
-  },
-  {
-    "title": "Amistoso: \nMéxico vs Australia - FOX Deportes | OP3",
-    "url": "https://dw5pdgvk.fubohd.com:443/foxdeportes/mono.m3u8?token=a912bf7f066f41f7baba5590cf4b1dbf12b4bd2c-89-1780166053-1780148053",
-    "type": "event",
-    "source": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
-    "country": "Amistoso",
-    "event_description": "Amistoso: \nMéxico vs Australia",
-    "event_hour": "23:00",
-    "event_date": "2026-05-30",
-    "embed_name": "FOX Deportes | OP3"
-  },
-  {
-    "title": "Amistoso: \nMéxico vs Australia - Univision USA",
-    "url": "https://wp9xqedt.fubohd.com:443/univision/mono.m3u8?token=8d55824b1a2e068c300a09f507baf834eec164c6-89-1780166054-1780148054",
-    "type": "event",
-    "source": "https://tvtvhd.com/canales.php?stream=univision",
-    "country": "Amistoso",
-    "event_description": "Amistoso: \nMéxico vs Australia",
-    "event_hour": "23:00",
-    "event_date": "2026-05-30",
-    "embed_name": "Univision USA"
-  },
-  {
     "title": "Ligue 1 Playoffs:  Nice vs Saint Etienne - ESPN 5",
-    "url": "https://a2vlca.fubohd.com:443/espn5/mono.m3u8?token=69d8573b6a43a84efdf38dea38cccd3c89c91ca1-bf-1780166054-1780148054",
+    "url": "https://cgxheq.fubohd.com:443/espn5/mono.m3u8?token=edc2dc52057234235226c26cccd42e7573fcafdf-56-1780186144-1780168144",
     "type": "event",
     "source": "https://tvtvhd.com/canales.php?stream=espn5",
     "country": "Francia",
@@ -331,7 +177,7 @@
   },
   {
     "title": "Ligue 1 Playoffs:  Nice vs Saint Etienne - ESPN 5 | OP2",
-    "url": "https://ag9wzq.fubohd.com:443/espn5/mono.m3u8?token=8ce8c98c9fb1facce20791053642200dd3c7b4ed-52-1780166055-1780148055",
+    "url": "https://ym9yzq.fubohd.com:443/espn5/mono.m3u8?token=9609a0add63f3be516de5b1a88afe58c6f3911cf-c5-1780186144-1780168144",
     "type": "event",
     "source": "https://tvtvhd.com/vivo/canal.php?stream=espn5",
     "country": "Francia",
@@ -342,7 +188,7 @@
   },
   {
     "title": "Ligue 1 Playoffs:  Nice vs Saint Etienne - ESPN 5 | OP3",
-    "url": "https://rm8zcvk3.fubohd.com:443/espn5/mono.m3u8?token=36772d5607301e8353b968253ebd25eb112f644e-c3-1780166055-1780148055",
+    "url": "https://anvtcax.fubohd.com:443/espn5/mono.m3u8?token=b19351a7b027fb3021f6f8ebf6d50bfe538f118a-6e-1780186145-1780168145",
     "type": "event",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
     "country": "Francia",
@@ -352,52 +198,316 @@
     "embed_name": "ESPN 5 | OP3"
   },
   {
-    "title": "Amistoso: \nEscocia vs Curazao - Disney+",
-    "url": "https://agvyby.fubohd.com:443/disney1/mono.m3u8?token=53179bd3a9adc94626728bf7bac7804f0846eb97-ce-1780166056-1780148056",
+    "title": "Brasileirão: \nSantos vs Vitória - Sportv BR",
+    "url": "https://a2vlca.fubohd.com:443/sportv/mono.m3u8?token=12f94faa832e20d4dd510429c91ec43fb148dc95-4-1780186145-1780168145",
     "type": "event",
-    "source": "https://tvtvhd.com/canales.php?stream=disney1",
-    "country": "Amistoso",
-    "event_description": "Amistoso: \nEscocia vs Curazao",
-    "event_hour": "09:00",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
+    "country": "Brasil",
+    "event_description": "Brasileirão: \nSantos vs Vitória",
+    "event_hour": "20:00",
+    "event_date": "2026-05-30",
+    "embed_name": "Sportv BR"
+  },
+  {
+    "title": "Primera División: \nUniversidad Chile vs Deportes Concepción - TNT Sports Premiun CL",
+    "url": "https://dw5pdgvk.fubohd.com:443/tntsportschile/mono.m3u8?token=2f706a9f8181fbbc244289cdb21d73a93379aa6c-cd-1780186146-1780168146",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=tntsportschile",
+    "country": "Chile",
+    "event_description": "Primera División: \nUniversidad Chile vs Deportes Concepción",
+    "event_hour": "18:30",
+    "event_date": "2026-05-30",
+    "embed_name": "TNT Sports Premiun CL"
+  },
+  {
+    "title": "Primera División: \nUniversidad Chile vs Deportes Concepción - TNT Sports Premiun CL OP2",
+    "url": "https://ym9yzq.fubohd.com:443/tntsportschile/mono.m3u8?token=b4464c5c7b65092f51cdc7858c765521e1106b62-7a-1780186146-1780168146",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=tntsportschile",
+    "country": "Chile",
+    "event_description": "Primera División: \nUniversidad Chile vs Deportes Concepción",
+    "event_hour": "18:30",
+    "event_date": "2026-05-30",
+    "embed_name": "TNT Sports Premiun CL OP2"
+  },
+  {
+    "title": "Copa Argentina: \nGimnasia Jujuy vs Belgrano - TYC Sports",
+    "url": "https://wp9xqedt.fubohd.com:443/tycsports/mono.m3u8?token=4892e60585e859b53124b92e4a35272bfeb8be53-27-1780186146-1780168146",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=tycsports",
+    "country": "Argentina",
+    "event_description": "Copa Argentina: \nGimnasia Jujuy vs Belgrano",
+    "event_hour": "15:30",
+    "event_date": "2026-05-30",
+    "embed_name": "TYC Sports"
+  },
+  {
+    "title": "Copa Argentina: \nGimnasia Jujuy vs Belgrano - TyC Sports | OP2",
+    "url": "https://aw1wcm92zq.fubohd.com:443/tycsports/mono.m3u8?token=a76aad1d45fd097d91cbcefcd48e0c1f2dc1324e-4c-1780186147-1780168147",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=tycsports",
+    "country": "Argentina",
+    "event_description": "Copa Argentina: \nGimnasia Jujuy vs Belgrano",
+    "event_hour": "15:30",
+    "event_date": "2026-05-30",
+    "embed_name": "TyC Sports | OP2"
+  },
+  {
+    "title": "Copa Argentina: \nGimnasia Jujuy vs Belgrano - TYC Sports | OP3",
+    "url": "https://tyg2mnl9.fubohd.com:443/tycsports/mono.m3u8?token=0af651a6dd1cef20b3fc7155c9784520710837a5-b7-1780186147-1780168147",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=tycsports",
+    "country": "Argentina",
+    "event_description": "Copa Argentina: \nGimnasia Jujuy vs Belgrano",
+    "event_hour": "15:30",
+    "event_date": "2026-05-30",
+    "embed_name": "TYC Sports | OP3"
+  },
+  {
+    "title": "Copa Argentina: \nGimnasia Jujuy vs Belgrano - TyC Sports Internacional",
+    "url": "https://qzv4jmsc.fubohd.com:443/tycinternacional/mono.m3u8?token=a8e8d0471222c9536b395b4048f1c468758653b5-df-1780186148-1780168148",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=tycinternacional",
+    "country": "Argentina",
+    "event_description": "Copa Argentina: \nGimnasia Jujuy vs Belgrano",
+    "event_hour": "15:30",
+    "event_date": "2026-05-30",
+    "embed_name": "TyC Sports Internacional"
+  },
+  {
+    "title": "Copa Argentina: \nGimnasia Jujuy vs Belgrano - TyC Sports Internacional | OP2",
+    "url": "https://c2nvdxq.fubohd.com:443/tycinternacional/mono.m3u8?token=229da21e7c2480efb0cd9a5c9d17f4796f0eb30d-92-1780186148-1780168148",
+    "type": "event",
+    "source": "https://tvtvhd.com/vivo/canal.php?stream=tycinternacional",
+    "country": "Argentina",
+    "event_description": "Copa Argentina: \nGimnasia Jujuy vs Belgrano",
+    "event_hour": "15:30",
+    "event_date": "2026-05-30",
+    "embed_name": "TyC Sports Internacional | OP2"
+  },
+  {
+    "title": "Copa Argentina: \nGimnasia Jujuy vs Belgrano - TyC Sports International | OP3",
+    "url": "https://tyg2mnl9.fubohd.com:443/tycinternacional/mono.m3u8?token=0431ee475deb4612b41bf6f91b0839461d346aab-b-1780186149-1780168149",
+    "type": "event",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=tycinternacional",
+    "country": "Argentina",
+    "event_description": "Copa Argentina: \nGimnasia Jujuy vs Belgrano",
+    "event_hour": "15:30",
+    "event_date": "2026-05-30",
+    "embed_name": "TyC Sports International | OP3"
+  },
+  {
+    "title": "Liga de Expansión MX: \nCDS Tampico Madero vs Tepatitlán - ESPN MX",
+    "url": "https://dw5pdgvk.fubohd.com:443/espnmx/mono.m3u8?token=b7e65dac9f458a692f2b2ba262ce6c64c98413c8-ca-1780186149-1780168149",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=espnmx",
+    "country": "México",
+    "event_description": "Liga de Expansión MX: \nCDS Tampico Madero vs Tepatitlán",
+    "event_hour": "22:00",
+    "event_date": "2026-05-30",
+    "embed_name": "ESPN MX"
+  },
+  {
+    "title": "Liga de Expansión MX: \nCDS Tampico Madero vs Tepatitlán - ESPN MX | OP2",
+    "url": "https://aw1wcm92zq.fubohd.com:443/espnmx/mono.m3u8?token=811eaaab9c4f2421097a1f59f33be5a71cf97789-d4-1780186149-1780168149",
+    "type": "event",
+    "source": "https://tvtvhd.com/vivo/canal.php?stream=espnmx",
+    "country": "México",
+    "event_description": "Liga de Expansión MX: \nCDS Tampico Madero vs Tepatitlán",
+    "event_hour": "22:00",
+    "event_date": "2026-05-30",
+    "embed_name": "ESPN MX | OP2"
+  },
+  {
+    "title": "Liga de Expansión MX: \nCDS Tampico Madero vs Tepatitlán - ESPN MX | OP3",
+    "url": "https://rm8zcvk3.fubohd.com:443/espnmx/mono.m3u8?token=826d1d4712829e21383271a57f56586457fe7296-81-1780186150-1780168150",
+    "type": "event",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=espnmx",
+    "country": "México",
+    "event_description": "Liga de Expansión MX: \nCDS Tampico Madero vs Tepatitlán",
+    "event_hour": "22:00",
+    "event_date": "2026-05-30",
+    "embed_name": "ESPN MX | OP3"
+  },
+  {
+    "title": "Brasileirão: \nFlamengo vs Coritiba - Sportv BR",
+    "url": "https://anvtcax.fubohd.com:443/sportv/mono.m3u8?token=e2dc108217feaf49fb198a4785eefae1f47231ed-d5-1780186150-1780168150",
+    "type": "event",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
+    "country": "Brasil",
+    "event_description": "Brasileirão: \nFlamengo vs Coritiba",
+    "event_hour": "16:00",
+    "event_date": "2026-05-30",
+    "embed_name": "Sportv BR"
+  },
+  {
+    "title": "Brasileirão: \nFlamengo vs Coritiba - Premiere BR ",
+    "url": "https://ym9yzq.fubohd.com:443/premiere1/mono.m3u8?token=f2f84db4c7450909eada448a9bd84001b242e068-c1-1780186151-1780168151",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=premiere1",
+    "country": "Brasil",
+    "event_description": "Brasileirão: \nFlamengo vs Coritiba",
+    "event_hour": "16:00",
+    "event_date": "2026-05-30",
+    "embed_name": "Premiere BR "
+  },
+  {
+    "title": "LaLiga SmartBank: Granada vs Sporting Gijón - LaLiga TV Hypermotion ",
+    "url": "https://a2vlca.fubohd.com:443/hypermotion1/mono.m3u8?token=e5352f05a29ede5ca1e5bd40280b49ee8870a3c1-bc-1780186151-1780168151",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=hypermotion1",
+    "country": "España",
+    "event_description": "LaLiga SmartBank: Granada vs Sporting Gijón",
+    "event_hour": "16:00",
+    "event_date": "2026-05-30",
+    "embed_name": "LaLiga TV Hypermotion "
+  },
+  {
+    "title": "LaLiga SmartBank: Granada vs Sporting Gijón - Disney+",
+    "url": "https://ym9yzq.fubohd.com:443/disney7/mono.m3u8?token=3c2a2d1fe8ae640ad8e08144a341305c28af4795-db-1780186152-1780168152",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=disney7",
+    "country": "España",
+    "event_description": "LaLiga SmartBank: Granada vs Sporting Gijón",
+    "event_hour": "16:00",
     "event_date": "2026-05-30",
     "embed_name": "Disney+"
   },
   {
-    "title": "MotoGP – GP Italia – Sprint - ESPN 4",
-    "url": "https://tyg2mnl9.fubohd.com:443/espn4/mono.m3u8?token=0ab475cf13dda98c215e28c537904c705c715828-7d-1780166056-1780148056",
+    "title": "Segunda División: Paysandu vs Cerrito - Disney+",
+    "url": "https://wp9xqedt.fubohd.com:443/disney8/mono.m3u8?token=6309759f3ab3bcc01aeff0d8563ec6ee9d4996f7-ff-1780186152-1780168152",
     "type": "event",
-    "source": "https://tvtvhd.com/canales.php?stream=espn4",
-    "country": "MOTO GP",
-    "event_description": "MotoGP – GP Italia – Sprint",
-    "event_hour": "09:30",
+    "source": "https://tvtvhd.com/canales.php?stream=disney8",
+    "country": "Uruguay",
+    "event_description": "Segunda División: Paysandu vs Cerrito",
+    "event_hour": "16:00",
     "event_date": "2026-05-30",
-    "embed_name": "ESPN 4"
+    "embed_name": "Disney+"
   },
   {
-    "title": "MotoGP – GP Italia – Sprint - ESPN 4 | OP2",
-    "url": "https://ag9wzq.fubohd.com:443/espn4/mono.m3u8?token=9dd2ca08c8bed7f37dd08599f6476318a98b20b3-3-1780166057-1780148057",
+    "title": "Amistoso: \nMéxico vs Australia - Azteca 7",
+    "url": "https://cgxheq.fubohd.com:443/azteca7/mono.m3u8?token=ede53b73dc3295437b456beeb81be1ef496fdd5d-c9-1780186152-1780168152",
     "type": "event",
-    "source": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
-    "country": "MOTO GP",
-    "event_description": "MotoGP – GP Italia – Sprint",
-    "event_hour": "09:30",
+    "source": "https://tvtvhd.com/canales.php?stream=azteca7",
+    "country": "Amistoso",
+    "event_description": "Amistoso: \nMéxico vs Australia",
+    "event_hour": "23:00",
     "event_date": "2026-05-30",
-    "embed_name": "ESPN 4 | OP2"
+    "embed_name": "Azteca 7"
   },
   {
-    "title": "MotoGP – GP Italia – Sprint - ESPN 4 | OP3",
-    "url": "https://qzv4jmsc.fubohd.com:443/espn4/mono.m3u8?token=b1dae6cdf35e0894310dd7a4b2f29a5387d62823-69-1780166057-1780148057",
+    "title": "Amistoso: \nMéxico vs Australia - Azteca 7 | OP2",
+    "url": "https://anvtcax.fubohd.com:443/azteca7/mono.m3u8?token=49c56d6b2731d94880eeb124dadb9a5737549eab-69-1780186153-1780168153",
     "type": "event",
-    "source": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
-    "country": "MOTO GP",
-    "event_description": "MotoGP – GP Italia – Sprint",
-    "event_hour": "09:30",
+    "source": "https://tvtvhd.com/vivo/canal.php?stream=azteca7",
+    "country": "Amistoso",
+    "event_description": "Amistoso: \nMéxico vs Australia",
+    "event_hour": "23:00",
     "event_date": "2026-05-30",
-    "embed_name": "ESPN 4 | OP3"
+    "embed_name": "Azteca 7 | OP2"
+  },
+  {
+    "title": "Amistoso: \nMéxico vs Australia - Azteca 7 | OP3",
+    "url": "https://anvtcax.fubohd.com:443/azteca7/mono.m3u8?token=78b49d2a43731cdc53d37240541b7a7122f298d2-e2-1780186153-1780168153",
+    "type": "event",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=azteca7",
+    "country": "Amistoso",
+    "event_description": "Amistoso: \nMéxico vs Australia",
+    "event_hour": "23:00",
+    "event_date": "2026-05-30",
+    "embed_name": "Azteca 7 | OP3"
+  },
+  {
+    "title": "Amistoso: \nMéxico vs Australia - TUDN USA",
+    "url": "https://bGFuZQ.fubohd.com:443/tudn/mono.m3u8?token=6e401563cc12c72d102596be9b5e0f06023ea837-b3-1780186154-1780168154",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=tudn",
+    "country": "Amistoso",
+    "event_description": "Amistoso: \nMéxico vs Australia",
+    "event_hour": "23:00",
+    "event_date": "2026-05-30",
+    "embed_name": "TUDN USA"
+  },
+  {
+    "title": "Amistoso: \nMéxico vs Australia - TUDN USA | OP2",
+    "url": "https://cgxheq.fubohd.com:443/tudn/mono.m3u8?token=1428666cb2114e3e6508831d0c5c260cadb81263-42-1780186154-1780168154",
+    "type": "event",
+    "source": "https://tvtvhd.com/vivo/canal.php?stream=tudn",
+    "country": "Amistoso",
+    "event_description": "Amistoso: \nMéxico vs Australia",
+    "event_hour": "23:00",
+    "event_date": "2026-05-30",
+    "embed_name": "TUDN USA | OP2"
+  },
+  {
+    "title": "Amistoso: \nMéxico vs Australia - TUDN USA | OP3",
+    "url": "https://anvtcax.fubohd.com:443/tudn/mono.m3u8?token=b32ee12151955a51c9fe2098aa6acd257aea89a3-f3-1780186155-1780168155",
+    "type": "event",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=tudn",
+    "country": "Amistoso",
+    "event_description": "Amistoso: \nMéxico vs Australia",
+    "event_hour": "23:00",
+    "event_date": "2026-05-30",
+    "embed_name": "TUDN USA | OP3"
+  },
+  {
+    "title": "Amistoso: \nMéxico vs Australia - FOX Deportes",
+    "url": "https://ym9yzq.fubohd.com:443/foxdeportes/mono.m3u8?token=60b206ebb2744d24589566e8fd9215662b27afa5-88-1780186155-1780168155",
+    "type": "event",
+    "source": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
+    "country": "Amistoso",
+    "event_description": "Amistoso: \nMéxico vs Australia",
+    "event_hour": "23:00",
+    "event_date": "2026-05-30",
+    "embed_name": "FOX Deportes"
+  },
+  {
+    "title": "Amistoso: \nMéxico vs Australia - FOX Deportes | OP2",
+    "url": "https://rm8zcvk3.fubohd.com:443/foxdeportes/mono.m3u8?token=54f1ea9471d62064573b0ea27d5cc4a60d34cd5f-ff-1780186155-1780168155",
+    "type": "event",
+    "source": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
+    "country": "Amistoso",
+    "event_description": "Amistoso: \nMéxico vs Australia",
+    "event_hour": "23:00",
+    "event_date": "2026-05-30",
+    "embed_name": "FOX Deportes | OP2"
+  },
+  {
+    "title": "Amistoso: \nMéxico vs Australia - FOX Deportes | OP3",
+    "url": "https://tyg2mnl9.fubohd.com:443/foxdeportes/mono.m3u8?token=cb514099db89c12bd0412a0180ab9a1d1865e867-27-1780186156-1780168156",
+    "type": "event",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
+    "country": "Amistoso",
+    "event_description": "Amistoso: \nMéxico vs Australia",
+    "event_hour": "23:00",
+    "event_date": "2026-05-30",
+    "embed_name": "FOX Deportes | OP3"
+  },
+  {
+    "title": "Amistoso: \nMéxico vs Australia - Univision USA",
+    "url": "https://ag9wzq.fubohd.com:443/univision/mono.m3u8?token=066133d1d636b3cb52edc24c74e8dc6ab4f2f405-76-1780186156-1780168156",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=univision",
+    "country": "Amistoso",
+    "event_description": "Amistoso: \nMéxico vs Australia",
+    "event_hour": "23:00",
+    "event_date": "2026-05-30",
+    "embed_name": "Univision USA"
+  },
+  {
+    "title": "Amistoso: \nMéxico vs Australia - Canal 5 MX",
+    "url": "https://bGFuZQ.fubohd.com:443/canal5/mono.m3u8?token=a71c367cb95741801a830a8d5cc5135d3160f89f-e2-1780186157-1780168157",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=canal5",
+    "country": "Amistoso",
+    "event_description": "Amistoso: \nMéxico vs Australia",
+    "event_hour": "23:00",
+    "event_date": "2026-05-30",
+    "embed_name": "Canal 5 MX"
   },
   {
     "title": "Tenis – Roland Garros – Día #7 – Tercera Ronda - ESPN 2",
-    "url": "https://qzv4jmsc.fubohd.com:443/espn2/mono.m3u8?token=75820e8dae06c44d59d251215f73b825790befc0-30-1780166057-1780148057",
+    "url": "https://tyg2mnl9.fubohd.com:443/espn2/mono.m3u8?token=5fe8cc5ea2a39f6fbbbde881b1d3935246f952c1-c8-1780186157-1780168157",
     "type": "event",
     "source": "https://tvtvhd.com/canales.php?stream=espn2",
     "country": "Tennis",
@@ -408,7 +518,7 @@
   },
   {
     "title": "Tenis – Roland Garros – Día #7 – Tercera Ronda - ESPN 2 | OP2",
-    "url": "https://a2vlca.fubohd.com:443/espn2/mono.m3u8?token=0ef6b3c8a66e85d3e42e939b1cb3cf23e7ec4bb5-da-1780166058-1780148058",
+    "url": "https://agvyby.fubohd.com:443/espn2/mono.m3u8?token=eacc943c613d4c676277e1b886017abd3d6d8f10-5b-1780186158-1780168158",
     "type": "event",
     "source": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
     "country": "Tennis",
@@ -419,7 +529,7 @@
   },
   {
     "title": "Tenis – Roland Garros – Día #7 – Tercera Ronda - ESPN 2 | OP3",
-    "url": "https://qzv4jmsc.fubohd.com:443/espn2/mono.m3u8?token=3164b6dc72d26357a70314c5c6008865d319f903-6b-1780166058-1780148058",
+    "url": "https://tyg2mnl9.fubohd.com:443/espn2/mono.m3u8?token=830fe7a574e4c9821d1c60c67470f1da82b9da5e-9a-1780186158-1780168158",
     "type": "event",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
     "country": "Tennis",
@@ -430,7 +540,7 @@
   },
   {
     "title": "Rugby – SR Americas – Yacare XV vs Peñarol Rugby - ESPN 2",
-    "url": "https://dw5pdgvk.fubohd.com:443/espn2/mono.m3u8?token=1550c6e14c42bc26955381fd8868d33d8196ad64-94-1780166059-1780148059",
+    "url": "https://cgxheq.fubohd.com:443/espn2/mono.m3u8?token=45b1abacfe0837356b239d6ba907be35f31a5e58-aa-1780186158-1780168158",
     "type": "event",
     "source": "https://tvtvhd.com/canales.php?stream=espn2",
     "country": "Rugby",
@@ -441,7 +551,7 @@
   },
   {
     "title": "Rugby – SR Americas – Yacare XV vs Peñarol Rugby - ESPN 2 | OP2",
-    "url": "https://aw1wcm92zq.fubohd.com:443/espn2/mono.m3u8?token=65d8cb40f586e178008765c472b21bd7a6f4d76e-c6-1780166059-1780148059",
+    "url": "https://c2nvdxq.fubohd.com:443/espn2/mono.m3u8?token=f8cdb8f86d4fbe9b6c53a15368b4a7cd69d46721-cc-1780186159-1780168159",
     "type": "event",
     "source": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
     "country": "Rugby",
@@ -452,7 +562,7 @@
   },
   {
     "title": "Rugby – SR Americas – Yacare XV vs Peñarol Rugby - ESPN 2 | OP3",
-    "url": "https://wp9xqedt.fubohd.com:443/espn2/mono.m3u8?token=675413ef43f1595d4efc82eca44e59f7c296a43e-b3-1780166060-1780148060",
+    "url": "https://aw1wcm92zq.fubohd.com:443/espn2/mono.m3u8?token=9ebe4c7be56d9c466540787a139e6f47e3e583c0-e4-1780186159-1780168159",
     "type": "event",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
     "country": "Rugby",
@@ -462,41 +572,8 @@
     "embed_name": "ESPN 2 | OP3"
   },
   {
-    "title": "Liga 1: \nADT vs Cusco - Liga1MAX",
-    "url": "https://anvtcax.fubohd.com:443/liga1max/mono.m3u8?token=bcc824a81f3eb846655fdff7c7aec5749bfd84a5-32-1780166060-1780148060",
-    "type": "event",
-    "source": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
-    "country": "Perú",
-    "event_description": "Liga 1: \nADT vs Cusco",
-    "event_hour": "13:00",
-    "event_date": "2026-05-30",
-    "embed_name": "Liga1MAX"
-  },
-  {
-    "title": "Liga 1: \nADT vs Cusco - Liga1Max | OP2",
-    "url": "https://aw1wcm92zq.fubohd.com:443/liga1max/mono.m3u8?token=04fbbeb9959b074353de89da2526760e5ed3bb2c-79-1780166060-1780148060",
-    "type": "event",
-    "source": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
-    "country": "Perú",
-    "event_description": "Liga 1: \nADT vs Cusco",
-    "event_hour": "13:00",
-    "event_date": "2026-05-30",
-    "embed_name": "Liga1Max | OP2"
-  },
-  {
-    "title": "Liga 1: \nADT vs Cusco - Liga1Max | OP3",
-    "url": "https://anvtcax.fubohd.com:443/liga1max/mono.m3u8?token=9486f114cbedc1c98391b7cb072b12d1cc905d04-88-1780166061-1780148061",
-    "type": "event",
-    "source": "https://tvtvhd.com/vivo/canales.php?stream=liga1max",
-    "country": "Perú",
-    "event_description": "Liga 1: \nADT vs Cusco",
-    "event_hour": "13:00",
-    "event_date": "2026-05-30",
-    "embed_name": "Liga1Max | OP3"
-  },
-  {
     "title": "Liga 1: \nSport Boys vs Comerciantes Unidos - Liga1MAX",
-    "url": "https://agvyby.fubohd.com:443/liga1max/mono.m3u8?token=8037378143610ac00b7008d5f71b602e0883b863-9-1780166061-1780148061",
+    "url": "https://dw5pdgvk.fubohd.com:443/liga1max/mono.m3u8?token=d7896f0c071103c44abc5a95d4c16b1ed5f6e7ae-ba-1780186160-1780168160",
     "type": "event",
     "source": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
     "country": "Perú",
@@ -507,7 +584,7 @@
   },
   {
     "title": "Liga 1: \nSport Boys vs Comerciantes Unidos - Liga1Max | OP2",
-    "url": "https://aw1wcm92zq.fubohd.com:443/liga1max/mono.m3u8?token=06e8d38b0767ed997c1d8d765302a36354faed17-6a-1780166062-1780148062",
+    "url": "https://c2nvdxq.fubohd.com:443/liga1max/mono.m3u8?token=8b43aa2d48a10dab7fb8d4469515d4db3d0de330-9b-1780186160-1780168160",
     "type": "event",
     "source": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
     "country": "Perú",
@@ -518,7 +595,7 @@
   },
   {
     "title": "Liga 1: \nSport Boys vs Comerciantes Unidos - Liga1Max | OP3",
-    "url": "https://x4bnd7lq.fubohd.com:443/liga1max/mono.m3u8?token=6e99cdf36e3b697b28ba91ecb01757017dd8d48c-3b-1780166062-1780148062",
+    "url": "https://c2nvdxq.fubohd.com:443/liga1max/mono.m3u8?token=dbbc42678b7261867ad6e98646adbf30e0e998b2-7c-1780186160-1780168160",
     "type": "event",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=liga1max",
     "country": "Perú",
@@ -528,19 +605,173 @@
     "embed_name": "Liga1Max | OP3"
   },
   {
-    "title": "Amistoso: \nEcuador vs Arabia Saudita - Zapping TV",
-    "url": "https://cxm2.futbolonlinehd.com:443/even3/mono.m3u8?token=30aa5cae884ffa09168a3e635d69d65870a8917b-55-1780166063-1780148063",
+    "title": "Primera División: \nLa Serena vs Colo-Colo - TNT Sports Premiun CL",
+    "url": "https://x4bnd7lq.fubohd.com:443/tntsportschile/mono.m3u8?token=8bc35583adf3c5321c28a4a3b02dcce6f66113b2-41-1780186161-1780168161",
     "type": "event",
-    "source": "https://tvtvhd.com/tv/canal.php?stream=even3",
-    "country": "Amistoso",
-    "event_description": "Amistoso: \nEcuador vs Arabia Saudita",
-    "event_hour": "20:30",
+    "source": "https://tvtvhd.com/canales.php?stream=tntsportschile",
+    "country": "Chile",
+    "event_description": "Primera División: \nLa Serena vs Colo-Colo",
+    "event_hour": "16:00",
     "event_date": "2026-05-30",
-    "embed_name": "Zapping TV"
+    "embed_name": "TNT Sports Premiun CL"
+  },
+  {
+    "title": "Primera División: \nLa Serena vs Colo-Colo - TNT Sports Premiun CL OP2",
+    "url": "https://qzv4jmsc.fubohd.com:443/tntsportschile/mono.m3u8?token=268604a1de4fb689d1e60f947841618ce3d62140-47-1780186161-1780168161",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=tntsportschile",
+    "country": "Chile",
+    "event_description": "Primera División: \nLa Serena vs Colo-Colo",
+    "event_hour": "16:00",
+    "event_date": "2026-05-30",
+    "embed_name": "TNT Sports Premiun CL OP2"
+  },
+  {
+    "title": "Copa Argentina: \nInstituto vs Lanús - TYC Sports",
+    "url": "https://tyg2mnl9.fubohd.com:443/tycsports/mono.m3u8?token=c977cae6476c4c00cbfe83352382b9df5040c4ac-14-1780186162-1780168162",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=tycsports",
+    "country": "Argentina",
+    "event_description": "Copa Argentina: \nInstituto vs Lanús",
+    "event_hour": "18:00",
+    "event_date": "2026-05-30",
+    "embed_name": "TYC Sports"
+  },
+  {
+    "title": "Copa Argentina: \nInstituto vs Lanús - TyC Sports | OP2",
+    "url": "https://ym9yzq.fubohd.com:443/tycsports/mono.m3u8?token=63983dc29efae0e377402537592e7eef0388e5fb-1-1780186162-1780168162",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=tycsports",
+    "country": "Argentina",
+    "event_description": "Copa Argentina: \nInstituto vs Lanús",
+    "event_hour": "18:00",
+    "event_date": "2026-05-30",
+    "embed_name": "TyC Sports | OP2"
+  },
+  {
+    "title": "Copa Argentina: \nInstituto vs Lanús - TYC Sports | OP3",
+    "url": "https://aw1wcm92zq.fubohd.com:443/tycsports/mono.m3u8?token=f5e11e242e9accda148d7ffe2ff88ca58dfad9af-b8-1780186163-1780168163",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=tycsports",
+    "country": "Argentina",
+    "event_description": "Copa Argentina: \nInstituto vs Lanús",
+    "event_hour": "18:00",
+    "event_date": "2026-05-30",
+    "embed_name": "TYC Sports | OP3"
+  },
+  {
+    "title": "Copa Argentina: \nInstituto vs Lanús - TyC Sports Internacional",
+    "url": "https://anvtcax.fubohd.com:443/tycinternacional/mono.m3u8?token=8b103ea1c3dfe9661be22985180dbbf613b8bcb3-6d-1780186163-1780168163",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=tycinternacional",
+    "country": "Argentina",
+    "event_description": "Copa Argentina: \nInstituto vs Lanús",
+    "event_hour": "18:00",
+    "event_date": "2026-05-30",
+    "embed_name": "TyC Sports Internacional"
+  },
+  {
+    "title": "Copa Argentina: \nInstituto vs Lanús - TyC Sports Internacional | OP2",
+    "url": "https://anvtcax.fubohd.com:443/tycinternacional/mono.m3u8?token=a098f2bc4f1c7c2b54521b523d5282b691a9c005-8a-1780186163-1780168163",
+    "type": "event",
+    "source": "https://tvtvhd.com/vivo/canal.php?stream=tycinternacional",
+    "country": "Argentina",
+    "event_description": "Copa Argentina: \nInstituto vs Lanús",
+    "event_hour": "18:00",
+    "event_date": "2026-05-30",
+    "embed_name": "TyC Sports Internacional | OP2"
+  },
+  {
+    "title": "Copa Argentina: \nInstituto vs Lanús - TyC Sports International | OP3",
+    "url": "https://aw1wcm92zq.fubohd.com:443/tycinternacional/mono.m3u8?token=211a2ca3ab73d8280bd27216dfd19ed40148f948-3d-1780186164-1780168164",
+    "type": "event",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=tycinternacional",
+    "country": "Argentina",
+    "event_description": "Copa Argentina: \nInstituto vs Lanús",
+    "event_hour": "18:00",
+    "event_date": "2026-05-30",
+    "embed_name": "TyC Sports International | OP3"
+  },
+  {
+    "title": "Brasileirão: Athletico-PR vs Mirassol - fanatiz 02",
+    "url": "https://wp9xqedt.fubohd.com:443/fanatiz2/mono.m3u8?token=cf4a6870e422a144e47992e0fb419a2597bef301-ef-1780186164-1780168164",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=fanatiz2",
+    "country": "Brasil",
+    "event_description": "Brasileirão: Athletico-PR vs Mirassol",
+    "event_hour": "16:00",
+    "event_date": "2026-05-30",
+    "embed_name": "fanatiz 02"
+  },
+  {
+    "title": "Primera División: \nDanubio vs Progreso - Disney+",
+    "url": "https://ym9yzq.fubohd.com:443/disney6/mono.m3u8?token=a31025555027d694020bab9626190d06de3d1f81-3d-1780186165-1780168165",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=disney6",
+    "country": "Uruguay",
+    "event_description": "Primera División: \nDanubio vs Progreso",
+    "event_hour": "15:00",
+    "event_date": "2026-05-30",
+    "embed_name": "Disney+"
+  },
+  {
+    "title": "Brasileirão: \nBahia vs Botafogo - Premiere 2 BR ",
+    "url": "https://x4bnd7lq.fubohd.com:443/premiere2/mono.m3u8?token=b4fb31bf0651824241858f2b0649f6c88ff83922-65-1780186165-1780168165",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=premiere2",
+    "country": "Brasil",
+    "event_description": "Brasileirão: \nBahia vs Botafogo",
+    "event_hour": "17:30",
+    "event_date": "2026-05-30",
+    "embed_name": "Premiere 2 BR "
+  },
+  {
+    "title": "Brasileirão: \nBahia vs Botafogo - fanatiz 04",
+    "url": "https://c2nvdxq.fubohd.com:443/fanatiz4/mono.m3u8?token=9d9eab7b67ff17a0e95f6d85534b6e2d480e7007-2b-1780186166-1780168166",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=fanatiz4",
+    "country": "Brasil",
+    "event_description": "Brasileirão: \nBahia vs Botafogo",
+    "event_hour": "17:30",
+    "event_date": "2026-05-30",
+    "embed_name": "fanatiz 04"
+  },
+  {
+    "title": "Brasileirão: \nBahia vs Botafogo - fanatiz 05",
+    "url": "https://rm8zcvk3.fubohd.com:443/fanatiz5/mono.m3u8?token=58993b6d3a39f2999faa5bcba5269e2fb9b9f869-ee-1780186166-1780168166",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=fanatiz5",
+    "country": "Brasil",
+    "event_description": "Brasileirão: \nBahia vs Botafogo",
+    "event_hour": "17:30",
+    "event_date": "2026-05-30",
+    "embed_name": "fanatiz 05"
+  },
+  {
+    "title": "Brasileirão: Grêmio vs Corinthians - Premiere 3 BR ",
+    "url": "https://ym9yzq.fubohd.com:443/premiere3/mono.m3u8?token=f53e036958d239a52748822d27ee95833b0c4eca-f5-1780186166-1780168166",
+    "type": "event",
+    "source": "https://tvtvhd.com/canales.php?stream=premiere3",
+    "country": "Brasil",
+    "event_description": "Brasileirão: Grêmio vs Corinthians",
+    "event_hour": "17:30",
+    "event_date": "2026-05-30",
+    "embed_name": "Premiere 3 BR "
+  },
+  {
+    "title": "Brasileirão: Grêmio vs Corinthians - fanatiz 06",
+    "url": "https://qzv4jmsc.fubohd.com:443/fanatiz6/mono.m3u8?token=dd13078ff9add821f7cb3738c7144c9b9eb06e6d-da-1780186167-1780168167",
+    "type": "event",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=fanatiz6",
+    "country": "Brasil",
+    "event_description": "Brasileirão: Grêmio vs Corinthians",
+    "event_hour": "17:30",
+    "event_date": "2026-05-30",
+    "embed_name": "fanatiz 06"
   },
   {
     "title": "Amistoso: \nEcuador vs Arabia Saudita - ECDF LigaPro",
-    "url": "https://anvtcax.fubohd.com:443/ecdf_ligapro/mono.m3u8?token=7c971ee3fb21d605821d11727dfc5001d041c342-76-1780166063-1780148063",
+    "url": "https://aw1wcm92zq.fubohd.com:443/ecdf_ligapro/mono.m3u8?token=7473e8adde20d272ebd99a40fa08d5142697d21f-4a-1780186167-1780168167",
     "type": "event",
     "source": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro",
     "country": "Amistoso",
@@ -550,140 +781,8 @@
     "embed_name": "ECDF LigaPro"
   },
   {
-    "title": "UEFA Champions League: \nUEFA Champions League: PSG vs Arsenal - LA FINAL - ESPN",
-    "url": "https://ag9wzq.fubohd.com:443/espn/mono.m3u8?token=43a511669d815e5d4cb87262395aef253475fff4-28-1780166064-1780148064",
-    "type": "event",
-    "source": "https://tvtvhd.com/canales.php?stream=espn",
-    "country": "UEFA Champions League",
-    "event_description": "UEFA Champions League: \nUEFA Champions League: PSG vs Arsenal - LA FINAL",
-    "event_hour": "13:00",
-    "event_date": "2026-05-30",
-    "embed_name": "ESPN"
-  },
-  {
-    "title": "UEFA Champions League: \nUEFA Champions League: PSG vs Arsenal - LA FINAL - ESPN AR┃OP2",
-    "url": "https://aw1wcm92zq.fubohd.com:443/espn/mono.m3u8?token=50857d2f39c9b2c1f0a6ac643a9d41493c63fdf5-62-1780166064-1780148064",
-    "type": "event",
-    "source": "https://tvtvhd.com/vivo/canal.php?stream=espn",
-    "country": "UEFA Champions League",
-    "event_description": "UEFA Champions League: \nUEFA Champions League: PSG vs Arsenal - LA FINAL",
-    "event_hour": "13:00",
-    "event_date": "2026-05-30",
-    "embed_name": "ESPN AR┃OP2"
-  },
-  {
-    "title": "UEFA Champions League: \nUEFA Champions League: PSG vs Arsenal - LA FINAL - ESPN AR┃OP3",
-    "url": "https://bGFuZQ.fubohd.com:443/espn/mono.m3u8?token=c17f24ed6235d79ff34b83c49da976e9f1218588-f2-1780166064-1780148064",
-    "type": "event",
-    "source": "https://tvtvhd.com/vivo/canales.php?stream=espn",
-    "country": "UEFA Champions League",
-    "event_description": "UEFA Champions League: \nUEFA Champions League: PSG vs Arsenal - LA FINAL",
-    "event_hour": "13:00",
-    "event_date": "2026-05-30",
-    "embed_name": "ESPN AR┃OP3"
-  },
-  {
-    "title": "UEFA Champions League: \nUEFA Champions League: PSG vs Arsenal - LA FINAL - Disney+",
-    "url": "https://qzv4jmsc.fubohd.com:443/disney4/mono.m3u8?token=2eb0495d1ba4d7a171e1b51a25e2290ba8c517a2-10-1780166065-1780148065",
-    "type": "event",
-    "source": "https://tvtvhd.com/canales.php?stream=disney4",
-    "country": "UEFA Champions League",
-    "event_description": "UEFA Champions League: \nUEFA Champions League: PSG vs Arsenal - LA FINAL",
-    "event_hour": "13:00",
-    "event_date": "2026-05-30",
-    "embed_name": "Disney+"
-  },
-  {
-    "title": "UEFA Champions League: \nUEFA Champions League: PSG vs Arsenal - LA FINAL - Fox Sports",
-    "url": "https://c2nvdxq.fubohd.com:443/foxsports/mono.m3u8?token=709f1b71e917071b01afdbbce0ac039a97b9a662-a-1780166065-1780148065",
-    "type": "event",
-    "source": "https://tvtvhd.com/canales.php?stream=foxsports",
-    "country": "UEFA Champions League",
-    "event_description": "UEFA Champions League: \nUEFA Champions League: PSG vs Arsenal - LA FINAL",
-    "event_hour": "13:00",
-    "event_date": "2026-05-30",
-    "embed_name": "Fox Sports"
-  },
-  {
-    "title": "UEFA Champions League: \nUEFA Champions League: PSG vs Arsenal - LA FINAL - TUDN USA",
-    "url": "https://agvyby.fubohd.com:443/tudn/mono.m3u8?token=d07cf874dc41383812245c209d035dfb4e461b89-48-1780166066-1780148066",
-    "type": "event",
-    "source": "https://tvtvhd.com/canales.php?stream=tudn",
-    "country": "UEFA Champions League",
-    "event_description": "UEFA Champions League: \nUEFA Champions League: PSG vs Arsenal - LA FINAL",
-    "event_hour": "13:00",
-    "event_date": "2026-05-30",
-    "embed_name": "TUDN USA"
-  },
-  {
-    "title": "UEFA Champions League: \nUEFA Champions League: PSG vs Arsenal - LA FINAL - TUDN USA | OP2",
-    "url": "https://dw5pdgvk.fubohd.com:443/tudn/mono.m3u8?token=904ebbbf9aa0673eb435abd2e167296b37a3d658-16-1780166066-1780148066",
-    "type": "event",
-    "source": "https://tvtvhd.com/vivo/canal.php?stream=tudn",
-    "country": "UEFA Champions League",
-    "event_description": "UEFA Champions League: \nUEFA Champions League: PSG vs Arsenal - LA FINAL",
-    "event_hour": "13:00",
-    "event_date": "2026-05-30",
-    "embed_name": "TUDN USA | OP2"
-  },
-  {
-    "title": "UEFA Champions League: \nUEFA Champions League: PSG vs Arsenal - LA FINAL - TUDN USA | OP3",
-    "url": "https://aw1wcm92zq.fubohd.com:443/tudn/mono.m3u8?token=e1bc702cee61b1e40cf28afbe7b3e787a4915b81-a1-1780166067-1780148067",
-    "type": "event",
-    "source": "https://tvtvhd.com/vivo/canales.php?stream=tudn",
-    "country": "UEFA Champions League",
-    "event_description": "UEFA Champions League: \nUEFA Champions League: PSG vs Arsenal - LA FINAL",
-    "event_hour": "13:00",
-    "event_date": "2026-05-30",
-    "embed_name": "TUDN USA | OP3"
-  },
-  {
-    "title": "UEFA Champions League: \nUEFA Champions League: PSG vs Arsenal - LA FINAL - Univision USA",
-    "url": "https://tyg2mnl9.fubohd.com:443/univision/mono.m3u8?token=0e41a174884d8069ea3af8f929ef1f0738261351-c3-1780166067-1780148067",
-    "type": "event",
-    "source": "https://tvtvhd.com/canales.php?stream=univision",
-    "country": "UEFA Champions League",
-    "event_description": "UEFA Champions League: \nUEFA Champions League: PSG vs Arsenal - LA FINAL",
-    "event_hour": "13:00",
-    "event_date": "2026-05-30",
-    "embed_name": "Univision USA"
-  },
-  {
-    "title": "Primera División: \nRacing vs Defensor Sporting - Disney+",
-    "url": "https://agvyby.fubohd.com:443/disney2/mono.m3u8?token=798e11dc565b739bb3d973ce7e701e68322af699-d8-1780166068-1780148068",
-    "type": "event",
-    "source": "https://tvtvhd.com/canales.php?stream=disney2",
-    "country": "Uruguay",
-    "event_description": "Primera División: \nRacing vs Defensor Sporting",
-    "event_hour": "10:00",
-    "event_date": "2026-05-30",
-    "embed_name": "Disney+"
-  },
-  {
-    "title": "LaLiga SmartBank: Real Sociedad II vs Cultural Leonesa - LaLiga TV Hypermotion ",
-    "url": "https://dw5pdgvk.fubohd.com:443/hypermotion1/mono.m3u8?token=84afc5add4b7cecdd969dac4abbf39b9f509f7e6-62-1780166068-1780148068",
-    "type": "event",
-    "source": "https://tvtvhd.com/canales.php?stream=hypermotion1",
-    "country": "España",
-    "event_description": "LaLiga SmartBank: Real Sociedad II vs Cultural Leonesa",
-    "event_hour": "11:15",
-    "event_date": "2026-05-30",
-    "embed_name": "LaLiga TV Hypermotion "
-  },
-  {
-    "title": "LaLiga SmartBank: Real Sociedad II vs Cultural Leonesa - Disney+",
-    "url": "https://tyg2mnl9.fubohd.com:443/disney3/mono.m3u8?token=8f63b5ff6c68453fc6ae7ad9ae6855619a3e4323-2f-1780166068-1780148068",
-    "type": "event",
-    "source": "https://tvtvhd.com/canales.php?stream=disney3",
-    "country": "España",
-    "event_description": "LaLiga SmartBank: Real Sociedad II vs Cultural Leonesa",
-    "event_hour": "11:15",
-    "event_date": "2026-05-30",
-    "embed_name": "Disney+"
-  },
-  {
     "title": "ESPN (LATINOAMERICA)",
-    "url": "https://wp9xqedt.fubohd.com:443/espn/mono.m3u8?token=afe9fe9665c47f8e2b2c857da326bb8daa13f79e-1-1780166069-1780148069",
+    "url": "https://bGFuZQ.fubohd.com:443/espn/mono.m3u8?token=7f36154bebeb26f679a79974f5f11e040ca9f1e2-40-1780186168-1780168168",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=espn",
     "country": "LATINOAMERICA",
@@ -691,7 +790,7 @@
   },
   {
     "title": "ESPN 2 (LATINOAMERICA)",
-    "url": "https://ym9yzq.fubohd.com:443/espn2/mono.m3u8?token=fc1506991985d37b7fd6ed5a21b4678443238044-8a-1780166069-1780148069",
+    "url": "https://wp9xqedt.fubohd.com:443/espn2/mono.m3u8?token=94ec205aed8df2dfc30b85a8f5d021ba28953d04-8f-1780186168-1780168168",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
     "country": "LATINOAMERICA",
@@ -699,7 +798,7 @@
   },
   {
     "title": "ESPN 3 (LATINOAMERICA)",
-    "url": "https://tyg2mnl9.fubohd.com:443/espn3/mono.m3u8?token=332f3c58c2a581b1d62d1051077e3e7121601207-a1-1780166070-1780148070",
+    "url": "https://dw5pdgvk.fubohd.com:443/espn3/mono.m3u8?token=532991878f8584a405a22c2ab3e346569b2e88a5-3-1780186169-1780168169",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
     "country": "LATINOAMERICA",
@@ -707,7 +806,7 @@
   },
   {
     "title": "ESPN 4 (LATINOAMERICA)",
-    "url": "https://agvyby.fubohd.com:443/espn4/mono.m3u8?token=bb58d354cf86ba87a54de6d8f807b1282f54bc83-44-1780166070-1780148070",
+    "url": "https://dw5pdgvk.fubohd.com:443/espn4/mono.m3u8?token=79a8e05195b42082417bd7e79e06c4f494e08eb2-1e-1780186169-1780168169",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
     "country": "LATINOAMERICA",
@@ -715,7 +814,7 @@
   },
   {
     "title": "ESPN 5 (LATINOAMERICA)",
-    "url": "https://tyg2mnl9.fubohd.com:443/espn5/mono.m3u8?token=79cab930db4aa302702f61a29c1f011005399d6e-c-1780166071-1780148071",
+    "url": "https://c2nvdxq.fubohd.com:443/espn5/mono.m3u8?token=1e84ca6e900caae41dfcc86b12f89f087a889770-6b-1780186170-1780168170",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
     "country": "LATINOAMERICA",
@@ -723,7 +822,7 @@
   },
   {
     "title": "ESPN 6 (LATINOAMERICA)",
-    "url": "https://dw5pdgvk.fubohd.com:443/espn6/mono.m3u8?token=f0c13d72e18a80f3d27edda79572310473e76f8b-f9-1780166071-1780148071",
+    "url": "https://x4bnd7lq.fubohd.com:443/espn6/mono.m3u8?token=b9176b89bb52c1c4bc207362067730d9d9ff36c2-cb-1780186170-1780168170",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=espn6",
     "country": "LATINOAMERICA",
@@ -731,7 +830,7 @@
   },
   {
     "title": "ESPN 7 (LATINOAMERICA)",
-    "url": "https://dw5pdgvk.fubohd.com:443/espn7/mono.m3u8?token=f02a8876929fb66c3f20acf06ed92983ba86e645-d9-1780166072-1780148072",
+    "url": "https://agvyby.fubohd.com:443/espn7/mono.m3u8?token=a27fc8b15acc7395eb3bfeda5b82f971f30f9b3b-eb-1780186170-1780168170",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=espn7",
     "country": "LATINOAMERICA",
@@ -739,7 +838,7 @@
   },
   {
     "title": "DSports (LATINOAMERICA)",
-    "url": "https://anvtcax.fubohd.com:443/dsports/mono.m3u8?token=d4125b49fde41178fc0d9eaff82925e1754fe849-b4-1780166072-1780148072",
+    "url": "https://agvyby.fubohd.com:443/dsports/mono.m3u8?token=eeac7f661d56bb17ca90691a48e81c8cec9b6f60-18-1780186171-1780168171",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=dsports",
     "country": "LATINOAMERICA",
@@ -747,7 +846,7 @@
   },
   {
     "title": "DSports 2 (LATINOAMERICA)",
-    "url": "https://tyg2mnl9.fubohd.com:443/dsports2/mono.m3u8?token=ea3d5966461d907785c013bf9efa0347fa1f4f98-17-1780166073-1780148073",
+    "url": "https://cgxheq.fubohd.com:443/dsports2/mono.m3u8?token=ab4248d04eb7a4d8232ebbef29747521ed683126-8f-1780186171-1780168171",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=dsports2",
     "country": "LATINOAMERICA",
@@ -755,7 +854,7 @@
   },
   {
     "title": "GOLTV (LATINOAMERICA)",
-    "url": "https://tyg2mnl9.fubohd.com:443/goltv/mono.m3u8?token=3a47228796bcd1c3544b9214531d2c238f4e796a-ae-1780166073-1780148073",
+    "url": "https://ym9yzq.fubohd.com:443/goltv/mono.m3u8?token=b45433d4920e80368e82f42f455cb72b80eb782b-36-1780186172-1780168172",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=goltv",
     "country": "LATINOAMERICA",
@@ -763,7 +862,7 @@
   },
   {
     "title": "VTV Plus (LATINOAMERICA)",
-    "url": "https://dw5pdgvk.fubohd.com:443/vtvplus/mono.m3u8?token=6b5ebd85ba496a5a1534403758e9f1d85d2b4d21-a3-1780166073-1780148073",
+    "url": "https://agvyby.fubohd.com:443/vtvplus/mono.m3u8?token=6ab38d53a2fb67e516fb1a70536f9edc80dd67e7-a2-1780186172-1780168172",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=vtvplus",
     "country": "LATINOAMERICA",
@@ -771,7 +870,7 @@
   },
   {
     "title": "Fox Sports (ARGENTINA)",
-    "url": "https://anvtcax.fubohd.com:443/foxsports/mono.m3u8?token=06d3f67f18472744d9bde202505ac773fa2011c6-69-1780166074-1780148074",
+    "url": "https://ym9yzq.fubohd.com:443/foxsports/mono.m3u8?token=645e5e64ba05d510056c86f696350d7cf2918a0b-fb-1780186172-1780168172",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=foxsports",
     "country": "ARGENTINA",
@@ -779,7 +878,7 @@
   },
   {
     "title": "Fox Sports 2 (ARGENTINA)",
-    "url": "https://x4bnd7lq.fubohd.com:443/foxsports2/mono.m3u8?token=23014c62ffc4e1955876ec676494667b109adefb-c5-1780166074-1780148074",
+    "url": "https://agvyby.fubohd.com:443/foxsports2/mono.m3u8?token=a20f1f51793bf67f899c065df7ad915ab09a55bb-bb-1780186173-1780168173",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=foxsports2",
     "country": "ARGENTINA",
@@ -787,7 +886,7 @@
   },
   {
     "title": "Fox Sports 3 (ARGENTINA)",
-    "url": "https://rm8zcvk3.fubohd.com:443/foxsports3/mono.m3u8?token=7516effc0359e5de7bcbd2d1192fce2cc71fc44f-d9-1780166075-1780148075",
+    "url": "https://anvtcax.fubohd.com:443/foxsports3/mono.m3u8?token=78e74dbd0111a8553bf15465c14254ed7577c5dc-54-1780186173-1780168173",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=foxsports3",
     "country": "ARGENTINA",
@@ -795,7 +894,7 @@
   },
   {
     "title": "TNT Sports (ARGENTINA)",
-    "url": "https://aw1wcm92zq.fubohd.com:443/tntsports/mono.m3u8?token=cfc2ba55a47beec0e85fa4ed14472a57ecc70fb1-90-1780166075-1780148075",
+    "url": "https://rm8zcvk3.fubohd.com:443/tntsports/mono.m3u8?token=4807923c3db0ff000762cb78aeb3defc05f235da-58-1780186174-1780168174",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=tntsports",
     "country": "ARGENTINA",
@@ -803,7 +902,7 @@
   },
   {
     "title": "ESPN Premium (ARGENTINA)",
-    "url": "https://anvtcax.fubohd.com:443/espnpremium/mono.m3u8?token=fffe5dc59420b779e7049ca42aec90b6142575c1-88-1780166076-1780148076",
+    "url": "https://ag9wzq.fubohd.com:443/espnpremium/mono.m3u8?token=86b735833bb8f1cc00b58f8d1bd2cc44760f7336-2e-1780186174-1780168174",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=espnpremium",
     "country": "ARGENTINA",
@@ -811,7 +910,7 @@
   },
   {
     "title": "TyC Sports (ARGENTINA)",
-    "url": "https://cgxheq.fubohd.com:443/tycsports/mono.m3u8?token=e598246c72369477b30895599313268b203737ab-84-1780166076-1780148076",
+    "url": "https://dw5pdgvk.fubohd.com:443/tycsports/mono.m3u8?token=4543ff88ceaa0976ac9dcc2dcf19d0a4fbac5d7c-99-1780186175-1780168175",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=tycsports",
     "country": "ARGENTINA",
@@ -819,7 +918,7 @@
   },
   {
     "title": "TyC Sports Internacional (USA) (ARGENTINA)",
-    "url": "https://bGFuZQ.fubohd.com:443/tycinternacional/mono.m3u8?token=4258dc633cecf038703bccecaca803ce93d95429-cc-1780166076-1780148076",
+    "url": "https://qzv4jmsc.fubohd.com:443/tycinternacional/mono.m3u8?token=7c6ba124b24df5a0ee4040028cadbb260be3b567-d8-1780186175-1780168175",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=tycinternacional",
     "country": "ARGENTINA",
@@ -827,7 +926,7 @@
   },
   {
     "title": "Telefe (ARGENTINA)",
-    "url": "https://dw5pdgvk.fubohd.com:443/telefe/mono.m3u8?token=961f4541768b8885adcb2a2ea65471ee9bc60055-3-1780166077-1780148077",
+    "url": "https://wp9xqedt.fubohd.com:443/telefe/mono.m3u8?token=e34df9da6e8edbee326eeed8e0c7019b3e1af3c1-e7-1780186175-1780168175",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=telefe",
     "country": "ARGENTINA",
@@ -835,7 +934,7 @@
   },
   {
     "title": "GOLPERU (PERÚ)",
-    "url": "https://tyg2mnl9.fubohd.com:443/golperu/mono.m3u8?token=9de48fea26a952b854848d62c336683b5bac5dc6-ce-1780166077-1780148077",
+    "url": "https://tyg2mnl9.fubohd.com:443/golperu/mono.m3u8?token=0f4817fbce0d805c79d763971307f0e10b930ae1-1c-1780186176-1780168176",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=golperu",
     "country": "PERÚ",
@@ -843,7 +942,7 @@
   },
   {
     "title": "Liga1 MAX (PERÚ)",
-    "url": "https://dw5pdgvk.fubohd.com:443/liga1max/mono.m3u8?token=d152950e5427e8a8d46b16e6fd76d7f78b0b5c57-d4-1780166078-1780148078",
+    "url": "https://x4bnd7lq.fubohd.com:443/liga1max/mono.m3u8?token=1a96befe1eece223ce3d889014e7478ea6594344-a3-1780186176-1780168176",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=liga1max",
     "country": "PERÚ",
@@ -851,7 +950,7 @@
   },
   {
     "title": "Movistar Deportes (PERÚ)",
-    "url": "https://rm8zcvk3.fubohd.com:443/movistar/mono.m3u8?token=40a4bc198a599eca22df63ce73b192da0f05d3c9-31-1780166078-1780148078",
+    "url": "https://ag9wzq.fubohd.com:443/movistar/mono.m3u8?token=061074a9cdcf0394c3c2a4d353e58ee6f43ff840-ed-1780186177-1780168177",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=movistar",
     "country": "PERÚ",
@@ -859,7 +958,7 @@
   },
   {
     "title": "Win Sports plus (2) (COLOMBIA)",
-    "url": "https://ag9wzq.fubohd.com:443/winsports2/mono.m3u8?token=c7f826ecc8dddb6600d8c177f7fb652d83448063-57-1780166079-1780148079",
+    "url": "https://tyg2mnl9.fubohd.com:443/winsports2/mono.m3u8?token=4406ddf488b09f4fa8d8c9e4cc74e4932e89aaa1-6a-1780186177-1780168177",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=winsports2",
     "country": "COLOMBIA",
@@ -867,7 +966,7 @@
   },
   {
     "title": "Fox Sports (MÉXICO)",
-    "url": "https://wp9xqedt.fubohd.com:443/foxsportsmx/mono.m3u8?token=dffcb7a013c6a31ec23f7b9fd5befe638c23aa63-e2-1780166079-1780148079",
+    "url": "https://wp9xqedt.fubohd.com:443/foxsportsmx/mono.m3u8?token=5b2fcd11862da9d7f66cc484aa259629ae2f319a-27-1780186178-1780168178",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=foxsportsmx",
     "country": "MÉXICO",
@@ -875,7 +974,7 @@
   },
   {
     "title": "Fox Sports 2 (MÉXICO)",
-    "url": "https://x4bnd7lq.fubohd.com:443/foxsports2mx/mono.m3u8?token=d484a2237654e7be700aba429cb9a96a8049fe5a-91-1780166080-1780148080",
+    "url": "https://wp9xqedt.fubohd.com:443/foxsports2mx/mono.m3u8?token=885d5981b5b6130bba0ee52a20235a655bb1a367-16-1780186178-1780168178",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=foxsports2mx",
     "country": "MÉXICO",
@@ -883,7 +982,7 @@
   },
   {
     "title": "Fox Sports 3 (MÉXICO)",
-    "url": "https://rm8zcvk3.fubohd.com:443/foxsports3mx/mono.m3u8?token=4a83938388908abcbf0f847ba5aa9b52c0e6f721-46-1780166080-1780148080",
+    "url": "https://anvtcax.fubohd.com:443/foxsports3mx/mono.m3u8?token=0f28f9087cf4a03c07c1bdee3d21f91443519e1c-e2-1780186178-1780168178",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=foxsports3mx",
     "country": "MÉXICO",
@@ -891,7 +990,7 @@
   },
   {
     "title": "Fox Sports Premium (MÉXICO)",
-    "url": "https://bGFuZQ.fubohd.com:443/foxsportspremium/mono.m3u8?token=4ac2e1ca2bf53dae80cd6367de6a35349621a6f3-60-1780166080-1780148080",
+    "url": "https://x4bnd7lq.fubohd.com:443/foxsportspremium/mono.m3u8?token=790096e252ede80223f26f34e2f1114bbcd4d433-42-1780186179-1780168179",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=foxsportspremium",
     "country": "MÉXICO",
@@ -899,7 +998,7 @@
   },
   {
     "title": "ESPN (MÉXICO)",
-    "url": "https://cgxheq.fubohd.com:443/espnmx/mono.m3u8?token=443da96ed6bbfc8c7fe1f17685dae9afbdd862b9-41-1780166081-1780148081",
+    "url": "https://qzv4jmsc.fubohd.com:443/espnmx/mono.m3u8?token=22d44572026cd6fc6d70c77c9b8e0b5cef6131bd-ec-1780186179-1780168179",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=espnmx",
     "country": "MÉXICO",
@@ -907,7 +1006,7 @@
   },
   {
     "title": "ESPN 2 (MÉXICO)",
-    "url": "https://aw1wcm92zq.fubohd.com:443/espn2mx/mono.m3u8?token=4d691ac9330bc61d02942ac325bd401071f92ecc-16-1780166081-1780148081",
+    "url": "https://ag9wzq.fubohd.com:443/espn2mx/mono.m3u8?token=e587a1007c9537e5c84ec9817d00e165182a05b3-bf-1780186180-1780168180",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=espn2mx",
     "country": "MÉXICO",
@@ -915,7 +1014,7 @@
   },
   {
     "title": "ESPN 3 (MÉXICO)",
-    "url": "https://ag9wzq.fubohd.com:443/espn3mx/mono.m3u8?token=7ece200a912d4b04b3dfa2071a2754cdad196d9d-cd-1780166082-1780148082",
+    "url": "https://dw5pdgvk.fubohd.com:443/espn3mx/mono.m3u8?token=56f766f7377cff7f70767ad8a6855f85bb6c9ae4-af-1780186180-1780168180",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=espn3mx",
     "country": "MÉXICO",
@@ -923,7 +1022,7 @@
   },
   {
     "title": "ESPN 4 (MÉXICO)",
-    "url": "https://qzv4jmsc.fubohd.com:443/espn4mx/mono.m3u8?token=d5cf2a766c58bebb43f6d64262006c4910955977-2c-1780166082-1780148082",
+    "url": "https://anvtcax.fubohd.com:443/espn4mx/mono.m3u8?token=e366a3f10e5543ab88134398173e847c593fa037-4c-1780186181-1780168181",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=espn4mx",
     "country": "MÉXICO",
@@ -931,7 +1030,7 @@
   },
   {
     "title": "Azteca 7 (MÉXICO)",
-    "url": "https://rm8zcvk3.fubohd.com:443/azteca7/mono.m3u8?token=676c5983775fb04fc1b1c091cd5be68a8fcd070c-79-1780166083-1780148083",
+    "url": "https://aw1wcm92zq.fubohd.com:443/azteca7/mono.m3u8?token=cf29a02829d2c88671ea0b8a04d549c834019ff0-b-1780186181-1780168181",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=azteca7",
     "country": "MÉXICO",
@@ -939,7 +1038,7 @@
   },
   {
     "title": "Canal 5 (MÉXICO)",
-    "url": "https://aw1wcm92zq.fubohd.com:443/canal5/mono.m3u8?token=2adc42bc63d4a811ecc82d76ee058dc8f30d573a-52-1780166083-1780148083",
+    "url": "https://bGFuZQ.fubohd.com:443/canal5/mono.m3u8?token=edaf43750bdc4ea8e139770cf9c55bfca65a5fa2-f0-1780186181-1780168181",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=canal5",
     "country": "MÉXICO",
@@ -947,7 +1046,7 @@
   },
   {
     "title": "Azteca Deportes (MÉXICO)",
-    "url": "https://aw1wcm92zq.fubohd.com:443/azteca_deportes/mono.m3u8?token=cb0e4be34ddc2a584589827f627b2e9f87372f48-d7-1780166084-1780148084",
+    "url": "https://dw5pdgvk.fubohd.com:443/azteca_deportes/mono.m3u8?token=13723e78993033a42013fe3cc8e1733ed9c9d708-c2-1780186182-1780168182",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=azteca_deportes",
     "country": "MÉXICO",
@@ -955,7 +1054,7 @@
   },
   {
     "title": "Fox Deportes (USA)",
-    "url": "https://x4bnd7lq.fubohd.com:443/foxdeportes/mono.m3u8?token=bec6a8fbbc6ca23040c8d25f33447bbe07498bfd-c6-1780166084-1780148084",
+    "url": "https://wp9xqedt.fubohd.com:443/foxdeportes/mono.m3u8?token=353cf16ad8619a6d144ed9b495040daeaaf64b8f-bc-1780186182-1780168182",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
     "country": "USA",
@@ -963,7 +1062,7 @@
   },
   {
     "title": "ESPN Deportes (USA)",
-    "url": "https://qzv4jmsc.fubohd.com:443/espndeportes/mono.m3u8?token=462f19118bde0134bc1185b4112088d5bed02d4e-76-1780166084-1780148084",
+    "url": "https://c2nvdxq.fubohd.com:443/espndeportes/mono.m3u8?token=6d4d9776d888b8c0720a8b71c7c8fc81b04e7bba-ad-1780186183-1780168183",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
     "country": "USA",
@@ -971,7 +1070,7 @@
   },
   {
     "title": "TUDN (USA)",
-    "url": "https://cgxheq.fubohd.com:443/tudn/mono.m3u8?token=30a69f6c852a1da53f0a01bd2b2b40db87cf654f-9b-1780166085-1780148085",
+    "url": "https://ag9wzq.fubohd.com:443/tudn/mono.m3u8?token=4c030e997dd140074246ee7dba75c20b6de0e03e-7e-1780186183-1780168183",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=tudn",
     "country": "USA",
@@ -979,7 +1078,7 @@
   },
   {
     "title": "BeIN Sports Español (USA)",
-    "url": "https://aw1wcm92zq.fubohd.com:443/beinsportes/mono.m3u8?token=28b4002290fe135139d8cd655928fe27f74e60f3-9b-1780166085-1780148085",
+    "url": "https://tyg2mnl9.fubohd.com:443/beinsportes/mono.m3u8?token=902aef0ae5a727369548d8a573e722234aa8c0d7-45-1780186184-1780168184",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=beinsportes",
     "country": "USA",
@@ -987,7 +1086,7 @@
   },
   {
     "title": "Unimás (USA)",
-    "url": "https://anvtcax.fubohd.com:443/unimas/mono.m3u8?token=9336f51a7646198d0a829199c95aa3d10d83cbb9-f3-1780166086-1780148086",
+    "url": "https://tyg2mnl9.fubohd.com:443/unimas/mono.m3u8?token=19b9afbc6969525073d96aa6f9287c5fc7259638-95-1780186184-1780168184",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=unimas",
     "country": "USA",
@@ -995,7 +1094,7 @@
   },
   {
     "title": "BeIN Sports Xtra Español (USA)",
-    "url": "https://aw1wcm92zq.fubohd.com:443/beinsport_xtra_espanol/mono.m3u8?token=21dccb21e4fabcf8e75ea8cef25fd5e361b98153-23-1780166086-1780148086",
+    "url": "https://wp9xqedt.fubohd.com:443/beinsport_xtra_espanol/mono.m3u8?token=892cd9fc853c671c792d69b73da3995307280218-c2-1780186184-1780168184",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=beinsport_xtra_espanol",
     "country": "USA",
@@ -1003,7 +1102,7 @@
   },
   {
     "title": "USAnetwork (USA)",
-    "url": "https://x4bnd7lq.fubohd.com:443/usanetwork/mono.m3u8?token=f2147cb09dfd5178cd2b0137d940074fa5ba5432-7b-1780166087-1780148087",
+    "url": "https://bGFuZQ.fubohd.com:443/usanetwork/mono.m3u8?token=296890da252dda1003ed0e7e04cde1ad5ed297c7-85-1780186185-1780168185",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=usanetwork",
     "country": "USA",
@@ -1011,7 +1110,7 @@
   },
   {
     "title": "Telemundo (USA)",
-    "url": "https://cgxheq.fubohd.com:443/telemundo/mono.m3u8?token=7115e14aec89d98ea64551927f573bd543c42c3a-26-1780166087-1780148087",
+    "url": "https://anvtcax.fubohd.com:443/telemundo/mono.m3u8?token=090fdd09e4c2b1867e3313efbe83f51b039e21b4-c5-1780186185-1780168185",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=telemundo",
     "country": "USA",
@@ -1019,7 +1118,7 @@
   },
   {
     "title": "Premiere 1 (BRASIL)",
-    "url": "https://anvtcax.fubohd.com:443/premiere1/mono.m3u8?token=abc62e3bddb9f311dcaea69e8b89c3b436ee664e-3a-1780166087-1780148087",
+    "url": "https://c2nvdxq.fubohd.com:443/premiere1/mono.m3u8?token=c307432e0dfdbbfb65ced3ac403f0870e5c16dff-81-1780186186-1780168186",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=premiere1",
     "country": "BRASIL",
@@ -1027,7 +1126,7 @@
   },
   {
     "title": "Premiere 2 (BRASIL)",
-    "url": "https://rm8zcvk3.fubohd.com:443/premiere2/mono.m3u8?token=9fc06fd35d395525a090f65a22a8bfed745e1c3b-96-1780166088-1780148088",
+    "url": "https://aw1wcm92zq.fubohd.com:443/premiere2/mono.m3u8?token=e58561aced2aa03a7c183ca461705b94dcc308b2-6d-1780186186-1780168186",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=premiere2",
     "country": "BRASIL",
@@ -1035,7 +1134,7 @@
   },
   {
     "title": "Premiere 3 (BRASIL)",
-    "url": "https://anvtcax.fubohd.com:443/premiere3/mono.m3u8?token=b1dff8471b34c6ee4cdbd46f51cf832534b84bfe-6-1780166088-1780148088",
+    "url": "https://ym9yzq.fubohd.com:443/premiere3/mono.m3u8?token=6dd6ccbb9fd19bf745a3d0d83c1594da19ca6d4b-c7-1780186186-1780168186",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=premiere3",
     "country": "BRASIL",
@@ -1043,7 +1142,7 @@
   },
   {
     "title": "Premiere 5 (BRASIL)",
-    "url": "https://c2nvdxq.fubohd.com:443/premiere5/mono.m3u8?token=1919748238f7dc2a1362b2a37257fe810c3d27be-2-1780166089-1780148089",
+    "url": "https://tyg2mnl9.fubohd.com:443/premiere5/mono.m3u8?token=cbde6ffd5cea59ae7e8df66a7783c6c42d8e6ece-ac-1780186187-1780168187",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=premiere5",
     "country": "BRASIL",
@@ -1051,7 +1150,7 @@
   },
   {
     "title": "Sportv (BRASIL)",
-    "url": "https://anvtcax.fubohd.com:443/sportv/mono.m3u8?token=6456ab85db2e196b4178596f0201189dcafe4e8f-2-1780166089-1780148089",
+    "url": "https://cgxheq.fubohd.com:443/sportv/mono.m3u8?token=02cbcf9b21c42b838131ef0919c626cb49967fad-1-1780186187-1780168187",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
     "country": "BRASIL",
@@ -1059,7 +1158,7 @@
   },
   {
     "title": "Sportv 2 (BRASIL)",
-    "url": "https://aw1wcm92zq.fubohd.com:443/sportv2/mono.m3u8?token=f0214ab58019addf60223b126f2297403d3e8112-1f-1780166090-1780148090",
+    "url": "https://aw1wcm92zq.fubohd.com:443/sportv2/mono.m3u8?token=355833f4850a36b688bc7fc4664a6d0be11c66e9-11-1780186188-1780168188",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=sportv2",
     "country": "BRASIL",
@@ -1067,7 +1166,7 @@
   },
   {
     "title": "Sportv 3 (BRASIL)",
-    "url": "https://dw5pdgvk.fubohd.com:443/sportv3/mono.m3u8?token=c34cfdd538bb204f40ec6a36e1d47836bcf0a9ff-b0-1780166090-1780148090",
+    "url": "https://qzv4jmsc.fubohd.com:443/sportv3/mono.m3u8?token=0f1abd1d38f5538ae27b35972ada34e82db038be-2-1780186188-1780168188",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=sportv3",
     "country": "BRASIL",
@@ -1075,7 +1174,7 @@
   },
   {
     "title": "ESPN 1 NL (MUNDO)",
-    "url": "https://agvyby.fubohd.com:443/espn1_nl/mono.m3u8?token=47f374aac380f97fb8a09e5c09b1880bf301e988-8d-1780166091-1780148091",
+    "url": "https://c2nvdxq.fubohd.com:443/espn1_nl/mono.m3u8?token=e333d1d2a5f677650f77fae352912144bf2bc883-6d-1780186189-1780168189",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl",
     "country": "MUNDO",
@@ -1083,7 +1182,7 @@
   },
   {
     "title": "ESPN 2 NL (MUNDO)",
-    "url": "https://rm8zcvk3.fubohd.com:443/espn2_nl/mono.m3u8?token=03169bd08fbd5b8f4452f185675a8e80b3addf7e-fb-1780166091-1780148091",
+    "url": "https://a2vlca.fubohd.com:443/espn2_nl/mono.m3u8?token=db8bd55eae06e8099d55b6484f2654ce4b0e7ac6-4-1780186189-1780168189",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=espn2_nl",
     "country": "MUNDO",
@@ -1091,7 +1190,7 @@
   },
   {
     "title": "ESPN 3 NL (MUNDO)",
-    "url": "https://ym9yzq.fubohd.com:443/espn3_nl/mono.m3u8?token=d1691220126d524e224de17065bcf52b9c42a424-35-1780166091-1780148091",
+    "url": "https://ym9yzq.fubohd.com:443/espn3_nl/mono.m3u8?token=9372841ce45dc089c52504d5a762e875e71d7c90-74-1780186189-1780168189",
     "type": "channel",
     "source": "https://tvtvhd.com/vivo/canales.php?stream=espn3_nl",
     "country": "MUNDO",
