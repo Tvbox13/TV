@@ -1,13 +1,35 @@
 [
   {
-    "title": "Amistoso: \nPerú vs España - TV LA 1ES",
+    "title": "Copa del Mundo: México vs Sur África - Telemundo 2",
+    "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNJU)/master.mpd",
+    "type": "event",
+    "source": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY=",
+    "country": "mundial 2026",
+    "event_description": "Copa del Mundo: México vs Sur África",
+    "event_hour": "16:00",
+    "event_date": "2026-06-11",
+    "embed_name": "Telemundo 2"
+  },
+  {
+    "title": "Copa del Mundo: México vs Sur África - TV LA 1ES",
     "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
     "type": "event",
     "source": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE=",
-    "country": "Perú",
-    "event_description": "Amistoso: \nPerú vs España",
-    "event_hour": "23:00",
-    "event_date": "2026-06-08",
+    "country": "mundial 2026",
+    "event_description": "Copa del Mundo: México vs Sur África",
+    "event_hour": "16:00",
+    "event_date": "2026-06-11",
     "embed_name": "TV LA 1ES"
+  },
+  {
+    "title": "Copa del Mundo: \nCorea del Sur vs República Checa - Telemundo 2",
+    "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNJU)/master.mpd",
+    "type": "event",
+    "source": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY=",
+    "country": "mundial 2026",
+    "event_description": "Copa del Mundo: \nCorea del Sur vs República Checa",
+    "event_hour": "23:00",
+    "event_date": "2026-06-11",
+    "embed_name": "Telemundo 2"
   }
 ]
