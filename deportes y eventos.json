@@ -11,6 +11,17 @@
     "embed_name": "Telemundo 2"
   },
   {
+    "title": "Copa del Mundo: \nCanadá vs Bosnia-Herzegovina - TVE la 1 ES ",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+    "type": "event",
+    "source": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE=",
+    "country": "mundial 2026",
+    "event_description": "Copa del Mundo: \nCanadá vs Bosnia-Herzegovina",
+    "event_hour": "16:00",
+    "event_date": "2026-06-12",
+    "embed_name": "TVE la 1 ES "
+  },
+  {
     "title": "Copa del Mundo: \nEE. UU. vs Paraguay - Telemundo 2",
     "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNJU)/master.mpd",
     "type": "event",
