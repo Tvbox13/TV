@@ -1,35 +1,418 @@
 [
   {
-    "title": "Copa del Mundo: \nCanadá vs Bosnia-Herzegovina - Telemundo 2",
-    "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNJU)/master.mpd",
-    "type": "event",
-    "source": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY=",
-    "country": "mundial 2026",
-    "event_description": "Copa del Mundo: \nCanadá vs Bosnia-Herzegovina",
-    "event_hour": "16:00",
-    "event_date": "2026-06-12",
-    "embed_name": "Telemundo 2"
+    "title": "ESPN (LATINOAMERICA)",
+    "url": "https://cxm10.futbolonlinehd.com:443/espn/mono.m3u8?token=0a856f2a595fa42c457a37d44de33d036b7b1b7e-78-1781341077-1781323077",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+    "country": "LATINOAMERICA",
+    "status": "Activo"
   },
   {
-    "title": "Copa del Mundo: \nCanadá vs Bosnia-Herzegovina - TVE la 1 ES ",
-    "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
-    "type": "event",
-    "source": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE=",
-    "country": "mundial 2026",
-    "event_description": "Copa del Mundo: \nCanadá vs Bosnia-Herzegovina",
-    "event_hour": "16:00",
-    "event_date": "2026-06-12",
-    "embed_name": "TVE la 1 ES "
+    "title": "ESPN 2 (LATINOAMERICA)",
+    "url": "https://cxm2.futbolonlinehd.com:443/espn2/mono.m3u8?token=6c7b8ab8e2e438e2de0bcba8e1e3590af0aa5785-c0-1781341077-1781323077",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+    "country": "LATINOAMERICA",
+    "status": "Activo"
   },
   {
-    "title": "Copa del Mundo: \nEE. UU. vs Paraguay - Telemundo 2",
-    "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNJU)/master.mpd",
-    "type": "event",
-    "source": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY=",
-    "country": "mundial 2026",
-    "event_description": "Copa del Mundo: \nEE. UU. vs Paraguay",
-    "event_hour": "22:00",
-    "event_date": "2026-06-12",
-    "embed_name": "Telemundo 2"
+    "title": "ESPN 3 (LATINOAMERICA)",
+    "url": "https://cxm1.futbolonlinehd.com:443/espn3/mono.m3u8?token=54e84379766a905ee61d3d936e820f882dce0006-67-1781341078-1781323078",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
+    "country": "LATINOAMERICA",
+    "status": "Activo"
+  },
+  {
+    "title": "ESPN 4 (LATINOAMERICA)",
+    "url": "https://cxm2.futbolonlinehd.com:443/espn4/mono.m3u8?token=8c32dfc72fd2914e1673aa8b7491f49ffdb7d98c-fe-1781341078-1781323078",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
+    "country": "LATINOAMERICA",
+    "status": "Activo"
+  },
+  {
+    "title": "ESPN 5 (LATINOAMERICA)",
+    "url": "https://cxm7.futbolonlinehd.com:443/espn5/mono.m3u8?token=76261c32ead601ab86d2fbec7c6f8899337d3de5-d2-1781341079-1781323079",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
+    "country": "LATINOAMERICA",
+    "status": "Activo"
+  },
+  {
+    "title": "ESPN 6 (LATINOAMERICA)",
+    "url": "https://cxm3.futbolonlinehd.com:443/espn6/mono.m3u8?token=c8765f3374598ac0f8c96b56d0e155200c9c8ea2-15-1781341079-1781323079",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=espn6",
+    "country": "LATINOAMERICA",
+    "status": "Activo"
+  },
+  {
+    "title": "ESPN 7 (LATINOAMERICA)",
+    "url": "https://cxm4.futbolonlinehd.com:443/espn7/mono.m3u8?token=53d7ec399439f06ccfa3d36330341804002e236a-44-1781341080-1781323080",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=espn7",
+    "country": "LATINOAMERICA",
+    "status": "Activo"
+  },
+  {
+    "title": "DSports (LATINOAMERICA)",
+    "url": "https://cxm8.futbolonlinehd.com:443/dsports/mono.m3u8?token=5f1d8d073baa418b4135e1de82ce01b71175de58-1-1781341081-1781323081",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=dsports",
+    "country": "LATINOAMERICA",
+    "status": "Activo"
+  },
+  {
+    "title": "DSports 2 (LATINOAMERICA)",
+    "url": "https://cxm5.futbolonlinehd.com:443/dsports2/mono.m3u8?token=3ca2e84a2ccf3032c0710cffac8c2cbc3ae97920-ef-1781341081-1781323081",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=dsports2",
+    "country": "LATINOAMERICA",
+    "status": "Activo"
+  },
+  {
+    "title": "GOLTV (LATINOAMERICA)",
+    "url": "https://cxm9.futbolonlinehd.com:443/goltv/mono.m3u8?token=a2c385a5f7b4edc9c52fdcc8ea09f1a8b82fd834-f8-1781341082-1781323082",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=goltv",
+    "country": "LATINOAMERICA",
+    "status": "Activo"
+  },
+  {
+    "title": "VTV Plus (LATINOAMERICA)",
+    "url": "https://cxm7.futbolonlinehd.com:443/vtvplus/mono.m3u8?token=4ca7d6ee1774fc4a63f3c64af21f7beb7c9a8131-b3-1781341082-1781323082",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=vtvplus",
+    "country": "LATINOAMERICA",
+    "status": "Activo"
+  },
+  {
+    "title": "Fox Sports (ARGENTINA)",
+    "url": "https://cxm7.futbolonlinehd.com:443/foxsports/mono.m3u8?token=be484fd176cdf48e0438fde7cc20dc433362de0c-54-1781341083-1781323083",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=foxsports",
+    "country": "ARGENTINA",
+    "status": "Activo"
+  },
+  {
+    "title": "Fox Sports 2 (ARGENTINA)",
+    "url": "https://cxm4.futbolonlinehd.com:443/foxsports2/mono.m3u8?token=61579c5de9c4402863bb5781f724c20b89686625-5d-1781341083-1781323083",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=foxsports2",
+    "country": "ARGENTINA",
+    "status": "Activo"
+  },
+  {
+    "title": "Fox Sports 3 (ARGENTINA)",
+    "url": "https://cxm10.futbolonlinehd.com:443/foxsports3/mono.m3u8?token=c252051fbf868b3231e355deb3fcd9276d1dba28-a0-1781341084-1781323084",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=foxsports3",
+    "country": "ARGENTINA",
+    "status": "Activo"
+  },
+  {
+    "title": "TNT Sports (ARGENTINA)",
+    "url": "https://cxm5.futbolonlinehd.com:443/tntsports/mono.m3u8?token=63bf70cc58e452de781ed6b18160a5e47f10b620-e4-1781341085-1781323085",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=tntsports",
+    "country": "ARGENTINA",
+    "status": "Activo"
+  },
+  {
+    "title": "ESPN Premium (ARGENTINA)",
+    "url": "https://cxm2.futbolonlinehd.com:443/espnpremium/mono.m3u8?token=938ca806e9b2239daf3d7b795b165878fe059501-3e-1781341085-1781323085",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=espnpremium",
+    "country": "ARGENTINA",
+    "status": "Activo"
+  },
+  {
+    "title": "TyC Sports (ARGENTINA)",
+    "url": "https://cxm10.futbolonlinehd.com:443/tycsports/mono.m3u8?token=1c46b480b7730fbafbbbbce36829952b27a1c6ab-4e-1781341086-1781323086",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=tycsports",
+    "country": "ARGENTINA",
+    "status": "Activo"
+  },
+  {
+    "title": "TyC Sports Internacional (USA) (ARGENTINA)",
+    "url": "https://cxm3.futbolonlinehd.com:443/tycinternacional/mono.m3u8?token=797ff44a49b2dafef1ae01d58fe96431ab42396a-3-1781341086-1781323086",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=tycinternacional",
+    "country": "ARGENTINA",
+    "status": "Activo"
+  },
+  {
+    "title": "Telefe (ARGENTINA)",
+    "url": "https://cxm9.futbolonlinehd.com:443/telefe/mono.m3u8?token=4853f65da7e8dd7f602e7b31959e880748fef8be-fb-1781341087-1781323087",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=telefe",
+    "country": "ARGENTINA",
+    "status": "Activo"
+  },
+  {
+    "title": "GOLPERU (PERÚ)",
+    "url": "https://cxm5.futbolonlinehd.com:443/golperu/mono.m3u8?token=19896f06327f34d29c8a8e9941a68fc662193fff-ec-1781341087-1781323087",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=golperu",
+    "country": "PERÚ",
+    "status": "Activo"
+  },
+  {
+    "title": "Liga1 MAX (PERÚ)",
+    "url": "https://cxm8.futbolonlinehd.com:443/liga1max/mono.m3u8?token=e99c22f9f872fd414f80ea3cb5b041c9d5c3367b-b5-1781341088-1781323088",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=liga1max",
+    "country": "PERÚ",
+    "status": "Activo"
+  },
+  {
+    "title": "Movistar Deportes (PERÚ)",
+    "url": "https://cxm6.futbolonlinehd.com:443/movistar/mono.m3u8?token=464c4d6d1361a117a7b3076da6c2a84bc313cd94-2d-1781341089-1781323089",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=movistar",
+    "country": "PERÚ",
+    "status": "Activo"
+  },
+  {
+    "title": "Win Sports plus (2) (COLOMBIA)",
+    "url": "https://cxm1.futbolonlinehd.com:443/winsports2/mono.m3u8?token=e11780c111501d0261e4129f2de4ba0b830a17ed-48-1781341089-1781323089",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=winsports2",
+    "country": "COLOMBIA",
+    "status": "Activo"
+  },
+  {
+    "title": "Fox Sports (MÉXICO)",
+    "url": "https://cxm9.futbolonlinehd.com:443/foxsportsmx/mono.m3u8?token=1934cc9f3e7dc0858ff80fbb08c0934864cd8919-8a-1781341090-1781323090",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=foxsportsmx",
+    "country": "MÉXICO",
+    "status": "Activo"
+  },
+  {
+    "title": "Fox Sports 2 (MÉXICO)",
+    "url": "https://cxm2.futbolonlinehd.com:443/foxsports2mx/mono.m3u8?token=ba61d92395a974e5ae3bf1401242c2e800bb7880-a0-1781341090-1781323090",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=foxsports2mx",
+    "country": "MÉXICO",
+    "status": "Activo"
+  },
+  {
+    "title": "Fox Sports 3 (MÉXICO)",
+    "url": "https://cxm5.futbolonlinehd.com:443/foxsports3mx/mono.m3u8?token=1eb1d667c77dc6bb5a2ccf4f23ee24fa1e845927-75-1781341091-1781323091",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=foxsports3mx",
+    "country": "MÉXICO",
+    "status": "Activo"
+  },
+  {
+    "title": "Fox Sports Premium (MÉXICO)",
+    "url": "https://cxm10.futbolonlinehd.com:443/foxsportspremium/mono.m3u8?token=927309957c0aef9e982bcbf484f095cb9d17e42c-4b-1781341091-1781323091",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=foxsportspremium",
+    "country": "MÉXICO",
+    "status": "Activo"
+  },
+  {
+    "title": "ESPN (MÉXICO)",
+    "url": "https://cxm7.futbolonlinehd.com:443/espnmx/mono.m3u8?token=d81489140d2fa01553525e33c91e4cea3f772c50-56-1781341092-1781323092",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=espnmx",
+    "country": "MÉXICO",
+    "status": "Activo"
+  },
+  {
+    "title": "ESPN 2 (MÉXICO)",
+    "url": "https://cxm10.futbolonlinehd.com:443/espn2mx/mono.m3u8?token=4a548f4f3adec9efa050a03b352747af99fb6ec3-2c-1781341093-1781323093",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=espn2mx",
+    "country": "MÉXICO",
+    "status": "Activo"
+  },
+  {
+    "title": "ESPN 3 (MÉXICO)",
+    "url": "https://cxm1.futbolonlinehd.com:443/espn3mx/mono.m3u8?token=e99120e21a80d67c1a8745298e81ec1152f525cc-4-1781341093-1781323093",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=espn3mx",
+    "country": "MÉXICO",
+    "status": "Activo"
+  },
+  {
+    "title": "ESPN 4 (MÉXICO)",
+    "url": "https://cxm2.futbolonlinehd.com:443/espn4mx/mono.m3u8?token=de9a2e8da93fb77b3a2eda7f66f9f4e83135d127-f8-1781341094-1781323094",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=espn4mx",
+    "country": "MÉXICO",
+    "status": "Activo"
+  },
+  {
+    "title": "Azteca 7 (MÉXICO)",
+    "url": "https://cxm3.futbolonlinehd.com:443/azteca7/mono.m3u8?token=82ecc2ac8c7b5871e9788efd89a109a60f24371f-dd-1781341094-1781323094",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=azteca7",
+    "country": "MÉXICO",
+    "status": "Activo"
+  },
+  {
+    "title": "Canal 5 (MÉXICO)",
+    "url": "https://cxm2.futbolonlinehd.com:443/canal5/mono.m3u8?token=4d553f041df7361ef463a5d410d194083574a882-fd-1781341095-1781323095",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=canal5",
+    "country": "MÉXICO",
+    "status": "Activo"
+  },
+  {
+    "title": "Azteca Deportes (MÉXICO)",
+    "url": "https://cxm1.futbolonlinehd.com:443/azteca_deportes/mono.m3u8?token=38470cbbcfcf40b817307cc3eda0c5b1af0daf03-5-1781341095-1781323095",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=azteca_deportes",
+    "country": "MÉXICO",
+    "status": "Activo"
+  },
+  {
+    "title": "Fox Deportes (USA)",
+    "url": "https://cxm6.futbolonlinehd.com:443/foxdeportes/mono.m3u8?token=b313d3a1299a1329ad3fe530b479f6e1f0889412-aa-1781341096-1781323096",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
+    "country": "USA",
+    "status": "Activo"
+  },
+  {
+    "title": "ESPN Deportes (USA)",
+    "url": "https://cxm3.futbolonlinehd.com:443/espndeportes/mono.m3u8?token=07aebbb2fb53104268dacfdc279bf463c7ef644f-6a-1781341097-1781323097",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
+    "country": "USA",
+    "status": "Activo"
+  },
+  {
+    "title": "TUDN (USA)",
+    "url": "https://cxm8.futbolonlinehd.com:443/tudn/mono.m3u8?token=fa5d11ffa3887866032392fd58299638961f848a-78-1781341097-1781323097",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=tudn",
+    "country": "USA",
+    "status": "Activo"
+  },
+  {
+    "title": "BeIN Sports Español (USA)",
+    "url": "https://cxm8.futbolonlinehd.com:443/beinsportes/mono.m3u8?token=da4bd1b0ec541e40228b8f1d28e4e2e0f6ad9937-8f-1781341098-1781323098",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=beinsportes",
+    "country": "USA",
+    "status": "Activo"
+  },
+  {
+    "title": "Unimás (USA)",
+    "url": "https://cxm6.futbolonlinehd.com:443/unimas/mono.m3u8?token=c49c206fe5ce47d55b4dd906fe03de02648b9116-f3-1781341098-1781323098",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=unimas",
+    "country": "USA",
+    "status": "Activo"
+  },
+  {
+    "title": "BeIN Sports Xtra Español (USA)",
+    "url": "https://cxm8.futbolonlinehd.com:443/beinsport_xtra_espanol/mono.m3u8?token=ca655fb6ae113d85b22cd73eccffa3e3993861b6-81-1781341099-1781323099",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=beinsport_xtra_espanol",
+    "country": "USA",
+    "status": "Activo"
+  },
+  {
+    "title": "USAnetwork (USA)",
+    "url": "https://cxm6.futbolonlinehd.com:443/usanetwork/mono.m3u8?token=47e3127d72d3d516cd441cbfeaf22f83e7eafa52-9d-1781341099-1781323099",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=usanetwork",
+    "country": "USA",
+    "status": "Activo"
+  },
+  {
+    "title": "Telemundo (USA)",
+    "url": "https://cxm10.futbolonlinehd.com:443/telemundo/mono.m3u8?token=ad92c893791e4057152f12987dfedcb2c7e72e38-40-1781341100-1781323100",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=telemundo",
+    "country": "USA",
+    "status": "Activo"
+  },
+  {
+    "title": "Premiere 1 (BRASIL)",
+    "url": "https://cxm6.futbolonlinehd.com:443/premiere1/mono.m3u8?token=96c2897011ffd061a452b1c4e96b6cdb02d1aeef-6a-1781341101-1781323101",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=premiere1",
+    "country": "BRASIL",
+    "status": "Activo"
+  },
+  {
+    "title": "Premiere 2 (BRASIL)",
+    "url": "https://cxm3.futbolonlinehd.com:443/premiere2/mono.m3u8?token=e423c9a93d9f88924bae2268c856bf67814d132a-8d-1781341101-1781323101",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=premiere2",
+    "country": "BRASIL",
+    "status": "Activo"
+  },
+  {
+    "title": "Premiere 3 (BRASIL)",
+    "url": "https://cxm4.futbolonlinehd.com:443/premiere3/mono.m3u8?token=38495b2f62fc63d5a64d45e9db69f0da930030b4-40-1781341102-1781323102",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=premiere3",
+    "country": "BRASIL",
+    "status": "Activo"
+  },
+  {
+    "title": "Premiere 5 (BRASIL)",
+    "url": "https://cxm10.futbolonlinehd.com:443/premiere5/mono.m3u8?token=cb6d88644d4c38393549f35d35d76ba9f292c4e7-b4-1781341102-1781323102",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=premiere5",
+    "country": "BRASIL",
+    "status": "Activo"
+  },
+  {
+    "title": "Sportv (BRASIL)",
+    "url": "https://cxm4.futbolonlinehd.com:443/sportv/mono.m3u8?token=b4856585e139c8924cc5c89bde6a382233bb9dd9-a5-1781341103-1781323103",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
+    "country": "BRASIL",
+    "status": "Activo"
+  },
+  {
+    "title": "Sportv 2 (BRASIL)",
+    "url": "https://cxm10.futbolonlinehd.com:443/sportv2/mono.m3u8?token=77cece7fc1d9039744da3c7be8c4387500c9018e-23-1781341103-1781323103",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=sportv2",
+    "country": "BRASIL",
+    "status": "Activo"
+  },
+  {
+    "title": "Sportv 3 (BRASIL)",
+    "url": "https://cxm10.futbolonlinehd.com:443/sportv3/mono.m3u8?token=abe8b188ca78c3c3ca3785a7ddad70074eb09829-db-1781341104-1781323104",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=sportv3",
+    "country": "BRASIL",
+    "status": "Activo"
+  },
+  {
+    "title": "ESPN 1 NL (MUNDO)",
+    "url": "https://cxm7.futbolonlinehd.com:443/espn1_nl/mono.m3u8?token=f4b5450860f2e5ab9a01499607c3ddb4ca7e90cc-9b-1781341105-1781323105",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl",
+    "country": "MUNDO",
+    "status": "Activo"
+  },
+  {
+    "title": "ESPN 2 NL (MUNDO)",
+    "url": "https://cxm10.futbolonlinehd.com:443/espn2_nl/mono.m3u8?token=78bbaaaf11d30fa3ebbd700ce460991eb4bc840b-e6-1781341105-1781323105",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=espn2_nl",
+    "country": "MUNDO",
+    "status": "Activo"
+  },
+  {
+    "title": "ESPN 3 NL (MUNDO)",
+    "url": "https://cxm1.futbolonlinehd.com:443/espn3_nl/mono.m3u8?token=e0383ebe478e12ece3dee4954dfa72d697f8c057-a2-1781341106-1781323106",
+    "type": "channel",
+    "source": "https://tvtvhd.com/vivo/canales.php?stream=espn3_nl",
+    "country": "MUNDO",
+    "status": "Activo"
   }
 ]
