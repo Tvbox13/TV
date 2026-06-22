@@ -7,14 +7,6 @@
     "group": "Radio",
     "type": "live"
   },
- {
-    "id": "tnt-sports 12-5",
-    "name": "Tnt Sports",
-    "logo": "https://gollibre.com/img/tntsports.png",
-    "url": "https://tvtvhd.com/canales.php?stream=tntsports",
-    "group": "TNT SPORTS",
-    "type": "live"
-  },
   {
     "id": "radiovos",
     "name": "Radio Vos",
@@ -24,843 +16,1677 @@
     "type": "live"
   },
   {
-    "id": "telefe2",
-    "name": "TELEFE",
-    "logo": "https://bestleague.world/img/telefe.png",
-    "url": "https://www.nebunexa.life/cvatt.html?get=VGVsZWZlSEQ=&lang=1",
+    "id": "canal-rural",
+    "name": "Canal Rural",
+    "logo": "https://pelisjuanita.com/tv/logos/canal-rural.png",
+    "url": "http://45.225.40.206:12080/Live/4381001cf7c4e271491f5484da2d8304/rural_720.m3u8",
     "group": "Argentina",
-    "type": "live"
+    "type": "live",
+    "category": "AGRO"
   },
   {
-    "id": "el-trece",
-    "name": "El Trece",
-    "logo": "https://bestleague.world/img/eltrece.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=QXJ0ZWFySEQ&lang=1",
+    "id": "chacra-tv",
+    "name": "Chacra TV",
+    "logo": "https://pelisjuanita.com/tv/logos/chacra-tv.png",
+    "url": "https://videocloud.instream.audio:2000/VideoPlayer/chacratv?autoplay=1",
     "group": "Argentina",
-    "type": "live"
+    "type": "live",
+    "category": "AGRO"
   },
   {
-    "id": "el-nueve",
-    "name": "El Nueve",
-    "logo": "https://bestleague.world/img/nueve.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=Q2FuYWw5&lang=1",
+    "id": "garage-tv",
+    "name": "Garage TV",
+    "logo": "https://pelisjuanita.com/tv/logos/garage-tv.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RWxfR2FyYWdl",
     "group": "Argentina",
-    "type": "live"
+    "type": "live",
+    "category": "AUTOMOVILISMO"
   },
   {
-    "id": "tv-publica",
-    "name": "Tv Publica",
-    "logo": "https://bestleague.world/img/tvpublica.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=Q2FuYWw3&lang=1",
+    "id": "el-gourmet",
+    "name": "El Gourmet",
+    "logo": "https://pelisjuanita.com/tv/logos/el-gourmet.png",
+    "url": "https://full-online.xyz/cvatt.html?get=R291cm1ldA==",
     "group": "Argentina",
-    "type": "live"
-  },
-  {
-    "id": "america-tv",
-    "name": "America Tv",
-    "logo": "https://bestleague.world/img/america.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=QW1lcmljYVRW&lang=1",
-    "group": "Argentina",
-    "type": "live"
-  },
-  {
-    "id": "cronica",
-    "name": "Cronica",
-    "logo": "https://bestleague.world/img/cronica.png",
-    "url": "https://www.nebunexa.life/cvatt.html?get=Q3JvbmljYVRW&lang=1",
-    "group": "Argentina",
-    "type": "live"
-  },
-  {
-    "id": "c5n",
-    "name": "C5n",
-    "logo": "https://bestleague.world/img/c5n.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=QzVO&lang=1",
-    "group": "Argentina",
-    "type": "live"
-  },
-  {
-    "id": "tn",
-    "name": "Tn",
-    "logo": "https://bestleague.world/img/tn.png",
-    "url": "https://www.nebunexa.life/cvatt.html?get=VG9kb05vdGljaWFz&lang=1",
-    "group": "Argentina",
-    "type": "live"
-  },
-  {
-    "id": "a24",
-    "name": "A24",
-    "logo": "https://bestleague.world/img/a24.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=QW1lcmljYTI0&lang=1",
-    "group": "Argentina",
-    "type": "live"
-  },
-  {
-    "id": "canal-26",
-    "name": "Canal 26",
-    "logo": "https://bestleague.world/img/canal26.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=MjZfVFZfSEQ&lang=1",
-    "group": "Argentina",
-    "type": "live"
-  },
-  {
-    "id": "ln",
-    "name": "Ln",
-    "logo": "https://bestleague.world/img/ln.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=TGFfTmFjaW9u&lang=1",
-    "group": "Argentina",
-    "type": "live"
-  },
-  {
-    "id": "dtv",
-    "name": "Dtv",
-    "logo": "https://bestleague.world/img/dtv.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=RGlwdXRhZG9zX1RW&lang=1",
-    "group": "Argentina",
-    "type": "live"
-  },
-  {
-    "id": "volver",
-    "name": "Volver",
-    "logo": "https://bestleague.world/img/volver.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=Vm9sdmVy&lang=1",
-    "group": "Cine y Series",
-    "type": "live"
-  },
-  {
-    "id": "ciudad-magazine",
-    "name": "Ciudad Magazine",
-    "logo": "https://bestleague.world/img/ciudad.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=TWFnYXppbmU=&lang=1",
-    "group": "Argentina",
-    "type": "live"
-  },
-  {
-    "id": "bravotv",
-    "name": "Bravotv",
-    "logo": "https://bestleague.world/img/bravotv.png",
-    "url": "https://www.nebunexa.life/cvatt.html?get=QnJhdm9UVg==&lang=1",
-    "group": "Argentina",
-    "type": "live"
-  },
-  {
-    "id": "nettv",
-    "name": "Nettv",
-    "logo": "https://bestleague.world/img/nettv.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=TmV0X1RW&lang=1",
-    "group": "Argentina",
-    "type": "live"
-  },
-  {
-    "id": "ip",
-    "name": "Ip",
-    "logo": "https://bestleague.world/img/ip.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=SW52ZXN0aWdhY2lvbl9QZXJpb2Rpc3RpY2E=&lang=1",
-    "group": "Argentina",
-    "type": "live"
+    "type": "live",
+    "category": "COCINA"
   },
   {
     "id": "encuentro",
     "name": "Encuentro",
-    "logo": "https://bestleague.world/img/encuentro.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=RW5jdWVudHJv&lang=1",
+    "logo": "https://pelisjuanita.com/tv/logos/encuentro.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RW5jdWVudHJv",
     "group": "Argentina",
-    "type": "live"
+    "type": "live",
+    "category": "CULTURA Y DOCUMENTALES"
   },
   {
-    "id": "canaldelaciudad",
-    "name": "Canaldelaciudad",
-    "logo": "https://bestleague.world/img/canaldelaciudad.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=Q2FuYWxfZGVfbGFfY2l1ZGFk&lang=1",
-    "group": "Argentina",
-    "type": "live"
-  },
-  {
-    "id": "metro",
-    "name": "Metro",
-    "logo": "https://bestleague.world/img/metro.png",
-    "url": "https://www.nebunexa.life/cvatt.html?get=TWV0cm8=&lang=1",
-    "group": "Argentina",
-    "type": "live"
-  },
-  {
-    "id": "kzo",
-    "name": "Kzo",
-    "logo": "https://bestleague.world/img/kzowhite.png",
-    "url": "https://www.nebunexa.life/cvatt.html?get=TWV0cm8=&lang=1",
-    "group": "Argentina",
-    "type": "live"
-  },
-  {
-    "id": "canal12cordoba",
-    "name": "Canal12cordoba",
-    "logo": "https://bestleague.world/img/docor.png",
-    "url": "https://www.nebunexa.life/cvatt.html?get=Q2FuYWxfMTJfQ0JB&lang=1",
-    "group": "Argentina",
-    "type": "live"
-  },
-  {
-    "id": "argentinisima",
-    "name": "Argentinisima",
-    "logo": "https://bestleague.world/img/arsat.png",
-    "url": "https://www.nebunexa.life/cvatt.html?get=QXJnZW50aW5pc2ltYQ&lang=1",
-    "group": "Argentina",
-    "type": "live"
-  },
-  {
-    "id": "rural",
-    "name": "Rural",
-    "logo": "https://bestleague.world/img/rural.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=Q2FuYWxfUnVyYWw=&lang=1",
-    "group": "Argentina",
-    "type": "live"
-  },
-  {
-    "id": "tyc-sports",
-    "name": "Tyc Sports",
-    "logo": "https://bestleague.world/img/tyc.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=VHlDU3BvcnQ&lang=1",
-    "group": "Deportes",
-    "type": "live"
-  },
-  {
-    "id": "tnt-sports",
-    "name": "Tnt Sports",
-    "logo": "https://gollibre.com/img/tntsports.png",
-    "url": "https://www.nebunexa.life/cvatt.html?get=VE5UX1Nwb3J0c19IRA&lang=1",
-    "group": "Deportes",
-    "type": "live"
-  },
-  {
-    "id": "espn-premium",
-    "name": "Espn Premium",
-    "logo": "https://bestleague.world/img/espnpr.webp",
-    "url": "https://can27-05cablepatodoscanembplaeer-flo3.blogspot.com/p/todosossscaaanfloooop3.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
-    "group": "Deportes",
-    "type": "live"
-  },
-  {
-    "id": "espn-premium-opc-2",
-    "name": "Espn Premium opc 2",
-    "logo": "https://bestleague.world/img/espnpr.webp",
-    "url": "https://rm8zcvk3.fubohd.com/espnpremium/mono.m3u8?token=5640a27bbc3e171e9d34b2f71fbb1198ae8f2ae6-d-1773286301-1773268301",
-    "group": "Deportes",
-    "type": "live"
-  },
-  {
-    "id": "espn",
-    "name": "Espn",
-    "logo": "https://bestleague.world/img/espn.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=RVNQTjJIRA&lang=1",
-    "group": "Deportes",
-    "type": "live"
-  },
-  {
-    "id": "espn-2",
-    "name": "Espn 2",
-    "logo": "https://bestleague.world/img/espn2.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=RVNQTjJfQXJn&lang=1",
-    "group": "Deportes",
-    "type": "live"
-  },
-  {
-    "id": "espn-3",
-    "name": "Espn 3",
-    "logo": "https://bestleague.world/img/espn3.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=RVNQTjM=&lang=1",
-    "group": "Deportes",
-    "type": "live"
-  },
-  {
-    "id": "espn-4",
-    "name": "Espn 4",
-    "logo": "https://bestleague.world/img/espn4.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=RVNQTkhE&lang=1",
-    "group": "Deportes",
-    "type": "live"
-  },
-  {
-    "id": "espn-5",
-    "name": "Espn 5",
-    "logo": "https://bestleague.world/img/espn5.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=RVNQTjQ=&lang=1",
-    "group": "Deportes",
-    "type": "live"
-  },
-  {
-    "id": "espn-6",
-    "name": "Espn 6",
-    "logo": "https://bestleague.world/img/espn6.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=Rm94U3BvcnRzM19VWQ==&lang=1",
-    "group": "Deportes",
-    "type": "live"
-  },
-  {
-    "id": "espn-7",
-    "name": "Espn 7",
-    "logo": "https://bestleague.world/img/espn7.png",
-    "url": "https://www.nebunexa.life/cvatt.html?get=Rm94U3BvcnRzMl9VWQ==&lang=1",
-    "group": "Deportes",
-    "type": "live"
-  },
-  {
-    "id": "fox-sports",
-    "name": "Fox Sports",
-    "logo": "https://bestleague.world/img/foxsports.png",
-    "url": "https://www.nebunexa.life/cvatt.html?get=Rm94U3BvcnRz&lang=1",
-    "group": "Deportes",
-    "type": "live"
-  },
-  {
-    "id": "fox-sports-2",
-    "name": "Fox Sports 2",
-    "logo": "https://bestleague.world/img/foxsports2.png",
-    "url": "https://www.nebunexa.life/cvatt.html?get=Rm94U3BvcnRzMkhE&lang=1",
-    "group": "Deportes",
-    "type": "live"
-  },
-  {
-    "id": "fox-sports-3",
-    "name": "Fox Sports 3",
-    "logo": "https://bestleague.world/img/foxsports3.png",
-    "url": "https://www.nebunexa.life/cvatt.html?get=Rm94U3BvcnRzM0hE&lang=1",
-    "group": "Deportes",
-    "type": "live"
-  },
-  {
-    "id": "vtv",
-    "name": "Vtv",
-    "logo": "https://bestleague.world/img/vtv.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=VlRWX0hE&lang=1",
-    "group": "Deportes",
-    "type": "live"
-  },
-  {
-    "id": "deportv",
-    "name": "Deportv",
-    "logo": "https://bestleague.world/img/deportv.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=RGVwb3JUVkhE&lang=1",
-    "group": "Deportes",
-    "type": "live"
-  },
-  {
-    "id": "nba-tv",
-    "name": "Nba Tv",
-    "logo": "https://bestleague.world/img/nba.png",
-    "url": "https://www.nebunexa.life/cvatt.html?get=TkJBX1RW&lang=1",
-    "group": "Deportes",
-    "type": "live"
-  },
-  {
-    "id": "discovery",
-    "name": "Discovery",
-    "logo": "https://bestleague.world/img/discovery.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=RGlzY292ZXJ5SEQ=&lang=1",
-    "group": "Documentales",
-    "type": "live"
-  },
-  {
-    "id": "discovery-world",
-    "name": "Discovery World",
-    "logo": "https://bestleague.world/img/disworld.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=RGlzY292ZXJ5X1dvcmxkX0hE&lang=1",
-    "group": "Documentales",
-    "type": "live"
-  },
-  {
-    "id": "discovery-theater",
-    "name": "Discovery Theater",
-    "logo": "https://bestleague.world/img/distheater.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=VGhlYXRlcl9IRA==&lang=1",
-    "group": "Documentales",
-    "type": "live"
-  },
-  {
-    "id": "discovery-science",
-    "name": "Discovery Science",
-    "logo": "https://bestleague.world/img/disscience.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=RGlzY292ZXJ5X1NjaWVuY2U=&lang=1",
-    "group": "Documentales",
-    "type": "live"
-  },
-  {
-    "id": "discovery-tlc",
-    "name": "Discovery Tlc",
-    "logo": "https://bestleague.world/img/tlc.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=VExD&lang=1",
-    "group": "Documentales",
-    "type": "live"
-  },
-  {
-    "id": "discovery-turbo",
-    "name": "Discovery Turbo",
-    "logo": "https://bestleague.world/img/turbo.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=RGlzY292ZXJ5VHVyYm8=&lang=1",
-    "group": "Documentales",
-    "type": "live"
-  },
-  {
-    "id": "discovery-hyh",
-    "name": "Discovery Hyh",
-    "logo": "https://bestleague.world/img/hyh.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=RGlzY292ZXJ5SG9tZUhlYWx0aEhE&lang=1",
-    "group": "Documentales",
-    "type": "live"
-  },
-  {
-    "id": "discovery-id",
-    "name": "Discovery Id",
-    "logo": "https://bestleague.world/img/id.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=SUQ=&lang=1",
-    "group": "Documentales",
-    "type": "live"
-  },
-  {
-    "id": "lifetime",
-    "name": "Lifetime",
-    "logo": "https://bestleague.world/img/lifetime.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=TGlmZXRpbWU=&lang=1",
-    "group": "Documentales",
-    "type": "live"
-  },
-  {
-    "id": "history",
-    "name": "History",
-    "logo": "https://bestleague.world/img/history.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=SGlzdG9yeUhE&lang=1",
-    "group": "Documentales",
-    "type": "live"
-  },
-  {
-    "id": "history-2",
-    "name": "History 2",
-    "logo": "https://bestleague.world/img/history2.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=SGlzdG9yeV8y&lang=1",
-    "group": "Documentales",
-    "type": "live"
+    "id": "love-nature",
+    "name": "Love Nature",
+    "logo": "https://pelisjuanita.com/tv/logos/love-nature.png",
+    "url": "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/240p-cc/index.m3u8",
+    "group": "Canadá",
+    "type": "live",
+    "category": "CULTURA Y DOCUMENTALES"
   },
   {
     "id": "animal-planet",
     "name": "Animal Planet",
-    "logo": "https://bestleague.world/img/aplanet.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=QW5pbWFsUGxhbmV0&lang=1",
-    "group": "Documentales",
-    "type": "live"
+    "logo": "https://pelisjuanita.com/tv/logos/animal-planet.png",
+    "url": "https://full-online.xyz/cvatt.html?get=QW5pbWFsUGxhbmV0",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "CULTURA Y DOCUMENTALES"
   },
   {
-    "id": "natgeo",
-    "name": "Natgeo",
-    "logo": "https://bestleague.world/img/natgeo.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=TmF0R2VvSEQ=&lang=1",
-    "group": "Documentales",
-    "type": "live"
+    "id": "discovery-channel",
+    "name": "Discovery Channel",
+    "logo": "https://pelisjuanita.com/tv/logos/discovery-channel.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RGlzY292ZXJ5SEQ=",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "CULTURA Y DOCUMENTALES"
   },
   {
-    "id": "telemax",
-    "name": "Telemax",
-    "logo": "https://bestleague.world/img/telemax.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=VGVsZW1heA&lang=1",
-    "group": "Documentales",
-    "type": "live"
+    "id": "discovery-h-h",
+    "name": "Discovery H&amp;H",
+    "logo": "https://pelisjuanita.com/tv/logos/discovery-h-h.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RGlzY292ZXJ5SG9tZUhlYWx0aEhE",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "CULTURA Y DOCUMENTALES"
   },
   {
-    "id": "film-and-arts",
-    "name": "Film And Arts",
-    "logo": "https://bestleague.world/img/film.png",
-    "url": "https://www.nebunexa.life/cvatt.html?get=RmlsbV9BcnRz&lang=1",
-    "group": "Documentales",
-    "type": "live"
+    "id": "discovery-id",
+    "name": "Discovery ID",
+    "logo": "https://pelisjuanita.com/tv/logos/discovery-id.png",
+    "url": "https://full-online.xyz/cvatt.html?get=SUQ=&lang=1",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "CULTURA Y DOCUMENTALES"
   },
   {
-    "id": "sun",
-    "name": "Sun",
-    "logo": "https://bestleague.world/img/sun.png",
-    "url": "https://www.nebunexa.life/cvatt.html?get=U3VuX0NoYW5uZWw=&lang=1",
-    "group": "Documentales",
-    "type": "live"
+    "id": "discovery-science",
+    "name": "Discovery Science",
+    "logo": "https://pelisjuanita.com/tv/logos/discovery-science.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RGlzY292ZXJ5X1NjaWVuY2U=",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "CULTURA Y DOCUMENTALES"
+  },
+  {
+    "id": "discovery-theater",
+    "name": "Discovery Theater",
+    "logo": "https://pelisjuanita.com/tv/logos/discovery-theater.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VGhlYXRlcl9IRA==",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "CULTURA Y DOCUMENTALES"
+  },
+  {
+    "id": "discovery-tlc",
+    "name": "Discovery TLC",
+    "logo": "https://pelisjuanita.com/tv/logos/discovery-tlc.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VExD",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "CULTURA Y DOCUMENTALES"
+  },
+  {
+    "id": "discovery-turbo",
+    "name": "Discovery Turbo",
+    "logo": "https://pelisjuanita.com/tv/logos/discovery-turbo.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RGlzY292ZXJ5VHVyYm8=",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "CULTURA Y DOCUMENTALES"
+  },
+  {
+    "id": "discovery-world",
+    "name": "Discovery World",
+    "logo": "https://pelisjuanita.com/tv/logos/discovery-world.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RGlzY292ZXJ5X1dvcmxkX0hE",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "CULTURA Y DOCUMENTALES"
   },
   {
     "id": "food-network",
-    "name": "Food Network",
-    "logo": "https://bestleague.world/img/food.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=Rm9vZF9OZXR3b3Jr&lang=1",
-    "group": "Otros",
-    "type": "live"
+    "name": "FOOD Network",
+    "logo": "https://pelisjuanita.com/tv/logos/food-network.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Rm9vZF9OZXR3b3Jr",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "CULTURA Y DOCUMENTALES"
   },
   {
-    "id": "gourmet",
-    "name": "Gourmet",
-    "logo": "https://bestleague.world/img/Group.svg",
-    "url": "https://www.nebunexa.life/cvatt.html?get=R291cm1ldA==&lang=1",
-    "group": "Otros",
-    "type": "live"
+    "id": "hgtv",
+    "name": "HGTV",
+    "logo": "https://pelisjuanita.com/tv/logos/hgtv.png",
+    "url": "https://full-online.xyz/cvatt.html?get=SG9tZV9hbmRfR2FyZGVu",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "CULTURA Y DOCUMENTALES"
   },
   {
-    "id": "comedy-central",
-    "name": "Comedy Central",
-    "logo": "https://bestleague.world/img/comedy.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=Q29tZWR5Q2VudHJhbA&lang=1",
-    "group": "Entretenimiento",
-    "type": "live"
+    "id": "history",
+    "name": "History",
+    "logo": "https://pelisjuanita.com/tv/logos/history.png",
+    "url": "https://full-online.xyz/cvatt.html?get=SGlzdG9yeUhE",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "CULTURA Y DOCUMENTALES"
   },
   {
-    "id": "telemundo-internacional",
-    "name": "Telemundo Internacional",
-    "logo": "https://bestleague.world/img/telemundo.png",
-   "url": "https://www.nebunexa.life/cvatt.html?get=VGVsZW11bmRvX0hE&lang=1",
-    "group": "Entretenimiento",
-    "type": "live"
+    "id": "history-2",
+    "name": "History 2",
+    "logo": "https://pelisjuanita.com/tv/logos/history-2.png",
+    "url": "https://full-online.xyz/cvatt.html?get=SGlzdG9yeV8y",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "CULTURA Y DOCUMENTALES"
   },
   {
-    "id": "ae",
-    "name": "Ae",
-    "logo": "https://bestleague.world/img/ae.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=QUVIRA==&lang=1",
-    "group": "Entretenimiento",
-    "type": "live"
+    "id": "america-sports",
+    "name": "AMÉRICA SPORTS",
+    "logo": "https://pelisjuanita.com/tv/logos/america-sports.png",
+    "url": "https://full-online.xyz/cvatt.html?get=QW1lcmljYV9TcG9ydHM=",
+    "group": "Argentina",
+    "type": "live",
+    "category": "DEPORTES"
   },
   {
-    "id": "cinecanal",
-    "name": "Cinecanal",
-    "logo": "https://bestleague.world/img/cinecanal.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=Q2luZWNhbmFsSEQ=&lang=1",
-    "group": "Cine y Series",
-    "type": "live"
+    "id": "deportv",
+    "name": "DeporTV",
+    "logo": "https://pelisjuanita.com/tv/logos/deportv.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RGVwb3JUVkhE",
+    "group": "Argentina",
+    "type": "live",
+    "category": "DEPORTES"
   },
   {
-    "id": "tnt",
-    "name": "Tnt",
-    "logo": "https://bestleague.world/img/tnt.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=VE5UX0hEX0FyZw==&lang=1",
-    "group": "Cine y Series",
-    "type": "live"
+    "id": "directv-sports",
+    "name": "DSports",
+    "logo": "https://pelisjuanita.com/tv/logos/directv-sports.png",
+    "url": "https://la18hd.com/vivo/canales.php?stream=dsports",
+    "group": "Argentina",
+    "type": "live",
+    "category": "DEPORTES"
   },
   {
-    "id": "tnt-series",
-    "name": "Tnt Series",
-    "logo": "https://bestleague.world/img/tntseries.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=VE5UU2VyaWVz&lang=1",
-    "group": "Cine y Series",
-    "type": "live"
+    "id": "directv-plus",
+    "name": "DSports +",
+    "logo": "https://pelisjuanita.com/tv/logos/directv-plus.png",
+    "url": "https://la18hd.com/vivo/canales.php?stream=dsportsplus",
+    "group": "Argentina",
+    "type": "live",
+    "category": "DEPORTES"
   },
   {
-    "id": "tnt-novelas",
-    "name": "Tnt Novelas",
-    "logo": "https://bestleague.world/img/tntnovelas.png",
-    "url": "https://www.nebunexa.life/cvatt.html?get=VEJT&lang=1",
-    "group": "Cine y Series",
-    "type": "live"
+    "id": "directv-sports-2",
+    "name": "DSports 2",
+    "logo": "https://pelisjuanita.com/tv/logos/directv-sports-2.png",
+    "url": "https://la18hd.com/vivo/canales.php?stream=dsports2",
+    "group": "Argentina",
+    "type": "live",
+    "category": "DEPORTES"
   },
   {
-    "id": "fx",
-    "name": "Fx",
-    "logo": "https://bestleague.world/img/fx.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=RlhIRA==&lang=1",
-    "group": "Cine y Series",
-    "type": "live"
+    "id": "espn",
+    "name": "ESPN",
+    "logo": "https://pelisjuanita.com/tv/logos/espn.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RVNQTjJIRA",
+    "group": "Argentina",
+    "type": "live",
+    "category": "DEPORTES"
   },
   {
-    "id": "warner",
-    "name": "Warner",
-    "logo": "https://bestleague.world/img/warner.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=V2FybmVySEQ=&lang=1",
-    "group": "Cine y Series",
-    "type": "live"
+    "id": "espn-2",
+    "name": "ESPN 2",
+    "logo": "https://pelisjuanita.com/tv/logos/espn-2.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RVNQTjJfQXJn",
+    "group": "Argentina",
+    "type": "live",
+    "category": "DEPORTES"
   },
   {
-    "id": "cinemax",
-    "name": "Cinemax",
-    "logo": "https://bestleague.world/img/cinemax.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=Q2luZW1heA==&lang=1",
-    "group": "Cine y Series",
-    "type": "live"
+    "id": "espn-3",
+    "name": "ESPN 3",
+    "logo": "https://pelisjuanita.com/tv/logos/espn-3.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RVNQTjM",
+    "group": "Argentina",
+    "type": "live",
+    "category": "DEPORTES"
   },
   {
-    "id": "space",
-    "name": "Space",
-    "logo": "https://bestleague.world/img/space.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=U3BhY2U=&lang=1",
-    "group": "Cine y Series",
-    "type": "live"
+    "id": "espn-4",
+    "name": "ESPN 4",
+    "logo": "https://pelisjuanita.com/tv/logos/espn-4.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RVNQTkhE",
+    "group": "Argentina",
+    "type": "live",
+    "category": "DEPORTES"
+  },
+  {
+    "id": "espn-5",
+    "name": "ESPN 5",
+    "logo": "https://pelisjuanita.com/tv/logos/espn-5.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RVNQTjQ=",
+    "group": "Argentina",
+    "type": "live",
+    "category": "DEPORTES"
+  },
+  {
+    "id": "espn-6",
+    "name": "ESPN 6",
+    "logo": "https://pelisjuanita.com/tv/logos/espn-6.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Rm94U3BvcnRzM19VWQ==",
+    "group": "Argentina",
+    "type": "live",
+    "category": "DEPORTES"
+  },
+  {
+    "id": "espn-7",
+    "name": "ESPN 7",
+    "logo": "https://pelisjuanita.com/tv/logos/espn-7.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Rm94U3BvcnRzMl9VWQ==",
+    "group": "Argentina",
+    "type": "live",
+    "category": "DEPORTES"
+  },
+  {
+    "id": "espn-premium",
+    "name": "ESPN Premium",
+    "logo": "https://pelisjuanita.com/tv/logos/espn-premium.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
+    "group": "Argentina",
+    "type": "live",
+    "category": "DEPORTES"
+  },
+  {
+    "id": "fox-sports",
+    "name": "FOX SPORTS",
+    "logo": "https://pelisjuanita.com/tv/logos/fox-sports.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Rm94U3BvcnRz",
+    "group": "Argentina",
+    "type": "live",
+    "category": "DEPORTES"
+  },
+  {
+    "id": "fox-sports-2",
+    "name": "FOX SPORTS 2",
+    "logo": "https://pelisjuanita.com/tv/logos/fox-sports-2.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Rm94U3BvcnRzMkhE",
+    "group": "Argentina",
+    "type": "live",
+    "category": "DEPORTES"
+  },
+  {
+    "id": "fox-sports-3",
+    "name": "FOX SPORTS 3",
+    "logo": "https://pelisjuanita.com/tv/logos/fox-sports-3.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Rm94U3BvcnRzM0hE",
+    "group": "Argentina",
+    "type": "live",
+    "category": "DEPORTES"
+  },
+  {
+    "id": "tnt-sports",
+    "name": "TNT Sports",
+    "logo": "https://pelisjuanita.com/tv/logos/tnt-sports.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VE5UX1Nwb3J0c19IRA",
+    "group": "Argentina",
+    "type": "live",
+    "category": "DEPORTES"
+  },
+  {
+    "id": "tnt-sports-premium",
+    "name": "TNT Sports Premium",
+    "logo": "https://pelisjuanita.com/tv/logos/tnt-sports-premium.png",
+    "url": "https://la18hd.com/vivo/canal.php?stream=tntsportschile",
+    "group": "Argentina",
+    "type": "live",
+    "category": "DEPORTES"
+  },
+  {
+    "id": "tyc-sports",
+    "name": "TyC Sports",
+    "logo": "https://pelisjuanita.com/tv/logos/tyc-sports.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VHlDU3BvcnQ",
+    "group": "Argentina",
+    "type": "live",
+    "category": "DEPORTES"
+  },
+  {
+    "id": "tyc-sports-internacional",
+    "name": "TyC Sports Internacional",
+    "logo": "https://pelisjuanita.com/tv/logos/tyc-sports-internacional.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VHlDX0ludGVybmFjaW9uYWw=",
+    "group": "Argentina",
+    "type": "live",
+    "category": "DEPORTES"
+  },
+  {
+    "id": "win-sports",
+    "name": "Win Sports",
+    "logo": "https://pelisjuanita.com/tv/logos/win-sports.png",
+    "url": "https://cointv.site/canales.php?id=winsports",
+    "group": "Colombia",
+    "type": "live",
+    "category": "DEPORTES"
+  },
+  {
+    "id": "formula-1",
+    "name": "Formula 1",
+    "logo": "https://pelisjuanita.com/tv/logos/formula-1.png",
+    "url": "https://dlhd.pk/stream/stream-537.php",
+    "group": "España",
+    "type": "live",
+    "category": "DEPORTES"
+  },
+  {
+    "id": "golf-channel",
+    "name": "Golf Channel",
+    "logo": "https://pelisjuanita.com/tv/logos/golf-channel.png",
+    "url": "https://full-online.xyz/cvatt.html?get=R29sZl9DaGFubmVs",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "DEPORTES"
+  },
+  {
+    "id": "nba-tv",
+    "name": "NBA TV",
+    "logo": "https://pelisjuanita.com/tv/logos/nba-tv.png",
+    "url": "https://full-online.xyz/cvatt.html?get=TkJBX1RW",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "DEPORTES"
+  },
+  {
+    "id": "espn-2-mx",
+    "name": "ESPN 2 MX",
+    "logo": "https://pelisjuanita.com/tv/logos/espn-2-mx.png",
+    "url": "https://embedme.click/player/1/98",
+    "group": "México",
+    "type": "live",
+    "category": "DEPORTES"
+  },
+  {
+    "id": "espn-3-mx",
+    "name": "ESPN 3 MX",
+    "logo": "https://pelisjuanita.com/tv/logos/espn-3-mx.png",
+    "url": "https://embedme.click/player/1/99",
+    "group": "México",
+    "type": "live",
+    "category": "DEPORTES"
+  },
+  {
+    "id": "espn-4-mx",
+    "name": "ESPN 4 MX",
+    "logo": "https://pelisjuanita.com/tv/logos/espn-4-mx.png",
+    "url": "https://embedme.click/player/1/100",
+    "group": "México",
+    "type": "live",
+    "category": "DEPORTES"
+  },
+  {
+    "id": "espn-mx",
+    "name": "ESPN MX",
+    "logo": "https://pelisjuanita.com/tv/logos/espn-mx.png",
+    "url": "https://bolaloca.my/player/1/97",
+    "group": "México",
+    "type": "live",
+    "category": "DEPORTES"
+  },
+  {
+    "id": "tv-azteca-deportes",
+    "name": "TV Azteca Deportes",
+    "logo": "https://pelisjuanita.com/tv/logos/tv-azteca-deportes.png",
+    "url": "https://embed.saohgdasregions.fun/embed2/aztecadeportes.html",
+    "group": "México",
+    "type": "live",
+    "category": "DEPORTES"
+  },
+  {
+    "id": "canal-10-cordoba",
+    "name": "Canal 10 Cordoba",
+    "logo": "https://pelisjuanita.com/tv/logos/canal-10-cordoba.png",
+    "url": "https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8",
+    "group": "Argentina",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
+  },
+  {
+    "id": "canal-10-junin",
+    "name": "Canal 10 Junín",
+    "logo": "https://pelisjuanita.com/tv/logos/canal-10-junin.png",
+    "url": "https://g1.mc-hor.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/canal10junin-100056_360p.m3u8",
+    "group": "Argentina",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
+  },
+  {
+    "id": "canal-10-mar-del-plata",
+    "name": "Canal 10 Mar del Plata",
+    "logo": "https://pelisjuanita.com/tv/logos/canal-10-mar-del-plata.png",
+    "url": "https://vmf.edge-apps.net/embed/live.php?streamname=canal10mdq-100044&autoplay=true",
+    "group": "Argentina",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
+  },
+  {
+    "id": "canal-a",
+    "name": "CANAL Á",
+    "logo": "https://pelisjuanita.com/tv/logos/canal-a.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Q2FuYWxfYQ==",
+    "group": "Argentina",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
+  },
+  {
+    "id": "canal-doce",
+    "name": "CANAL DOCE",
+    "logo": "https://pelisjuanita.com/tv/logos/canal-doce.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Q2FuYWxfMTJfQ0JB",
+    "group": "Argentina",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
+  },
+  {
+    "id": "canal-nueve",
+    "name": "CANAL NUEVE",
+    "logo": "https://pelisjuanita.com/tv/logos/canal-nueve.png",
+    "url": "https://nameless-resonance-f644.javimarki.workers.dev/12",
+    "group": "Argentina",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
+  },
+  {
+    "id": "ciudad-magazine",
+    "name": "Ciudad Magazine",
+    "logo": "https://pelisjuanita.com/tv/logos/ciudad-magazine.png",
+    "url": "https://full-online.xyz/cvatt.html?get=TWFnYXppbmU=",
+    "group": "Argentina",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
+  },
+  {
+    "id": "cm",
+    "name": "CM",
+    "logo": "https://pelisjuanita.com/tv/logos/cm.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Q00=",
+    "group": "Argentina",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
+  },
+  {
+    "id": "el-trece",
+    "name": "EL TRECE",
+    "logo": "https://pelisjuanita.com/tv/logos/el-trece.png",
+    "url": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
+    "group": "Argentina",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
+  },
+  {
+    "id": "el-tres",
+    "name": "El Tres",
+    "logo": "https://pelisjuanita.com/tv/logos/el-tres.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Q2FuYWxfM19Sb3Nhcmlv",
+    "group": "Argentina",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
+  },
+  {
+    "id": "metro",
+    "name": "Metro",
+    "logo": "https://pelisjuanita.com/tv/logos/metro.png",
+    "url": "https://full-online.xyz/cvatt.html?get=TWV0cm8",
+    "group": "Argentina",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
+  },
+  {
+    "id": "nettv",
+    "name": "NETTV",
+    "logo": "https://pelisjuanita.com/tv/logos/nettv.png",
+    "url": "https://full-online.xyz/cvatt.html?get=TmV0X1RW",
+    "group": "Argentina",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
+  },
+  {
+    "id": "quiero",
+    "name": "Quiero",
+    "logo": "https://pelisjuanita.com/tv/logos/quiero.png",
+    "url": "https://full-online.xyz/cvatt.html?get=UXVpZXJvX0hE",
+    "group": "Argentina",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
   },
   {
     "id": "star-channel",
     "name": "Star Channel",
-    "logo": "https://bestleague.world/img/star.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=Rk9YSEQ=&lang=1",
-    "group": "Cine y Series",
-    "type": "live"
+    "logo": "https://pelisjuanita.com/tv/logos/star-channel.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Rk9YSEQ=&lang=1",
+    "group": "Argentina",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
   },
   {
-    "id": "studio-universal",
-    "name": "Studio Universal",
-    "logo": "https://bestleague.world/img/studio.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=U3R1ZGlvX1VuaXZlcnNhbA==&lang=1",
-    "group": "Cine y Series",
-    "type": "live"
+    "id": "tele-junin",
+    "name": "Tele Junín",
+    "logo": "https://pelisjuanita.com/tv/logos/tele-junin.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VGVsZUp1bmlu&lang=1",
+    "group": "Argentina",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
   },
   {
-    "id": "sony-channel",
-    "name": "Sony Channel",
-    "logo": "https://bestleague.world/img/sony.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=U29ueUhE&lang=1",
-    "group": "Cine y Series",
-    "type": "live"
+    "id": "telefe",
+    "name": "TELEFE",
+    "logo": "https://pelisjuanita.com/tv/logos/telefe.png",
+    "url": "https://mdstrm.com/live-stream-playlist/69e0fb650d9e3eb5340cdd5c.m3u8",
+    "group": "Argentina",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
   },
   {
-    "id": "paramount-network",
-    "name": "Paramount Network",
-    "logo": "https://bestleague.world/img/paramount.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=UGFyYW1vdW50&lang=1",
-    "group": "Cine y Series",
-    "type": "live"
+    "id": "telefe-rosario",
+    "name": "Telefe Rosario",
+    "logo": "https://pelisjuanita.com/tv/logos/telefe-rosario.png",
+    "url": "https://cdn-cirion01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8",
+    "group": "Argentina",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
   },
   {
-    "id": "amc",
-    "name": "Amc",
-    "logo": "https://bestleague.world/img/amc.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=QU1D&lang=1",
-    "group": "Cine y Series",
-    "type": "live"
+    "id": "televida",
+    "name": "Televida",
+    "logo": "https://pelisjuanita.com/tv/logos/televida.png",
+    "url": "http://45.225.40.206:12080/Live/4381001cf7c4e271491f5484da2d8304/canal9televida.playlist.m3u8",
+    "group": "Argentina",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
   },
   {
-    "id": "axn",
-    "name": "Axn",
-    "logo": "https://bestleague.world/img/axn.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=QVhOSEQ=&lang=1",
-    "group": "Cine y Series",
-    "type": "live"
+    "id": "volver",
+    "name": "VOLVER",
+    "logo": "https://pelisjuanita.com/tv/logos/volver.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Vm9sdmVy&lang=1",
+    "group": "Argentina",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
+  },
+  {
+    "id": "vorterix",
+    "name": "Vorterix",
+    "logo": "https://pelisjuanita.com/tv/logos/vorterix.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Vm9ydGVyaXg=",
+    "group": "Argentina",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
+  },
+  {
+    "id": "htv",
+    "name": "HTV",
+    "logo": "https://pelisjuanita.com/tv/logos/htv.png",
+    "url": "https://full-online.xyz/cvatt.html?get=SFRW",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
   },
   {
     "id": "tcm",
-    "name": "Tcm",
-    "logo": "https://bestleague.world/img/tcm.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=VENN&lang=1",
-    "group": "Cine y Series",
-    "type": "live"
+    "name": "TCM",
+    "logo": "https://pelisjuanita.com/tv/logos/tcm.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VENN",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
   },
   {
-    "id": "e",
-    "name": "E",
-    "logo": "https://bestleague.world/img/e.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=RV9FbnRlcnRhaW5tZW50X1RlbGV2aXNpb24=&lang=1",
-    "group": "Cine y Series",
-    "type": "live"
+    "id": "canal-10-uruguayo",
+    "name": "Canal 10 Uruguayo",
+    "logo": "https://pelisjuanita.com/tv/logos/canal-10-uruguayo.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Q2FuYWwxMF9VUlU=",
+    "group": "Uruguay",
+    "type": "live",
+    "category": "ENTRETENIMIENTO"
   },
   {
-    "id": "a3cine",
-    "name": "A3cine",
-    "logo": "https://bestleague.world/img/a3cine.png",
-    "url": "https://www.nebunexa.life/cvatt.html?get=QTNfQ2luZQ==&lang=1",
-    "group": "Cine y Series",
-    "type": "live"
+    "id": "baby-tv",
+    "name": "BABY TV",
+    "logo": "https://pelisjuanita.com/tv/logos/baby-tv.png",
+    "url": "https://full-online.xyz/cvatt.html?get=QmFieVRW",
+    "group": "Argentina",
+    "type": "live",
+    "category": "INFANTIL"
   },
   {
-    "id": "cinear",
-    "name": "Cinear",
-    "logo": "https://bestleague.world/img/cinear.png",
-    "url": "https://www.nebunexa.life/cvatt.html?get=SU5DQUFfVHY=&lang=1",
-    "group": "Cine y Series",
-    "type": "live"
+    "id": "paka-paka",
+    "name": "PAKA PAKA",
+    "logo": "https://pelisjuanita.com/tv/logos/paka-paka.png",
+    "url": "https://full-online.xyz/cvatt.html?get=UEFLQV9QQUtB",
+    "group": "Argentina",
+    "type": "live",
+    "category": "INFANTIL"
   },
   {
-    "id": "hbo",
-    "name": "HBO",
-    "logo": "https://bestleague.world/img/hbo.webp",
-    "url": "https://chromecast.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc_C/HBOHD.mpd",
-    "group": "Pack HBO",
-    "type": "live"
-  },
-  {
-    "id": "hbo-2",
-    "name": "HBO 2",
-    "logo": "https://bestleague.world/img/hbo2.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=SEJPXzI=&lang=1",
-    "group": "Pack HBO",
-    "type": "live"
-  },
-  {
-    "id": "hbo-plus",
-    "name": "HBO Plus",
-    "logo": "https://bestleague.world/img/hboplus.webp",
-    "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_C/HBO_Plus.mpd",
-    "group": "Internacional",
-    "type": "live"
-  },
-  {
-    "id": "hbo-family",
-    "name": "HBO Family",
-    "logo": "https://bestleague.world/img/hbofam.webp",
-    "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_C/HBO_Family.mpd",
-    "group": "Pack HBO",
-    "type": "live"
-  },
-  {
-    "id": "hbo-xtreme",
-    "name": "HBO Xtreme",
-    "logo": "https://bestleague.world/img/hboxtreme.webp",
-    "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_C/HBO_Extreme.mpd",
-    "group": "Pack HBO",
-    "type": "live"
-  },
-  {
-    "id": "hbo-mundi",
-    "name": "HBO Mundi",
-    "logo": "https://bestleague.world/img/hboxtreme.webp",
-    "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_C/HBO_Mundi.mpd",
-    "group": "Pack HBO",
-    "type": "live"
-  },
-  {
-    "id": "hbo-pop",
-    "name": "HBO Pop",
-    "logo": "https://bestleague.world/img/hbopop.webp",
-    "url": "https://chromecast.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_C/HBO_POP.mpd",
-    "group": "Pack HBO",
-    "type": "live"
-  },
-  {
-    "id": "hbo-sig",
-    "name": "Hbo Sig",
-    "logo": "https://bestleague.world/img/hbosig.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=SEJPX1NpZ25hdHVyZQ==&lang=1",
-    "group": "Pack HBO",
-    "type": "live"
-  },
-  {
-    "id": "universal-cinema",
-    "name": "Universal Cinema",
-    "logo": "https://bestleague.world/img/universalcinema.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=VW5pdmVyc2FsX0NpbmVtYQ==&lang=1",
-    "group": "Pack Universal",
-    "type": "live"
-  },
-  {
-    "id": "universal-crime",
-    "name": "Universal Crime",
-    "logo": "https://bestleague.world/img/universalcrime.webp",
-    "url": "https://chromecast.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc_C/universal_Crime.mpd",
-    "group": "Pack Universal",
-    "type": "live"
-  },
-  {
-    "id": "universal-comedy",
-    "name": "Universal Comedy",
-    "logo": "https://bestleague.world/img/universalcomedy.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=VW5pdmVyc2FsX0NvbWVkeQ==&lang=1",
-    "group": "Pack Universal",
-    "type": "live"
-  },
-  {
-    "id": "universal-reality",
-    "name": "Universal Reality",
-    "logo": "https://bestleague.world/img/universalreality.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=VW5pdmVyc2FsX1JlYWxpdHk=&lang=1",
-    "group": "Pack Universal",
-    "type": "live"
-  },
-  {
-    "id": "universal-premiere",
-    "name": "Universal Premiere",
-    "logo": "https://bestleague.world/img/universalpremiere.webp",
-    "url": "https://chromecast.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc_C/Universal_Premiere.mpd",
-    "group": "Pack Universal",
-    "type": "live"
-  },
-  {
-    "id": "golden",
-    "name": "Golden",
-    "logo": "https://bestleague.world/img/Logo_Golden_TV.svg",
-    "url": "https://chromecast.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc_C/Golden.mpd",
-    "group": "Cine y Series",
-    "type": "live"
-  },
-  {
-    "id": "estrellas",
-    "name": "Estrellas",
-    "logo": "https://bestleague.world/img/estrellas.png",
-    "url": "https://www.nebunexa.life/cvatt.html?get=Q2FuYWxfZGVfbGFzX2VzdHJlbGxhcw==&lang=1",
-    "group": "Cine y Series",
-    "type": "live"
-  },
-  {
-    "id": "adult-swim",
-    "name": "Adult Swim",
-    "logo": "https://bestleague.world/img/adults.png",
-    "url": "https://chromecast.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc_C/Adult_Swim.mpd",
-    "group": "Cine y Series",
-    "type": "live"
+    "id": "tooncast",
+    "name": "Tooncast",
+    "logo": "https://pelisjuanita.com/tv/logos/tooncast.png",
+    "url": "https://embed.ksdjugfsddeports.com/embed2/tooncast.html",
+    "group": "Argentina",
+    "type": "live",
+    "category": "INFANTIL"
   },
   {
     "id": "cartoon-network",
     "name": "Cartoon Network",
-    "logo": "https://bestleague.world/img/cn.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=Q2FydG9vbk5ldHdvcms=&lang=1",
-    "group": "Infantiles",
-    "type": "live"
+    "logo": "https://pelisjuanita.com/tv/logos/cartoon-network.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Q2FydG9vbk5ldHdvcms=",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "INFANTIL"
   },
   {
     "id": "cartoonito",
     "name": "Cartoonito",
-    "logo": "https://bestleague.world/img/cart.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=Qm9vbWVyYW5n&lang=1",
-    "group": "Infantiles",
-    "type": "live"
-  },
-  {
-    "id": "disney-channel",
-    "name": "Disney Channel",
-    "logo": "https://bestleague.world/img/disney.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=RGlzbmV5Q2hhbm5lbEhE&lang=1",
-    "group": "Infantiles",
-    "type": "live"
-  },
-  {
-    "id": "disney-jr",
-    "name": "Disney Jr",
-    "logo": "https://bestleague.world/img/disneyjr.webp",
-    "url": "https://chromecast.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_C/DisneyJr.mpd",
-    "group": "Infantiles",
-    "type": "live"
+    "logo": "https://pelisjuanita.com/tv/logos/cartoonito.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Qm9vbWVyYW5n&lang=1",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "INFANTIL"
   },
   {
     "id": "discovery-kids",
     "name": "Discovery Kids",
-    "logo": "https://bestleague.world/img/diskids.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=RGlzY292ZXJ5X0tpZHM=&lang=1",
-    "group": "Infantiles",
-    "type": "live"
+    "logo": "https://pelisjuanita.com/tv/logos/discovery-kids.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RGlzY292ZXJ5X0tpZHM=",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "INFANTIL"
+  },
+  {
+    "id": "disney-channel",
+    "name": "Disney Channel",
+    "logo": "https://pelisjuanita.com/tv/logos/disney-channel.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RGlzbmV5Q2hhbm5lbEhE",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "INFANTIL"
+  },
+  {
+    "id": "disney-jr",
+    "name": "Disney JR",
+    "logo": "https://pelisjuanita.com/tv/logos/disney-jr.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RGlzbmV5SnI=",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "INFANTIL"
   },
   {
     "id": "nick",
-    "name": "Nick",
-    "logo": "https://bestleague.world/img/nick.png",
-    "url": "https://www.nebunexa.life/cvatt.html?get=RGlzY292ZXJ5X0tpZHM=&lang=1",
-    "group": "Infantiles",
-    "type": "live"
+    "name": "NICK",
+    "logo": "https://pelisjuanita.com/tv/logos/nick.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Tmlja2Vsb2Rlb24=",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "INFANTIL"
   },
   {
-    "id": "nickjr",
-    "name": "Nickjr",
-    "logo": "https://bestleague.world/img/nickjr.webp",
-    "url": "https://chromecast.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_C/Nick_Jr.mpd",
-    "group": "Infantiles",
-    "type": "live"
+    "id": "nick-jr",
+    "name": "NICK JR",
+    "logo": "https://pelisjuanita.com/tv/logos/nick-jr.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Tmlja19Kcg==",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "INFANTIL"
+  },
+  {
+    "id": "tv-chile",
+    "name": "TV Chile",
+    "logo": "https://pelisjuanita.com/tv/logos/tv-chile.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VHZfQ2hpbGU=",
+    "group": "Chile",
+    "type": "live",
+    "category": "INTERNACIONAL"
+  },
+  {
+    "id": "caracol-tv",
+    "name": "Caracol TV",
+    "logo": "https://pelisjuanita.com/tv/logos/caracol-tv.png",
+    "url": "https://cdn.chatytvgratis.net/caracolhd201.php",
+    "group": "Colombia",
+    "type": "live",
+    "category": "INTERNACIONAL"
+  },
+  {
+    "id": "rcn",
+    "name": "RCN",
+    "logo": "https://pelisjuanita.com/tv/logos/rcn.png",
+    "url": "https://embed.saohgdasregions.fun/embed2/rcn.html",
+    "group": "Colombia",
+    "type": "live",
+    "category": "INTERNACIONAL"
+  },
+  {
+    "id": "rcn-mas",
+    "name": "RCN MÁS",
+    "logo": "https://pelisjuanita.com/tv/logos/rcn-mas.png",
+    "url": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
+    "group": "Colombia",
+    "type": "live",
+    "category": "INTERNACIONAL"
+  },
+  {
+    "id": "arirang",
+    "name": "Arirang",
+    "logo": "https://pelisjuanita.com/tv/logos/arirang.png",
+    "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8",
+    "group": "Corea del Sur",
+    "type": "live",
+    "category": "INTERNACIONAL"
+  },
+  {
+    "id": "antena-3",
+    "name": "Antena 3",
+    "logo": "https://pelisjuanita.com/tv/logos/antena-3.png",
+    "url": "https://full-online.xyz/cvatt.html?get=QW50ZW5hXzM=",
+    "group": "España",
+    "type": "live",
+    "category": "INTERNACIONAL"
+  },
+  {
+    "id": "hola-tv",
+    "name": "Hola TV",
+    "logo": "https://pelisjuanita.com/tv/logos/hola-tv.png",
+    "url": "https://full-online.xyz/cvatt.html?get=SG9sYV9UVg==",
+    "group": "España",
+    "type": "live",
+    "category": "INTERNACIONAL"
+  },
+  {
+    "id": "tve-internacional",
+    "name": "TVE Internacional",
+    "logo": "https://pelisjuanita.com/tv/logos/tve-internacional.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VFZfRXNwYW5h",
+    "group": "España",
+    "type": "live",
+    "category": "INTERNACIONAL"
+  },
+  {
+    "id": "telemundo",
+    "name": "Telemundo",
+    "logo": "https://pelisjuanita.com/tv/logos/telemundo.png",
+    "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNJU)/master.mpd",
+    "group": "México",
+    "type": "live",
+    "category": "INTERNACIONAL"
+  },
+  {
+    "id": "argentinisima",
+    "name": "Argentinisima",
+    "logo": "https://pelisjuanita.com/tv/logos/argentinisima.png",
+    "url": "https://stream1.sersat.com/hls/argentinisima.m3u8",
+    "group": "Argentina",
+    "type": "live",
+    "category": "MUSICA"
+  },
+  {
+    "id": "cumbia-mix",
+    "name": "Cumbia Mix",
+    "logo": "https://pelisjuanita.com/tv/logos/cumbia-mix.png",
+    "url": "https://cloud.tvomix.com/CUMBIAMIX/index.m3u8",
+    "group": "Argentina",
+    "type": "live",
+    "category": "MUSICA"
+  },
+  {
+    "id": "mtv",
+    "name": "MTV",
+    "logo": "https://pelisjuanita.com/tv/logos/mtv.png",
+    "url": "https://full-online.xyz/cvatt.html?get=TVRWX0hE",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "MUSICA"
+  },
+  {
+    "id": "a24",
+    "name": "A24",
+    "logo": "https://pelisjuanita.com/tv/logos/a24.png",
+    "url": "https://g5.vxral-slo.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_540p.m3u8",
+    "group": "Argentina",
+    "type": "live",
+    "category": "NOTICIAS"
+  },
+  {
+    "id": "c5n",
+    "name": "C5N",
+    "logo": "https://pelisjuanita.com/tv/logos/c5n.png",
+    "url": "http://45.225.40.206:12080/Live/4381001cf7c4e271491f5484da2d8304/c5n_720.m3u8",
+    "group": "Argentina",
+    "type": "live",
+    "category": "NOTICIAS"
+  },
+  {
+    "id": "canal-26",
+    "name": "CANAL 26",
+    "logo": "https://pelisjuanita.com/tv/logos/canal-26.png",
+    "url": "https://full-online.xyz/cvatt.html?get=MjZfVFZfSEQ",
+    "group": "Argentina",
+    "type": "live",
+    "category": "NOTICIAS"
+  },
+  {
+    "id": "ip-noticias",
+    "name": "IP Noticias",
+    "logo": "https://pelisjuanita.com/tv/logos/ip-noticias.png",
+    "url": "https://full-online.xyz/cvatt.html?get=SW52ZXN0aWdhY2lvbl9QZXJpb2Rpc3RpY2E=",
+    "group": "Argentina",
+    "type": "live",
+    "category": "NOTICIAS"
+  },
+  {
+    "id": "ln",
+    "name": "LN+",
+    "logo": "https://pelisjuanita.com/tv/logos/ln.png",
+    "url": "http://45.225.40.206:12080/Live/4381001cf7c4e271491f5484da2d8304/lntv_720.m3u8",
+    "group": "Argentina",
+    "type": "live",
+    "category": "NOTICIAS"
+  },
+  {
+    "id": "tn",
+    "name": "TN",
+    "logo": "https://pelisjuanita.com/tv/logos/tn.png",
+    "url": "https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index_TN_DAI_Beta_1080.m3u8",
+    "group": "Argentina",
+    "type": "live",
+    "category": "NOTICIAS"
+  },
+  {
+    "id": "cnn",
+    "name": "CNN",
+    "logo": "https://pelisjuanita.com/tv/logos/cnn.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Q05OX2VuX0VzcGFub2w=",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "NOTICIAS"
+  },
+  {
+    "id": "cnn-internacional",
+    "name": "CNN Internacional",
+    "logo": "https://pelisjuanita.com/tv/logos/cnn-internacional.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Q05OX0ludGVybmFjaW9uYWw=",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "NOTICIAS"
+  },
+  {
+    "id": "fox-news",
+    "name": "Fox News",
+    "logo": "https://pelisjuanita.com/tv/logos/fox-news.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Rm94X05ld3M=",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "NOTICIAS"
+  },
+  {
+    "id": "tnt-hd",
+    "name": "TNT HD",
+    "logo": "https://pelisjuanita.com/tv/logos/tnt-hd.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VE5UX0hEX0FyZw==",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "NOTICIAS"
+  },
+  {
+    "id": "tnt-novelas",
+    "name": "TNT Novelas",
+    "logo": "https://pelisjuanita.com/tv/logos/tnt-novelas.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VEJT&lang=1",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "NOTICIAS"
+  },
+  {
+    "id": "tnt-series",
+    "name": "TNT Series",
+    "logo": "https://pelisjuanita.com/tv/logos/tnt-series.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VE5UU2VyaWVz",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "NOTICIAS"
+  },
+  {
+    "id": "euronews",
+    "name": "Euronews",
+    "logo": "https://pelisjuanita.com/tv/logos/euronews.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RXVyb25ld3M=",
+    "group": "Francia",
+    "type": "live",
+    "category": "NOTICIAS"
+  },
+  {
+    "id": "bbc-news",
+    "name": "BBC News",
+    "logo": "https://pelisjuanita.com/tv/logos/bbc-news.png",
+    "url": "https://full-online.xyz/cvatt.html?get=QkJDX1dvcmxkX05ld3M",
+    "group": "Reino Unido",
+    "type": "live",
+    "category": "NOTICIAS"
+  },
+  {
+    "id": "bravo-tv",
+    "name": "Bravo TV",
+    "logo": "https://pelisjuanita.com/tv/logos/bravo-tv.png",
+    "url": "https://full-online.xyz/cvatt.html?get=QnJhdm9UVg==",
+    "group": "Argentina",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "cine-ar",
+    "name": "Cine AR",
+    "logo": "https://pelisjuanita.com/tv/logos/cine-ar.png",
+    "url": "https://full-online.xyz/cvatt.html?get=SU5DQUFfVHY=",
+    "group": "Argentina",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "cinecanal",
+    "name": "Cinecanal",
+    "logo": "https://pelisjuanita.com/tv/logos/cinecanal.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Q2luZWNhbmFsSEQ=",
+    "group": "Argentina",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "film-arts",
+    "name": "Film Arts",
+    "logo": "https://pelisjuanita.com/tv/logos/film-arts.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RmlsbV9BcnRz",
+    "group": "Argentina",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "space",
+    "name": "Space",
+    "logo": "https://pelisjuanita.com/tv/logos/space.png",
+    "url": "https://full-online.xyz/cvatt.html?get=U3BhY2U=",
+    "group": "Argentina",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "telemax",
+    "name": "Telemax",
+    "logo": "https://pelisjuanita.com/tv/logos/telemax.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VGVsZW1heA",
+    "group": "Argentina",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "eurochannel",
+    "name": "Eurochannel",
+    "logo": "https://pelisjuanita.com/tv/logos/eurochannel.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RXVyb2NoYW5uZWw=",
+    "group": "Brasil",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "a3cine",
+    "name": "A3Cine",
+    "logo": "https://pelisjuanita.com/tv/logos/a3cine.png",
+    "url": "https://full-online.xyz/cvatt.html?get=QTNfQ2luZQ==",
+    "group": "España",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "a3series",
+    "name": "A3Series",
+    "logo": "https://pelisjuanita.com/tv/logos/a3series.png",
+    "url": "https://full-online.xyz/cvatt.html?get=QTNfU2VyaWVz",
+    "group": "España",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "adult-swim",
+    "name": "Adult Swim",
+    "logo": "https://pelisjuanita.com/tv/logos/adult-swim.png",
+    "url": "https://full-online.xyz/cvatt.html?get=QWR1bHRfU3dpbQ==",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "amc",
+    "name": "AMC",
+    "logo": "https://pelisjuanita.com/tv/logos/amc.png",
+    "url": "https://full-online.xyz/cvatt.html?get=QU1D",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "amc-series",
+    "name": "AMC Series",
+    "logo": "https://pelisjuanita.com/tv/logos/amc-series.png",
+    "url": "https://full-online.xyz/cvatt.html?get=QU1DX1Nlcmllcw==",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "axn",
+    "name": "AXN",
+    "logo": "https://pelisjuanita.com/tv/logos/axn.png",
+    "url": "https://full-online.xyz/cvatt.html?get=QVhOSEQ=",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "cinemax",
+    "name": "Cinemax",
+    "logo": "https://pelisjuanita.com/tv/logos/cinemax.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Q2luZW1heA==",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "comedy-central",
+    "name": "Comedy Central",
+    "logo": "https://pelisjuanita.com/tv/logos/comedy-central.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Q29tZWR5Q2VudHJhbA",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
   },
   {
     "id": "dreamworks",
-    "name": "DreamWorks",
-    "logo": "https://bestleague.world/img/dream.png",
-    "url": "https://chromecast.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc_C/Dreamworks.mpd",
-    "group": "Infantiles",
-    "type": "live"
+    "name": "Dreamworks",
+    "logo": "https://pelisjuanita.com/tv/logos/dreamworks.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RHJlYW13b3Jrcw==",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
   },
   {
-    "id": "flow-music",
-    "name": "Flow Music",
-    "logo": "https://bestleague.world/img/flowmusic.webp",
-    "url": "https://www.nebunexa.life/cvatt.html?get=Rmxvd19NdXNpY19YUA==&lang=1",
-    "group": "Musica",
-    "type": "live"
+    "id": "fxhd",
+    "name": "FXHD",
+    "logo": "https://pelisjuanita.com/tv/logos/fxhd.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RlhIRA==",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "hbo",
+    "name": "HBO",
+    "logo": "https://pelisjuanita.com/tv/logos/hbo.png",
+    "url": "https://full-online.xyz/cvatt.html?get=SEJPSEQ=",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "hbo-2",
+    "name": "HBO 2",
+    "logo": "https://pelisjuanita.com/tv/logos/hbo-2.png",
+    "url": "https://full-online.xyz/cvatt.html?get=SEJPXzI=",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "hbo-family",
+    "name": "HBO Family",
+    "logo": "https://pelisjuanita.com/tv/logos/hbo-family.png",
+    "url": "https://full-online.xyz/cvatt.html?get=SEJPX0ZhbWlseQ==",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "hbo-mundi",
+    "name": "HBO Mundi",
+    "logo": "https://pelisjuanita.com/tv/logos/hbo-mundi.png",
+    "url": "https://full-online.xyz/cvatt.html?get=SEJPX011bmRp",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "hbo-plus",
+    "name": "HBO Plus",
+    "logo": "https://pelisjuanita.com/tv/logos/hbo-plus.png",
+    "url": "https://full-online.xyz/cvatt.html?get=SEJPX1BsdXM=",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "hbo-pop",
+    "name": "HBO POP",
+    "logo": "https://pelisjuanita.com/tv/logos/hbo-pop.png",
+    "url": "https://full-online.xyz/cvatt.html?get=SEJPX1BPUA==",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "hbo-signature",
+    "name": "HBO Signature",
+    "logo": "https://pelisjuanita.com/tv/logos/hbo-signature.png",
+    "url": "https://full-online.xyz/cvatt.html?get=SEJPX1NpZ25hdHVyZQ==",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "hbo-xtreme",
+    "name": "HBO Xtreme",
+    "logo": "https://pelisjuanita.com/tv/logos/hbo-xtreme.png",
+    "url": "https://full-online.xyz/cvatt.html?get=SEJPX0V4dHJlbWU=",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "lifetime",
+    "name": "Lifetime",
+    "logo": "https://pelisjuanita.com/tv/logos/lifetime.png",
+    "url": "https://full-online.xyz/cvatt.html?get=TGlmZXRpbWU=",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "sony-channel",
+    "name": "Sony Channel",
+    "logo": "https://pelisjuanita.com/tv/logos/sony-channel.png",
+    "url": "https://full-online.xyz/cvatt.html?get=U29ueUhE",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "studio-universal",
+    "name": "Studio Universal",
+    "logo": "https://pelisjuanita.com/tv/logos/studio-universal.png",
+    "url": "https://full-online.xyz/cvatt.html?get=U3R1ZGlvX1VuaXZlcnNhbA==",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "universal-cinema",
+    "name": "Universal Cinema",
+    "logo": "https://pelisjuanita.com/tv/logos/universal-cinema.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VW5pdmVyc2FsX0NpbmVtYQ==",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "universal-comedy",
+    "name": "Universal Comedy",
+    "logo": "https://pelisjuanita.com/tv/logos/universal-comedy.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VW5pdmVyc2FsX0NvbWVkeQ==",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "universal-crime",
+    "name": "Universal Crime",
+    "logo": "https://pelisjuanita.com/tv/logos/universal-crime.png",
+    "url": "https://full-online.xyz/cvatt.html?get=dW5pdmVyc2FsX0NyaW1l",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "universal-premiere",
+    "name": "Universal Premiere",
+    "logo": "https://pelisjuanita.com/tv/logos/universal-premiere.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VW5pdmVyc2FsX1ByZW1pZXJl",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "universal-reality",
+    "name": "Universal Reality",
+    "logo": "https://pelisjuanita.com/tv/logos/universal-reality.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VW5pdmVyc2FsX1JlYWxpdHk=",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "universal-tv",
+    "name": "Universal TV",
+    "logo": "https://pelisjuanita.com/tv/logos/universal-tv.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VW5pdmVyc2FsX0NoYW5uZWxfSEQ=",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "warner",
+    "name": "Warner",
+    "logo": "https://pelisjuanita.com/tv/logos/warner.png",
+    "url": "https://full-online.xyz/cvatt.html?get=V2FybmVySEQ=",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "golden",
+    "name": "GOLDEN",
+    "logo": "https://pelisjuanita.com/tv/logos/golden.png",
+    "url": "https://full-online.xyz/cvatt.html?get=R29sZGVu",
+    "group": "México",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "golden-edge",
+    "name": "GOLDEN Edge",
+    "logo": "https://pelisjuanita.com/tv/logos/golden-edge.png",
+    "url": "https://embed.saohgdasregions.fun/embed2/goldenedge.html",
+    "group": "México",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "golden-plus",
+    "name": "GOLDEN Plus",
+    "logo": "https://pelisjuanita.com/tv/logos/golden-plus.png",
+    "url": "https://embed.saohgdasregions.fun/embed2/goldenplus.html",
+    "group": "México",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "liga-1-max",
+    "name": "Liga 1 MAX",
+    "logo": "https://pelisjuanita.com/tv/logos/liga-1-max.png",
+    "url": "https://tvtvhd.com/canales.php?stream=liga1max",
+    "group": "Perú",
+    "type": "live",
+    "category": "PELICULAS Y SERIES"
+  },
+  {
+    "id": "canal-de-la-ciudad",
+    "name": "Canal de la Ciudad",
+    "logo": "https://pelisjuanita.com/tv/logos/canal-de-la-ciudad.png",
+    "url": "https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/gcba_video4-100042_240p/index.m3u8",
+    "group": "Argentina",
+    "type": "live",
+    "category": "POLÍTICO"
+  },
+  {
+    "id": "diputados-tv",
+    "name": "Diputados TV",
+    "logo": "https://pelisjuanita.com/tv/logos/diputados-tv.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RGlwdXRhZG9zX1RW",
+    "group": "Argentina",
+    "type": "live",
+    "category": "POLÍTICO"
+  },
+  {
+    "id": "aire-santa-fe",
+    "name": "Aire Santa Fe",
+    "logo": "https://pelisjuanita.com/tv/logos/aire-santa-fe.png",
+    "url": "https://mdstrm.com/live-stream/6931a0eb06778645348008e0?autoplay=true",
+    "group": "Argentina",
+    "type": "live",
+    "category": "RELIGIOSO"
+  },
+  {
+    "id": "canal-luz",
+    "name": "Canal Luz",
+    "logo": "https://pelisjuanita.com/tv/logos/canal-luz.png",
+    "url": "https://g2.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_360p/index.m3u8",
+    "group": "Argentina",
+    "type": "live",
+    "category": "RELIGIOSO"
+  },
+  {
+    "id": "orbe-21",
+    "name": "Orbe 21",
+    "logo": "https://pelisjuanita.com/tv/logos/orbe-21.png",
+    "url": "https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w1179893763_b2211840.m3u8",
+    "group": "Argentina",
+    "type": "live",
+    "category": "RELIGIOSO"
+  },
+  {
+    "id": "unife",
+    "name": "Unife",
+    "logo": "https://pelisjuanita.com/tv/logos/unife.png",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8",
+    "group": "Argentina",
+    "type": "live",
+    "category": "RELIGIOSO"
+  },
+  {
+    "id": "america",
+    "name": "AMÉRICA",
+    "logo": "https://pelisjuanita.com/tv/logos/america.png",
+    "url": "https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8",
+    "group": "Argentina",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "cronica",
+    "name": "CRÓNICA",
+    "logo": "https://pelisjuanita.com/tv/logos/cronica.png",
+    "url": "http://45.225.40.206:12080/Live/4381001cf7c4e271491f5484da2d8304/CronicaTv_720.m3u8",
+    "group": "Argentina",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "europa-europa",
+    "name": "Europa Europa",
+    "logo": "https://pelisjuanita.com/tv/logos/europa-europa.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RXVyb3BhX0V1cm9wYQ",
+    "group": "Argentina",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "tv-publica",
+    "name": "TV PÚBLICA",
+    "logo": "https://pelisjuanita.com/tv/logos/tv-publica.png",
+    "url": "https://prepublish.f.qaotic.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8",
+    "group": "Argentina",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "a-e",
+    "name": "A&amp;E",
+    "logo": "https://pelisjuanita.com/tv/logos/a-e.png",
+    "url": "https://full-online.xyz/cvatt.html?get=QUVIRA==",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "e-entertaiment",
+    "name": "E Entertaiment",
+    "logo": "https://pelisjuanita.com/tv/logos/e-entertaiment.png",
+    "url": "https://full-online.xyz/cvatt.html?get=RV9FbnRlcnRhaW5tZW50X1RlbGV2aXNpb24=",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "national-geographic",
+    "name": "National Geographic",
+    "logo": "https://pelisjuanita.com/tv/logos/national-geographic.png",
+    "url": "https://full-online.xyz/cvatt.html?get=TmF0R2VvSEQ=&lang=1",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "usa-network",
+    "name": "USA NETWORK",
+    "logo": "https://pelisjuanita.com/tv/logos/usa-network.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VVNBX05ldHdvcms=",
+    "group": "Estados Unidos",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "tv5-monde",
+    "name": "TV5 MONDE",
+    "logo": "https://pelisjuanita.com/tv/logos/tv5-monde.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VFY1X01vbmRl",
+    "group": "Francia",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "rai",
+    "name": "RAI",
+    "logo": "https://pelisjuanita.com/tv/logos/rai.png",
+    "url": "https://full-online.xyz/cvatt.html?get=UkFJ",
+    "group": "Italia",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "azteca-7",
+    "name": "Azteca 7",
+    "logo": "https://pelisjuanita.com/tv/logos/azteca-7.png",
+    "url": "https://full-online.xyz/proxy/cv.php?canal=azteca7",
+    "group": "México",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "azteca-uno",
+    "name": "Azteca uno",
+    "logo": "https://pelisjuanita.com/tv/logos/azteca-uno.png",
+    "url": "https://embed.saohgdasregions.fun/embed2/aztecauno.html",
+    "group": "México",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "canal-5-mexico",
+    "name": "Canal 5 Mexico",
+    "logo": "https://pelisjuanita.com/tv/logos/canal-5-mexico.png",
+    "url": "https://full-online.xyz/proxy/cv.php?canal=canal5",
+    "group": "Mexico",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "las-estrellas",
+    "name": "Las Estrellas",
+    "logo": "https://pelisjuanita.com/tv/logos/las-estrellas.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Q2FuYWxfZGVfbGFzX2VzdHJlbGxhcw==",
+    "group": "México",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "tudn",
+    "name": "TUDN",
+    "logo": "https://pelisjuanita.com/tv/logos/tudn.png",
+    "url": "https://embed.saohgdasregions.fun/embed2/tudn.html",
+    "group": "México",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "sun-channel",
+    "name": "SUN Channel",
+    "logo": "https://pelisjuanita.com/tv/logos/sun-channel.png",
+    "url": "https://full-online.xyz/cvatt.html?get=U3VuX0NoYW5uZWw=",
+    "group": "Panamá",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "5-dias-py",
+    "name": "5 DÍAS PY",
+    "logo": "https://pelisjuanita.com/tv/logos/5-dias-py.png",
+    "url": "https://full-online.xyz/cvatt.html?get=NV9EaWFzX1BZ",
+    "group": "Paraguay",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "canal-pro",
+    "name": "Canal PRO",
+    "logo": "https://pelisjuanita.com/tv/logos/canal-pro.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Q2FuYWxfUFJP",
+    "group": "Paraguay",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "latele",
+    "name": "Latele",
+    "logo": "https://pelisjuanita.com/tv/logos/latele.png",
+    "url": "https://full-online.xyz/cvatt.html?get=TEFfVEVMRV9DNA==",
+    "group": "Paraguay",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "pytv",
+    "name": "PYTV",
+    "logo": "https://pelisjuanita.com/tv/logos/pytv.png",
+    "url": "https://full-online.xyz/cvatt.html?get=UGFyYWd1YXlfVFY=",
+    "group": "Paraguay",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "trece-py",
+    "name": "Trece PY",
+    "logo": "https://pelisjuanita.com/tv/logos/trece-py.png",
+    "url": "https://full-online.xyz/cvatt.html?get=UlBDX0M0",
+    "group": "Paraguay",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "unicanal",
+    "name": "Unicanal",
+    "logo": "https://pelisjuanita.com/tv/logos/unicanal.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VU5JQ0FOQUxfQzQ=",
+    "group": "Paraguay",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "rt-en-espanol",
+    "name": "RT en Español",
+    "logo": "https://pelisjuanita.com/tv/logos/rt-en-espanol.png",
+    "url": "https://rt-esp.rttv.com/live/rtesp/playlist.m3u8",
+    "group": "Rusia",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "canal-4-uruguay",
+    "name": "Canal 4 Uruguay",
+    "logo": "https://pelisjuanita.com/tv/logos/canal-4-uruguay.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Q2FuYWw0X1VSVQ==",
+    "group": "Uruguay",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "teledoce",
+    "name": "Teledoce",
+    "logo": "https://pelisjuanita.com/tv/logos/teledoce.png",
+    "url": "https://full-online.xyz/cvatt.html?get=Q2FuYWwxMlVSVQ==",
+    "group": "Uruguay",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "tv-ciudad",
+    "name": "TV Ciudad",
+    "logo": "https://pelisjuanita.com/tv/logos/tv-ciudad.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VGV2ZV9DaXVkYWQ=",
+    "group": "Uruguay",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "vtv",
+    "name": "VTV",
+    "logo": "https://pelisjuanita.com/tv/logos/vtv.png",
+    "url": "https://cointv.site/canales.php?id=vtv",
+    "group": "Uruguay",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "vtv-plus",
+    "name": "VTV Plus",
+    "logo": "https://pelisjuanita.com/tv/logos/vtv-plus.png",
+    "url": "https://cointv.site/canales.php?id=vtvplus-op22",
+    "group": "Uruguay",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "los-simpsons",
+    "name": "Los Simpsons",
+    "logo": "https://pelisjuanita.com/tv/logos/los-simpsons.png",
+    "url": "http://45.225.40.206:12080/Live/4381001cf7c4e271491f5484da2d8304/online-24-7_480.m3u8",
+    "group": "Varios",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "playboy",
+    "name": "PlayBoy",
+    "logo": "https://pelisjuanita.com/tv/logos/playboy.png",
+    "url": "https://full-online.xyz/cvatt.html?get=UGxheWJveQ",
+    "group": "Varios",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "private-tv",
+    "name": "Private TV",
+    "logo": "https://pelisjuanita.com/tv/logos/private-tv.png",
+    "url": "https://zonatv.store/canales/teens/",
+    "group": "Varios",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "sextreme",
+    "name": "Sextreme",
+    "logo": "https://pelisjuanita.com/tv/logos/sextreme.png",
+    "url": "https://full-online.xyz/cvatt.html?get=U2V4dHJlbWU",
+    "group": "Varios",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "venus",
+    "name": "Venus",
+    "logo": "https://pelisjuanita.com/tv/logos/venus.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VmVudXM=",
+    "group": "Varios",
+    "type": "live",
+    "category": "VARIOS"
+  },
+  {
+    "id": "telesur",
+    "name": "TeleSur",
+    "logo": "https://pelisjuanita.com/tv/logos/telesur.png",
+    "url": "https://full-online.xyz/cvatt.html?get=VGVsZXN1cg==",
+    "group": "Venezuela",
+    "type": "live",
+    "category": "VARIOS"
   }
 ]
