@@ -1,326 +1,7 @@
 [
   {
-    "title": "Primera División: Gualberto Villarroel SJ vs Real Tomayapo - Futbol Canal",
-    "url": "https://dglvz29s.fubo18.com:443/even4/mono.m3u8?token=f479ce1f1e1677d2bb096d8c77334623d717e5b3-48-1783471601-1783453601",
-    "type": "event",
-    "source": "https://tvhd2.com/canales.php?stream=even4",
-    "country": "Bolivia",
-    "event_description": "Primera División: Gualberto Villarroel SJ vs Real Tomayapo",
-    "event_hour": "20:00",
-    "event_date": "2026-07-07",
-    "embed_name": "Futbol Canal"
-  },
-  {
-    "title": "Primera División: Gualberto Villarroel SJ vs Real Tomayapo - Futbol Canal | OP2",
-    "url": "https://YXdlc29tZQ.fubo18.com:443/even4/mono.m3u8?token=e1a0e102ddfe3f7a08437917d5a310a03f7324d9-f2-1783471602-1783453602",
-    "type": "event",
-    "source": "https://tvhd2.com/vivo/canal.php?stream=even4",
-    "country": "Bolivia",
-    "event_description": "Primera División: Gualberto Villarroel SJ vs Real Tomayapo",
-    "event_hour": "20:00",
-    "event_date": "2026-07-07",
-    "embed_name": "Futbol Canal | OP2"
-  },
-  {
-    "title": "Primera División: Gualberto Villarroel SJ vs Real Tomayapo - Futbol Canal | OP3",
-    "url": "https://YXdlc29tZQ.fubo18.com:443/even4/mono.m3u8?token=21a0656ab4dab81fa19f11070405bffcf08b416b-47-1783471602-1783453602",
-    "type": "event",
-    "source": "https://tvhd2.com/vivo/canales.php?stream=even4",
-    "country": "Bolivia",
-    "event_description": "Primera División: Gualberto Villarroel SJ vs Real Tomayapo",
-    "event_hour": "20:00",
-    "event_date": "2026-07-07",
-    "embed_name": "Futbol Canal | OP3"
-  },
-  {
-    "title": "Serie A: \nAucas vs Guayaquil City - ECDF LigaPro",
-    "url": "https://eWVz.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=e08c740d043dd4a68d2504949c13d06c51082783-b-1783471603-1783453603",
-    "type": "event",
-    "source": "https://tvhd2.com/canales.php?stream=ecdf_ligapro",
-    "country": "Ecuador",
-    "event_description": "Serie A: \nAucas vs Guayaquil City",
-    "event_hour": "21:00",
-    "event_date": "2026-07-07",
-    "embed_name": "ECDF LigaPro"
-  },
-  {
-    "title": "MLB – St. Louis Cardinals vs Milwaukee Brewers - ESPN 7",
-    "url": "https://c2f2zq.fubo18.com:443/espn7/mono.m3u8?token=6de6f91f265bb099da218d7b37fa97e0baa99f0f-14-1783471604-1783453604",
-    "type": "event",
-    "source": "https://tvhd2.com/canales.php?stream=espn7",
-    "country": "MLB Preseason",
-    "event_description": "MLB – St. Louis Cardinals vs Milwaukee Brewers",
-    "event_hour": "15:00",
-    "event_date": "2026-07-07",
-    "embed_name": "ESPN 7"
-  },
-  {
-    "title": "MLB – St. Louis Cardinals vs Milwaukee Brewers - ESPN 7 | OP2",
-    "url": "https://eWVz.fubo18.com:443/espn7/mono.m3u8?token=0bcaf22e633219473acec6f472f590089ade0bd8-25-1783471604-1783453604",
-    "type": "event",
-    "source": "https://tvhd2.com/vivo/canal.php?stream=espn7",
-    "country": "MLB Preseason",
-    "event_description": "MLB – St. Louis Cardinals vs Milwaukee Brewers",
-    "event_hour": "15:00",
-    "event_date": "2026-07-07",
-    "embed_name": "ESPN 7 | OP2"
-  },
-  {
-    "title": "MLB – St. Louis Cardinals vs Milwaukee Brewers - ESPN 7 | OP3",
-    "url": "https://bmf0aw9u.fubo18.com:443/espn7/mono.m3u8?token=c955279e547ac4539de3e9b01e174481f684388a-c5-1783471605-1783453605",
-    "type": "event",
-    "source": "https://tvhd2.com/vivo/canales.php?stream=espn7",
-    "country": "MLB Preseason",
-    "event_description": "MLB – St. Louis Cardinals vs Milwaukee Brewers",
-    "event_hour": "15:00",
-    "event_date": "2026-07-07",
-    "embed_name": "ESPN 7 | OP3"
-  },
-  {
-    "title": "MLB – Tampa Bay Rays vs New York Yankees - ESPN 3",
-    "url": "https://cxm4.futbolonlinehd.com:443/even3/mono.m3u8?token=ae7053ca2bc2762b4336ffa942e0cd4a7338bb2d-cf-1783471605-1783453605",
-    "type": "event",
-    "source": "https://tvhd2.com/online/canal.php?stream=even3",
-    "country": "MLB Preseason",
-    "event_description": "MLB – Tampa Bay Rays vs New York Yankees",
-    "event_hour": "19:30",
-    "event_date": "2026-07-07",
-    "embed_name": "ESPN 3"
-  },
-  {
-    "title": "MLB – Tampa Bay Rays vs New York Yankees - ESPN 3 | OP2",
-    "url": "https://cxm5.futbolonlinehd.com:443/even3/mono.m3u8?token=2c3e95927a731c9823cf9cc519a089e4e74dd7d7-6f-1783471605-1783453605",
-    "type": "event",
-    "source": "https://tvhd2.com/online/canal.php?stream=even3",
-    "country": "MLB Preseason",
-    "event_description": "MLB – Tampa Bay Rays vs New York Yankees",
-    "event_hour": "19:30",
-    "event_date": "2026-07-07",
-    "embed_name": "ESPN 3 | OP2"
-  },
-  {
-    "title": "MLB – Tampa Bay Rays vs New York Yankees - ESPN 3 | OP3",
-    "url": "https://cxm4.futbolonlinehd.com:443/even3/mono.m3u8?token=0ce90602bcfc36f4cb21b70be14e5ea00e9c1da5-b0-1783471606-1783453606",
-    "type": "event",
-    "source": "https://tvhd2.com/online/canal.php?stream=even3",
-    "country": "MLB Preseason",
-    "event_description": "MLB – Tampa Bay Rays vs New York Yankees",
-    "event_hour": "19:30",
-    "event_date": "2026-07-07",
-    "embed_name": "ESPN 3 | OP3"
-  },
-  {
-    "title": "MLB – Tampa Bay Rays vs New York Yankees - ESPN 3 HD",
-    "url": "https://cxm4.futbolonlinehd.com:443/even3/mono.m3u8?token=4e91fbd2011d0906f64262a16b437c236de5051e-fd-1783471606-1783453606",
-    "type": "event",
-    "source": "https://tvhd2.com/online/canal.php?stream=even3",
-    "country": "MLB Preseason",
-    "event_description": "MLB – Tampa Bay Rays vs New York Yankees",
-    "event_hour": "19:30",
-    "event_date": "2026-07-07",
-    "embed_name": "ESPN 3 HD"
-  },
-  {
-    "title": " WNBA – New York vs Dallas - ESPN 2",
-    "url": "https://cxm7.futbolonlinehd.com:443/even2/mono.m3u8?token=53b9e459097a488036f4d03557b782b68e5f34f6-c4-1783471607-1783453607",
-    "type": "event",
-    "source": "https://tvhd2.com/online/canal.php?stream=even2",
-    "country": "Amistosos Paises",
-    "event_description": " WNBA – New York vs Dallas",
-    "event_hour": "21:00",
-    "event_date": "2026-07-07",
-    "embed_name": "ESPN 2"
-  },
-  {
-    "title": " WNBA – New York vs Dallas - ESPN 2 | OP2",
-    "url": "https://cxm4.futbolonlinehd.com:443/even2/mono.m3u8?token=a4bd01dbdd4ce815fb5317c4b8e5fa5afc220f08-e8-1783471607-1783453607",
-    "type": "event",
-    "source": "https://tvhd2.com/online/canal.php?stream=even2",
-    "country": "Amistosos Paises",
-    "event_description": " WNBA – New York vs Dallas",
-    "event_hour": "21:00",
-    "event_date": "2026-07-07",
-    "embed_name": "ESPN 2 | OP2"
-  },
-  {
-    "title": " WNBA – New York vs Dallas - ESPN 2 | OP3",
-    "url": "https://cxm9.futbolonlinehd.com:443/even2/mono.m3u8?token=65baa6b32dbb658d8d541acbcf99a1b1023e824b-15-1783471607-1783453607",
-    "type": "event",
-    "source": "https://tvhd2.com/online/canal.php?stream=even2",
-    "country": "Amistosos Paises",
-    "event_description": " WNBA – New York vs Dallas",
-    "event_hour": "21:00",
-    "event_date": "2026-07-07",
-    "embed_name": "ESPN 2 | OP3"
-  },
-  {
-    "title": " WNBA – New York vs Dallas - ESPN 2 HD",
-    "url": "https://cxm4.futbolonlinehd.com:443/even2/mono.m3u8?token=1319267378ef72fcd0834b635fb323d88a21bf25-9e-1783471608-1783453608",
-    "type": "event",
-    "source": "https://tvhd2.com/online/canal.php?stream=even2",
-    "country": "Amistosos Paises",
-    "event_description": " WNBA – New York vs Dallas",
-    "event_hour": "21:00",
-    "event_date": "2026-07-07",
-    "embed_name": "ESPN 2 HD"
-  },
-  {
-    "title": "Copa del Mundo: \nSuiza vs Colombia - DSports",
-    "url": "https://am91cm5leQ.fubo18.com:443/dsports/mono.m3u8?token=599189719131f9d8f778dffc288be3979be862c8-88-1783471610-1783453610",
-    "type": "event",
-    "source": "https://tvhd2.com/canales.php?stream=dsports",
-    "country": "mundial 2026",
-    "event_description": "Copa del Mundo: \nSuiza vs Colombia",
-    "event_hour": "17:00",
-    "event_date": "2026-07-07",
-    "embed_name": "DSports"
-  },
-  {
-    "title": "Copa del Mundo: \nSuiza vs Colombia - DSports | HD",
-    "url": "https://cxm5.futbolonlinehd.com:443/dsports/mono.m3u8?token=51bde5af45e7a31f360b824ba5dd8f1f1409a0a0-47-1783471611-1783453611",
-    "type": "event",
-    "source": "https://tvhd2.com/online/canales.php?stream=dsports",
-    "country": "mundial 2026",
-    "event_description": "Copa del Mundo: \nSuiza vs Colombia",
-    "event_hour": "17:00",
-    "event_date": "2026-07-07",
-    "embed_name": "DSports | HD"
-  },
-  {
-    "title": "Copa del Mundo: \nSuiza vs Colombia - DSports | OP2",
-    "url": "https://YXdlc29tZQ.fubo18.com:443/dsports/mono.m3u8?token=3803b53dbd833d04638b2916599a699d035187cd-47-1783471611-1783453611",
-    "type": "event",
-    "source": "https://tvhd2.com/vivo/canal.php?stream=dsports",
-    "country": "mundial 2026",
-    "event_description": "Copa del Mundo: \nSuiza vs Colombia",
-    "event_hour": "17:00",
-    "event_date": "2026-07-07",
-    "embed_name": "DSports | OP2"
-  },
-  {
-    "title": "Copa del Mundo: \nSuiza vs Colombia - DSports | OP3",
-    "url": "https://cgxheq.fubo18.com:443/dsports/mono.m3u8?token=a2d601e1c2812c3aad06cfe209676c8551c07582-e2-1783471612-1783453612",
-    "type": "event",
-    "source": "https://tvhd2.com/vivo/canales.php?stream=dsports",
-    "country": "mundial 2026",
-    "event_description": "Copa del Mundo: \nSuiza vs Colombia",
-    "event_hour": "17:00",
-    "event_date": "2026-07-07",
-    "embed_name": "DSports | OP3"
-  },
-  {
-    "title": "Copa del Mundo: \nSuiza vs Colombia - Sportv BR HD",
-    "url": "https://cxm5.futbolonlinehd.com:443/sportv/mono.m3u8?token=1ff077b9f8204912ff85a9c149815d549be815d5-d5-1783471612-1783453612",
-    "type": "event",
-    "source": "https://tvtvhd.com/online/canales.php?stream=sportv",
-    "country": "mundial 2026",
-    "event_description": "Copa del Mundo: \nSuiza vs Colombia",
-    "event_hour": "17:00",
-    "event_date": "2026-07-07",
-    "embed_name": "Sportv BR HD"
-  },
-  {
-    "title": "Copa del Mundo: \nSuiza vs Colombia - Sportv BR",
-    "url": "https://cgxheq.fubo18.com:443/sportv/mono.m3u8?token=21db42a2e01594ed9f948e4146ac1be2adb77434-a2-1783471613-1783453613",
-    "type": "event",
-    "source": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
-    "country": "mundial 2026",
-    "event_description": "Copa del Mundo: \nSuiza vs Colombia",
-    "event_hour": "17:00",
-    "event_date": "2026-07-07",
-    "embed_name": "Sportv BR"
-  },
-  {
-    "title": "Copa del Mundo: \nSuiza vs Colombia - America TV | HD",
-    "url": "https://cxm8.futbolonlinehd.com:443/americatv/mono.m3u8?token=4710a7a315b04f5d5b3cc3a1bbe4d860d4cc7d42-82-1783471613-1783453613",
-    "type": "event",
-    "source": "https://tvhd2.com/online/canales.php?stream=americatv",
-    "country": "mundial 2026",
-    "event_description": "Copa del Mundo: \nSuiza vs Colombia",
-    "event_hour": "17:00",
-    "event_date": "2026-07-07",
-    "embed_name": "America TV | HD"
-  },
-  {
-    "title": "Copa del Mundo: \nSuiza vs Colombia - Telemundo | HD",
-    "url": "https://cxm1.futbolonlinehd.com:443/telemundo/mono.m3u8?token=0019eff3265cb3d65c622563b55cf6beacf56985-8f-1783471614-1783453614",
-    "type": "event",
-    "source": "https://tvhd2.com/online/canales.php?stream=telemundo",
-    "country": "mundial 2026",
-    "event_description": "Copa del Mundo: \nSuiza vs Colombia",
-    "event_hour": "17:00",
-    "event_date": "2026-07-07",
-    "embed_name": "Telemundo | HD"
-  },
-  {
-    "title": "Copa del Mundo: \nSuiza vs Colombia - Caracol TV",
-    "url": "https://bmf0aw9u.fubo18.com:443/caracol/mono.m3u8?token=604717526d03c7ec87f67f35112e08af74677ec2-86-1783471615-1783453615",
-    "type": "event",
-    "source": "https://tvhd2.com/canales.php?stream=caracol",
-    "country": "mundial 2026",
-    "event_description": "Copa del Mundo: \nSuiza vs Colombia",
-    "event_hour": "17:00",
-    "event_date": "2026-07-07",
-    "embed_name": "Caracol TV"
-  },
-  {
-    "title": "Copa del Mundo: \nSuiza vs Colombia - Canal 5 MX",
-    "url": "https://cxm4.futbolonlinehd.com:443/canal5/mono.m3u8?token=d7dc8659a87fc2f48d11b061ea6e3683cb220beb-9-1783471615-1783453615",
-    "type": "event",
-    "source": "https://tvhd2.com/online/canales.php?stream=canal5",
-    "country": "mundial 2026",
-    "event_description": "Copa del Mundo: \nSuiza vs Colombia",
-    "event_hour": "17:00",
-    "event_date": "2026-07-07",
-    "embed_name": "Canal 5 MX"
-  },
-  {
-    "title": "Copa del Mundo: \nSuiza vs Colombia - America Television",
-    "url": "https://b2ZmaWNpYWw.fubo18.com:443/americatv/mono.m3u8?token=8d56876e6f618893c51a3f306e79d4a8bdef9a05-f5-1783471616-1783453616",
-    "type": "event",
-    "source": "https://tvhd2.com/canales.php?stream=americatv",
-    "country": "mundial 2026",
-    "event_description": "Copa del Mundo: \nSuiza vs Colombia",
-    "event_hour": "17:00",
-    "event_date": "2026-07-07",
-    "embed_name": "America Television"
-  },
-  {
-    "title": "Copa del Mundo: \nSuiza vs Colombia - Telemundo",
-    "url": "https://Y2FzdGxl.fubo18.com:443/telemundo/mono.m3u8?token=839baeccbe62e16a340ebc72609efe041850e067-8d-1783471617-1783453617",
-    "type": "event",
-    "source": "https://tvhd2.com/canales.php?stream=telemundo",
-    "country": "mundial 2026",
-    "event_description": "Copa del Mundo: \nSuiza vs Colombia",
-    "event_hour": "17:00",
-    "event_date": "2026-07-07",
-    "embed_name": "Telemundo"
-  },
-  {
-    "title": "Copa del Mundo: \nSuiza vs Colombia - Universo",
-    "url": "https://dglvz29s.fubo18.com:443/universo/mono.m3u8?token=87dd86827c46e855270f38d7aa9a569ac1fc6bf1-c1-1783471617-1783453617",
-    "type": "event",
-    "source": "https://tvhd2.com/canales.php?stream=universo",
-    "country": "mundial 2026",
-    "event_description": "Copa del Mundo: \nSuiza vs Colombia",
-    "event_hour": "17:00",
-    "event_date": "2026-07-07",
-    "embed_name": "Universo"
-  },
-  {
-    "title": "Copa del Mundo: \nSuiza vs Colombia - Deportes TV. C",
-    "url": "https://c2nvdxq.fubo18.com:443/goltv/mono.m3u8?token=a07199e668b785afe59d9c443c8c9679d124b8e9-ce-1783471618-1783453618",
-    "type": "event",
-    "source": "https://tvhd2.com/canales.php?stream=goltv",
-    "country": "mundial 2026",
-    "event_description": "Copa del Mundo: \nSuiza vs Colombia",
-    "event_hour": "17:00",
-    "event_date": "2026-07-07",
-    "embed_name": "Deportes TV. C"
-  },
-  {
     "title": "ESPN (LATINOAMERICA)",
-    "url": "https://am91cm5leQ.fubo18.com:443/espn/mono.m3u8?token=52871be25f4d89a131f7b078a2aa0524cb961dc3-b2-1783471618-1783453618",
+    "url": "https://c2f2zq.fubo18.com:443/espn/mono.m3u8?token=393710f4948c2ddd4cec9b657a6974bfbd26a017-24-1783497729-1783479729",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=espn",
     "country": "LATINOAMERICA",
@@ -328,7 +9,7 @@
   },
   {
     "title": "ESPN 2 (LATINOAMERICA)",
-    "url": "https://b2ZmaWNpYWw.fubo18.com:443/espn2/mono.m3u8?token=1c84052803d3de6b188aac4d47c2276ff920708e-fc-1783471619-1783453619",
+    "url": "https://b2ZmaWNpYWw.fubo18.com:443/espn2/mono.m3u8?token=2d625f40793957189d9d70887baa8fe891e8730e-44-1783497729-1783479729",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=espn2",
     "country": "LATINOAMERICA",
@@ -336,7 +17,7 @@
   },
   {
     "title": "ESPN 3 (LATINOAMERICA)",
-    "url": "https://bgvnzw5k.fubo18.com:443/espn3/mono.m3u8?token=7fcdabf6da82ca194e591b2d5b73cf1ea8664e6b-f2-1783471620-1783453620",
+    "url": "https://am91cm5leQ.fubo18.com:443/espn3/mono.m3u8?token=faa1e8d46ee94caebe5141ea31ec58e39f49403e-49-1783497730-1783479730",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=espn3",
     "country": "LATINOAMERICA",
@@ -344,7 +25,7 @@
   },
   {
     "title": "ESPN 4 (LATINOAMERICA)",
-    "url": "https://eWVz.fubo18.com:443/espn4/mono.m3u8?token=285492a60c6560235f352072da6f252aed5a16ed-6d-1783471620-1783453620",
+    "url": "https://bgvnzw5k.fubo18.com:443/espn4/mono.m3u8?token=1a598d248b9650d130c6409e4b5520efd9e9a3bb-14-1783497730-1783479730",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=espn4",
     "country": "LATINOAMERICA",
@@ -352,7 +33,7 @@
   },
   {
     "title": "ESPN 5 (LATINOAMERICA)",
-    "url": "https://b2ZmaWNpYWw.fubo18.com:443/espn5/mono.m3u8?token=95003a15c6461a35fddc760be81c9f6c1bf663e5-7e-1783471621-1783453621",
+    "url": "https://eWVz.fubo18.com:443/espn5/mono.m3u8?token=66f2499383b18c0ce0162b6cc13c0510bc8ca539-17-1783497731-1783479731",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=espn5",
     "country": "LATINOAMERICA",
@@ -360,7 +41,7 @@
   },
   {
     "title": "ESPN 6 (LATINOAMERICA)",
-    "url": "https://am91cm5leQ.fubo18.com:443/espn6/mono.m3u8?token=025fcb1a35746120bed1a72a98b9a2532e86bc29-e-1783471621-1783453621",
+    "url": "https://Y2FzdGxl.fubo18.com:443/espn6/mono.m3u8?token=f149b31448778381ca76626305057fbb634e5e6a-90-1783497732-1783479732",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=espn6",
     "country": "LATINOAMERICA",
@@ -368,7 +49,7 @@
   },
   {
     "title": "ESPN 7 (LATINOAMERICA)",
-    "url": "https://cgxheq.fubo18.com:443/espn7/mono.m3u8?token=91fdb28e83008d1e087b56a6cc0035e91ae32a38-f-1783471622-1783453622",
+    "url": "https://dglvz29s.fubo18.com:443/espn7/mono.m3u8?token=40274cec3564e64b8af14bede5318fa076fb9bb7-51-1783497732-1783479732",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=espn7",
     "country": "LATINOAMERICA",
@@ -376,7 +57,7 @@
   },
   {
     "title": "DSports (LATINOAMERICA)",
-    "url": "https://dw5pdgvk.fubo18.com:443/dsports/mono.m3u8?token=54ada04af7de085ba448ec32e8cd3257760d9ba4-ec-1783471622-1783453622",
+    "url": "https://bgvnzw5k.fubo18.com:443/dsports/mono.m3u8?token=5d4d81034331749ce38c74a5256b91124411470c-3a-1783497733-1783479733",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=dsports",
     "country": "LATINOAMERICA",
@@ -384,7 +65,7 @@
   },
   {
     "title": "DSports 2 (LATINOAMERICA)",
-    "url": "https://bmf0aw9u.fubo18.com:443/dsports2/mono.m3u8?token=e5dc6307ec6dab4a1a0b3b028be920e577aba799-38-1783471623-1783453623",
+    "url": "https://dglvz29s.fubo18.com:443/dsports2/mono.m3u8?token=2aef40f68cd8c74b1d4e7e6576e28403ded6e28e-f-1783497733-1783479733",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=dsports2",
     "country": "LATINOAMERICA",
@@ -392,7 +73,7 @@
   },
   {
     "title": "GOLTV (LATINOAMERICA)",
-    "url": "https://b2ZmaWNpYWw.fubo18.com:443/goltv/mono.m3u8?token=0277cd5411cdd615094857591d21ba15f1936bfb-6e-1783471624-1783453624",
+    "url": "https://cgxheq.fubo18.com:443/goltv/mono.m3u8?token=256174ead095137ec02ebb49e5c613f66d04947d-b8-1783497734-1783479734",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=goltv",
     "country": "LATINOAMERICA",
@@ -400,7 +81,7 @@
   },
   {
     "title": "VTV Plus (LATINOAMERICA)",
-    "url": "https://YXdlc29tZQ.fubo18.com:443/vtvplus/mono.m3u8?token=dcbe0ae8a5020335a6fc7b2d14a112d69b480609-e3-1783471624-1783453624",
+    "url": "https://eWVz.fubo18.com:443/vtvplus/mono.m3u8?token=87fafd0f6e57fc22191695cb786587de734d14ca-65-1783497734-1783479734",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=vtvplus",
     "country": "LATINOAMERICA",
@@ -408,7 +89,7 @@
   },
   {
     "title": "Fox Sports (ARGENTINA)",
-    "url": "https://c2nvdxq.fubo18.com:443/foxsports/mono.m3u8?token=6c52596ec33a27ebe4a57b002bc751da0e156d34-db-1783471625-1783453625",
+    "url": "https://am91cm5leQ.fubo18.com:443/foxsports/mono.m3u8?token=8c69156204dc8c1438e3c4bf0669154d1a193ab4-70-1783497735-1783479735",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=foxsports",
     "country": "ARGENTINA",
@@ -416,7 +97,7 @@
   },
   {
     "title": "Fox Sports 2 (ARGENTINA)",
-    "url": "https://dw5pdgvk.fubo18.com:443/foxsports2/mono.m3u8?token=db546069c6ba2f697f25c6571823167922da0e08-c8-1783471625-1783453625",
+    "url": "https://YXdlc29tZQ.fubo18.com:443/foxsports2/mono.m3u8?token=02979e6596801d39b6aa683754d195edb7ac6c3e-5e-1783497735-1783479735",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=foxsports2",
     "country": "ARGENTINA",
@@ -424,7 +105,7 @@
   },
   {
     "title": "Fox Sports 3 (ARGENTINA)",
-    "url": "https://am91cm5leQ.fubo18.com:443/foxsports3/mono.m3u8?token=793e0b0011e4b00c0f418b84ff81d49cd7124a8f-3c-1783471626-1783453626",
+    "url": "https://b2ZmaWNpYWw.fubo18.com:443/foxsports3/mono.m3u8?token=4f88b52356a2c85ef2e3effc580682749fb26683-b7-1783497736-1783479736",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=foxsports3",
     "country": "ARGENTINA",
@@ -432,7 +113,7 @@
   },
   {
     "title": "TNT Sports (ARGENTINA)",
-    "url": "https://YXdlc29tZQ.fubo18.com:443/tntsports/mono.m3u8?token=b19ee623aa4f55db11c77cc76c5a417773b9b5f4-fc-1783471626-1783453626",
+    "url": "https://c2nvdxq.fubo18.com:443/tntsports/mono.m3u8?token=139f6cd4b15ef5ec0c847a4fc835d3536c96bb88-d0-1783497737-1783479737",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=tntsports",
     "country": "ARGENTINA",
@@ -440,7 +121,7 @@
   },
   {
     "title": "ESPN Premium (ARGENTINA)",
-    "url": "https://c2f2zq.fubo18.com:443/espnpremium/mono.m3u8?token=e1a23456b741dbac491b21675d115aa7b988a8e8-9c-1783471627-1783453627",
+    "url": "https://cgxheq.fubo18.com:443/espnpremium/mono.m3u8?token=27ac28d464fe8c972bf488ed7009de62f23035be-1c-1783497737-1783479737",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=espnpremium",
     "country": "ARGENTINA",
@@ -448,7 +129,7 @@
   },
   {
     "title": "TyC Sports (ARGENTINA)",
-    "url": "https://c2nvdxq.fubo18.com:443/tycsports/mono.m3u8?token=79ea5b155ae77c63bb5ddefa2bb014183a5e66f4-39-1783471628-1783453628",
+    "url": "https://bgvnzw5k.fubo18.com:443/tycsports/mono.m3u8?token=8a9844e21ea8cb2f5c1d9ffae918948dde64ccc1-97-1783497738-1783479738",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=tycsports",
     "country": "ARGENTINA",
@@ -456,7 +137,7 @@
   },
   {
     "title": "TyC Sports Internacional (USA) (ARGENTINA)",
-    "url": "https://b2ZmaWNpYWw.fubo18.com:443/tycinternacional/mono.m3u8?token=ed12933187a70cbdd2e2586c4efe5889f61810d1-3c-1783471628-1783453628",
+    "url": "https://dglvz29s.fubo18.com:443/tycinternacional/mono.m3u8?token=09b3bd8dcbfd660db312f7e4f358a56ed583fe8f-1a-1783497738-1783479738",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=tycinternacional",
     "country": "ARGENTINA",
@@ -464,7 +145,7 @@
   },
   {
     "title": "Telefe (ARGENTINA)",
-    "url": "https://dw5pdgvk.fubo18.com:443/telefe/mono.m3u8?token=44e91d38e2dbfb6dc224cdd3a91e099957b9ead4-b1-1783471629-1783453629",
+    "url": "https://Y2FzdGxl.fubo18.com:443/telefe/mono.m3u8?token=4201b4191defeda6be1c857bdbbf6de8d23474fd-63-1783497739-1783479739",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=telefe",
     "country": "ARGENTINA",
@@ -472,7 +153,7 @@
   },
   {
     "title": "GOLPERU (PERÚ)",
-    "url": "https://bgvnzw5k.fubo18.com:443/golperu/mono.m3u8?token=2cefe1c5c3143ad44f7b340d9cef8468a00ce90d-f1-1783471629-1783453629",
+    "url": "https://Y2FzdGxl.fubo18.com:443/golperu/mono.m3u8?token=45d0480bc17014dd9d76cebeb70ab410bea198d9-c4-1783497739-1783479739",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=golperu",
     "country": "PERÚ",
@@ -480,7 +161,7 @@
   },
   {
     "title": "Liga1 MAX (PERÚ)",
-    "url": "https://eWVz.fubo18.com:443/liga1max/mono.m3u8?token=c447238c2bf748c02015c672092e2abccda38a5c-2-1783471630-1783453630",
+    "url": "https://YXdlc29tZQ.fubo18.com:443/liga1max/mono.m3u8?token=cd8e6d1f8eb610a6a5326a867ab8f61c4a903573-47-1783497740-1783479740",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=liga1max",
     "country": "PERÚ",
@@ -488,7 +169,7 @@
   },
   {
     "title": "Movistar Deportes (PERÚ)",
-    "url": "https://bgvnzw5k.fubo18.com:443/movistar/mono.m3u8?token=595e644f05fa3ed1a19e8850927932ce463aca07-f0-1783471631-1783453631",
+    "url": "https://YXdlc29tZQ.fubo18.com:443/movistar/mono.m3u8?token=ab493e3b8e5e0706074f96410056f59dafef011e-91-1783497741-1783479741",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=movistar",
     "country": "PERÚ",
@@ -496,7 +177,7 @@
   },
   {
     "title": "Win Sports plus (2) (COLOMBIA)",
-    "url": "https://bgvnzw5k.fubo18.com:443/winsports2/mono.m3u8?token=6996c9ae57afba7893eaa9f44efb476f906ba3af-64-1783471631-1783453631",
+    "url": "https://Y2FzdGxl.fubo18.com:443/winsports2/mono.m3u8?token=525761c04ff1d439936f497e61882d6b3d6ee47a-fd-1783497741-1783479741",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=winsports2",
     "country": "COLOMBIA",
@@ -504,7 +185,7 @@
   },
   {
     "title": "Fox Sports (MÉXICO)",
-    "url": "https://YXdlc29tZQ.fubo18.com:443/foxsportsmx/mono.m3u8?token=a18ac660d49cda5caace84e9953d1ad050d21f6e-50-1783471632-1783453632",
+    "url": "https://Y2FzdGxl.fubo18.com:443/foxsportsmx/mono.m3u8?token=9d265f3583d56cb940028b8c2e06d07a45377588-f8-1783497742-1783479742",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=foxsportsmx",
     "country": "MÉXICO",
@@ -512,7 +193,7 @@
   },
   {
     "title": "Fox Sports 2 (MÉXICO)",
-    "url": "https://cgxheq.fubo18.com:443/foxsports2mx/mono.m3u8?token=314ba2d82c5c307a7c5e6ce43dd0a4615be69b43-98-1783471632-1783453632",
+    "url": "https://bmf0aw9u.fubo18.com:443/foxsports2mx/mono.m3u8?token=34788dd68bf9b23a0f4f805f74fad32f78e49a48-ab-1783497742-1783479742",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=foxsports2mx",
     "country": "MÉXICO",
@@ -520,7 +201,7 @@
   },
   {
     "title": "Fox Sports 3 (MÉXICO)",
-    "url": "https://dw5pdgvk.fubo18.com:443/foxsports3mx/mono.m3u8?token=808c09afa77fd0c862341ed50aef90e966353ab2-21-1783471633-1783453633",
+    "url": "https://c2nvdxq.fubo18.com:443/foxsports3mx/mono.m3u8?token=1cfda8e379c8356f841327d60cf1b40d7ab8d08f-6-1783497743-1783479743",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=foxsports3mx",
     "country": "MÉXICO",
@@ -528,7 +209,7 @@
   },
   {
     "title": "Fox Sports Premium (MÉXICO)",
-    "url": "https://c2f2zq.fubo18.com:443/foxsportspremium/mono.m3u8?token=2ea9297833982fc9c2d8744f88de9522f69d9bb6-f7-1783471633-1783453633",
+    "url": "https://c2f2zq.fubo18.com:443/foxsportspremium/mono.m3u8?token=a804082201d61005ee8a751f38e5775931823b55-d-1783497743-1783479743",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=foxsportspremium",
     "country": "MÉXICO",
@@ -536,7 +217,7 @@
   },
   {
     "title": "ESPN (MÉXICO)",
-    "url": "https://b2ZmaWNpYWw.fubo18.com:443/espnmx/mono.m3u8?token=aa5b5ff4b84302feef6406b91f9cb5dd2eeb5d1a-61-1783471634-1783453634",
+    "url": "https://bmf0aw9u.fubo18.com:443/espnmx/mono.m3u8?token=1b4097fbb19bfbf0037cc999735c668a3b12207f-ac-1783497744-1783479744",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=espnmx",
     "country": "MÉXICO",
@@ -544,7 +225,7 @@
   },
   {
     "title": "ESPN 2 (MÉXICO)",
-    "url": "https://c2f2zq.fubo18.com:443/espn2mx/mono.m3u8?token=f803293dd6a1b5b3dc72b85f1308457693a25bd7-5a-1783471635-1783453635",
+    "url": "https://Y2FzdGxl.fubo18.com:443/espn2mx/mono.m3u8?token=da64490789110b082f27b3eed258c9de1fd9af6f-ed-1783497745-1783479745",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=espn2mx",
     "country": "MÉXICO",
@@ -552,7 +233,7 @@
   },
   {
     "title": "ESPN 3 (MÉXICO)",
-    "url": "https://c2f2zq.fubo18.com:443/espn3mx/mono.m3u8?token=d70c8db29f4410d0f86387d4a925916e48243187-54-1783471635-1783453635",
+    "url": "https://dglvz29s.fubo18.com:443/espn3mx/mono.m3u8?token=4b3b42cb74a91471766192dbe24eeae5662b03b7-77-1783497745-1783479745",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=espn3mx",
     "country": "MÉXICO",
@@ -560,7 +241,7 @@
   },
   {
     "title": "ESPN 4 (MÉXICO)",
-    "url": "https://b2ZmaWNpYWw.fubo18.com:443/espn4mx/mono.m3u8?token=a59f4abcd4ace0cd599e74d2f98fa9b2f1283ea3-88-1783471636-1783453636",
+    "url": "https://YXdlc29tZQ.fubo18.com:443/espn4mx/mono.m3u8?token=7c09a9ae7e9e2930321bdc89fc29e48fe50fbe0e-f9-1783497746-1783479746",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=espn4mx",
     "country": "MÉXICO",
@@ -568,7 +249,7 @@
   },
   {
     "title": "Azteca 7 (MÉXICO)",
-    "url": "https://dglvz29s.fubo18.com:443/azteca7/mono.m3u8?token=5873d2a183656c963fa4e3d54fb3e3802e4c28d5-ea-1783471636-1783453636",
+    "url": "https://dw5pdgvk.fubo18.com:443/azteca7/mono.m3u8?token=f5b76b6d16eeb281ab9dd12dcbb9ff46ffc50414-50-1783497746-1783479746",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=azteca7",
     "country": "MÉXICO",
@@ -576,7 +257,7 @@
   },
   {
     "title": "Canal 5 (MÉXICO)",
-    "url": "https://dw5pdgvk.fubo18.com:443/canal5/mono.m3u8?token=c6009752db3e23352464516e93c103c1ef5dd5b9-1e-1783471637-1783453637",
+    "url": "https://c2f2zq.fubo18.com:443/canal5/mono.m3u8?token=727224a9e12108b764f85d39e044d9c3cad3b535-83-1783497747-1783479747",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=canal5",
     "country": "MÉXICO",
@@ -584,7 +265,7 @@
   },
   {
     "title": "Azteca Deportes (MÉXICO)",
-    "url": "https://c2f2zq.fubo18.com:443/azteca_deportes/mono.m3u8?token=b5b3b18f31adbafbcb92e9bdbf0b1530473ee64b-f0-1783471637-1783453637",
+    "url": "https://c2nvdxq.fubo18.com:443/azteca_deportes/mono.m3u8?token=f78c525ad68414df81882d7e3a2ab2ad26342995-44-1783497747-1783479747",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=azteca_deportes",
     "country": "MÉXICO",
@@ -592,7 +273,7 @@
   },
   {
     "title": "Fox Deportes (USA)",
-    "url": "https://dglvz29s.fubo18.com:443/foxdeportes/mono.m3u8?token=28beecbc85eea959400c436ef8c8ef6b805f55e6-f2-1783471638-1783453638",
+    "url": "https://am91cm5leQ.fubo18.com:443/foxdeportes/mono.m3u8?token=5c1e585b0fcb7162f82cf248c034342c7faf315c-23-1783497748-1783479748",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=foxdeportes",
     "country": "USA",
@@ -600,7 +281,7 @@
   },
   {
     "title": "ESPN Deportes (USA)",
-    "url": "https://dglvz29s.fubo18.com:443/espndeportes/mono.m3u8?token=1281757cc8746636867084b1920cdbfae4caec1c-3-1783471638-1783453638",
+    "url": "https://b2ZmaWNpYWw.fubo18.com:443/espndeportes/mono.m3u8?token=f4bea306f89c15106f502c4cb4eea5ddc6b80763-77-1783497748-1783479748",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=espndeportes",
     "country": "USA",
@@ -608,7 +289,7 @@
   },
   {
     "title": "TUDN (USA)",
-    "url": "https://am91cm5leQ.fubo18.com:443/tudn/mono.m3u8?token=320150fbba6a9e4e12a8ee5a2bb5ffebb4168316-3f-1783471639-1783453639",
+    "url": "https://Y2FzdGxl.fubo18.com:443/tudn/mono.m3u8?token=8988ab0a42b8be233c650134ebda888d6f2b2296-8f-1783497749-1783479749",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=tudn",
     "country": "USA",
@@ -616,7 +297,7 @@
   },
   {
     "title": "BeIN Sports Español (USA)",
-    "url": "https://bgvnzw5k.fubo18.com:443/beinsportes/mono.m3u8?token=8ccd2b277489fd583758c21e96dd54a92ff08fc4-56-1783471640-1783453640",
+    "url": "https://c2nvdxq.fubo18.com:443/beinsportes/mono.m3u8?token=fb7fc475f9a34821a8dc6874f4a21a61f638e837-22-1783497750-1783479750",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=beinsportes",
     "country": "USA",
@@ -624,7 +305,7 @@
   },
   {
     "title": "Unimás (USA)",
-    "url": "https://cgxheq.fubo18.com:443/unimas/mono.m3u8?token=d9155966bbffa58051045e488ca627df41f21f32-a-1783471640-1783453640",
+    "url": "https://dw5pdgvk.fubo18.com:443/unimas/mono.m3u8?token=9d6ffdff4da8315ebe1986c535d4984e9f1e2e50-8c-1783497750-1783479750",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=unimas",
     "country": "USA",
@@ -632,7 +313,7 @@
   },
   {
     "title": "BeIN Sports Xtra Español (USA)",
-    "url": "https://Y2FzdGxl.fubo18.com:443/beinsport_xtra_espanol/mono.m3u8?token=d73596376fbbb67f93114bf3641bd94cbddfcfe0-4b-1783471641-1783453641",
+    "url": "https://c2f2zq.fubo18.com:443/beinsport_xtra_espanol/mono.m3u8?token=42035a97046aaf387da5b999bcf058f3555a8f5b-53-1783497751-1783479751",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=beinsport_xtra_espanol",
     "country": "USA",
@@ -640,7 +321,7 @@
   },
   {
     "title": "USAnetwork (USA)",
-    "url": "https://cgxheq.fubo18.com:443/usanetwork/mono.m3u8?token=e3197f67ea8f5e198dbb2f6c4d19842d93f6d0e4-5c-1783471641-1783453641",
+    "url": "https://c2nvdxq.fubo18.com:443/usanetwork/mono.m3u8?token=433032ac0460920de90cf923950deb730ce45877-8f-1783497751-1783479751",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=usanetwork",
     "country": "USA",
@@ -648,7 +329,7 @@
   },
   {
     "title": "Telemundo (USA)",
-    "url": "https://am91cm5leQ.fubo18.com:443/telemundo/mono.m3u8?token=896f7955d2041a153b5895b2b191a5bfab35932d-2e-1783471642-1783453642",
+    "url": "https://cgxheq.fubo18.com:443/telemundo/mono.m3u8?token=23e5c494be2d7744b954985e60789b0f24f81f65-d6-1783497752-1783479752",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=telemundo",
     "country": "USA",
@@ -656,7 +337,7 @@
   },
   {
     "title": "Premiere 1 (BRASIL)",
-    "url": "https://bmf0aw9u.fubo18.com:443/premiere1/mono.m3u8?token=bbcc627b45890b9bb898b9241810687121ebbe9d-d4-1783471642-1783453642",
+    "url": "https://c2f2zq.fubo18.com:443/premiere1/mono.m3u8?token=56d99b63d15f9e4ab97f8f2d7f6dd668be20c43b-c1-1783497752-1783479752",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=premiere1",
     "country": "BRASIL",
@@ -664,7 +345,7 @@
   },
   {
     "title": "Premiere 2 (BRASIL)",
-    "url": "https://YXdlc29tZQ.fubo18.com:443/premiere2/mono.m3u8?token=d721a0bdefa6903ddece808cac99b4f6abbbd8c1-5e-1783471643-1783453643",
+    "url": "https://bmf0aw9u.fubo18.com:443/premiere2/mono.m3u8?token=1f9d4d7e06045e810e53ccf8fee4a216a5a4a505-d5-1783497753-1783479753",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=premiere2",
     "country": "BRASIL",
@@ -672,7 +353,7 @@
   },
   {
     "title": "Premiere 3 (BRASIL)",
-    "url": "https://am91cm5leQ.fubo18.com:443/premiere3/mono.m3u8?token=8c40b28496e9aa4c0bce3309111b35f65ae89cde-83-1783471643-1783453643",
+    "url": "https://dw5pdgvk.fubo18.com:443/premiere3/mono.m3u8?token=7af7b93d123095a14f85ce3c47087be7261ad475-18-1783497754-1783479754",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=premiere3",
     "country": "BRASIL",
@@ -680,7 +361,7 @@
   },
   {
     "title": "Premiere 5 (BRASIL)",
-    "url": "https://YXdlc29tZQ.fubo18.com:443/premiere5/mono.m3u8?token=852d0bea248bf1c0bb40444f49cede577fe7e2ac-3f-1783471644-1783453644",
+    "url": "https://am91cm5leQ.fubo18.com:443/premiere5/mono.m3u8?token=754120b4e5eccb93ba9ec967ad67a9a2188535eb-1e-1783497754-1783479754",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=premiere5",
     "country": "BRASIL",
@@ -688,7 +369,7 @@
   },
   {
     "title": "Sportv (BRASIL)",
-    "url": "https://dglvz29s.fubo18.com:443/sportv/mono.m3u8?token=fcb6438d75ea5b4efbf7a3880ae0540870f5ab34-b3-1783471645-1783453645",
+    "url": "https://c2nvdxq.fubo18.com:443/sportv/mono.m3u8?token=0d0f3da9f93188d4f0861ddb37fbc94cf11be928-a-1783497755-1783479755",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=sportv",
     "country": "BRASIL",
@@ -696,7 +377,7 @@
   },
   {
     "title": "Sportv 2 (BRASIL)",
-    "url": "https://c2f2zq.fubo18.com:443/sportv2/mono.m3u8?token=382093ecb7c443d8b99dfec54332ede7e770caa7-15-1783471645-1783453645",
+    "url": "https://am91cm5leQ.fubo18.com:443/sportv2/mono.m3u8?token=54dcbbbfc771401d5efa1718f402b74456624532-f8-1783497755-1783479755",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=sportv2",
     "country": "BRASIL",
@@ -704,7 +385,7 @@
   },
   {
     "title": "Sportv 3 (BRASIL)",
-    "url": "https://b2ZmaWNpYWw.fubo18.com:443/sportv3/mono.m3u8?token=2afe06295677c8c5c26063c4d0105095c5e07c20-99-1783471646-1783453646",
+    "url": "https://YXdlc29tZQ.fubo18.com:443/sportv3/mono.m3u8?token=8600d53c4a5ed95d065bfe67a0fdf25277aae257-3f-1783497756-1783479756",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=sportv3",
     "country": "BRASIL",
@@ -712,7 +393,7 @@
   },
   {
     "title": "ESPN 1 NL (MUNDO)",
-    "url": "https://bgvnzw5k.fubo18.com:443/espn1_nl/mono.m3u8?token=547f38b3826fa55d933cac4a18dd47a3a456020c-fb-1783471646-1783453646",
+    "url": "https://bgvnzw5k.fubo18.com:443/espn1_nl/mono.m3u8?token=b4373e0f17245841a8bacb7dd9e72aef144de9d2-89-1783497756-1783479756",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=espn1_nl",
     "country": "MUNDO",
@@ -720,7 +401,7 @@
   },
   {
     "title": "ESPN 2 NL (MUNDO)",
-    "url": "https://b2ZmaWNpYWw.fubo18.com:443/espn2_nl/mono.m3u8?token=bf59558cd30b619f1d7f38f7aca3eec8bb4bf8c6-29-1783471647-1783453647",
+    "url": "https://dw5pdgvk.fubo18.com:443/espn2_nl/mono.m3u8?token=936695f3cd85dba2c5c373707817f09ae236726c-aa-1783497757-1783479757",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=espn2_nl",
     "country": "MUNDO",
@@ -728,7 +409,7 @@
   },
   {
     "title": "ESPN 3 NL (MUNDO)",
-    "url": "https://b2ZmaWNpYWw.fubo18.com:443/espn3_nl/mono.m3u8?token=1bc228e7c40e46573038ec64d90002e8b5bd4590-35-1783471648-1783453648",
+    "url": "https://eWVz.fubo18.com:443/espn3_nl/mono.m3u8?token=8a94df148162d7ed79a9945af0108d68121ead2f-dc-1783497758-1783479758",
     "type": "channel",
     "source": "https://tvhd2.com/vivo/canales.php?stream=espn3_nl",
     "country": "MUNDO",
