@@ -1,13 +1,24 @@
 [
   {
-    "title": "Serie A: \nMushuc Runa vs Independiente del Valle - ECDF HD",
-    "url": "https://cxm3.futbolonlinehd.com:443/ecdf_ligapro/mono.m3u8?token=bf3ff047786190ffd85e8aad252de6c242e28471-3e-1783814193-1783796193",
+    "title": "Copa del Mundo: \nArgentina vs Suiza - CTV HD1",
+    "url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
     "type": "event",
-    "source": "https://fltvhd.com/online/canal.php?stream=ecdf_ligapro",
-    "country": "Ecuador",
-    "event_description": "Serie A: \nMushuc Runa vs Independiente del Valle",
-    "event_hour": "16:10",
+    "source": "https://tvhd1.com/canales/ctv.php",
+    "country": "mundial 2026",
+    "event_description": "Copa del Mundo: \nArgentina vs Suiza",
+    "event_hour": "22:00",
     "event_date": "2026-07-11",
-    "embed_name": "ECDF HD"
+    "embed_name": "CTV HD1"
+  },
+  {
+    "title": "Copa del Mundo: \nArgentina vs Suiza - FOX ONE HD1",
+    "url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/9jiie2ephv/out/v1/9e895e2c1c894a75ac6d21a4deddd5d3/cenc.mpd",
+    "type": "event",
+    "source": "https://tvhd1.com/canales/foxone.php",
+    "country": "mundial 2026",
+    "event_description": "Copa del Mundo: \nArgentina vs Suiza",
+    "event_hour": "22:00",
+    "event_date": "2026-07-11",
+    "embed_name": "FOX ONE HD1"
   }
 ]
