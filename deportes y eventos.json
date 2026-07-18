@@ -1,7 +1,7 @@
 [
   {
     "title": "ESPN Knockout – A Confirmar - ESPN 2 | HD",
-    "url": "https://cxm9.futbolonlinehd.com:443/even6/mono.m3u8?token=60bbbc3265a2f990ac1a02c3ee47a4691f87b48f-6c-1784332890-1784314890",
+    "url": "https://cxm1.futbolonlinehd.com:443/even6/mono.m3u8?token=f4f9574e34f6c7eda51cb559d3799d5985034aa8-cc-1784360072-1784342072",
     "type": "event",
     "source": "https://fltvhd.com/online/canal.php?stream=even6",
     "country": "Boxeo",
@@ -12,7 +12,7 @@
   },
   {
     "title": "ESPN Knockout – A Confirmar - ESPN 2",
-    "url": "https://cxm7.futbolonlinehd.com:443/even6/mono.m3u8?token=aa41c4bca469504fb3d13972e377b7ff24d51c1e-6b-1784332891-1784314891",
+    "url": "https://cxm1.futbolonlinehd.com:443/even6/mono.m3u8?token=719157b1d0dfb662bd0ac775c0e615a0c77a9dde-be-1784360073-1784342073",
     "type": "event",
     "source": "https://fltvhd.com/online/canal.php?stream=even6",
     "country": "Boxeo",
@@ -23,7 +23,7 @@
   },
   {
     "title": "ESPN Knockout – A Confirmar - ESPN 2 | OP2",
-    "url": "https://cxm5.futbolonlinehd.com:443/even6/mono.m3u8?token=67181a2252b36c365cecc0a02c83faf0f0d480fc-78-1784332891-1784314891",
+    "url": "https://cxm3.futbolonlinehd.com:443/even6/mono.m3u8?token=a691b481366035de3ba79bc06f364cb608f5a6d9-18-1784360073-1784342073",
     "type": "event",
     "source": "https://fltvhd.com/online/canal.php?stream=even6",
     "country": "Boxeo",
@@ -34,56 +34,12 @@
   },
   {
     "title": "ESPN Knockout – A Confirmar - ESPN 2 | OP3",
-    "url": "https://cxm2.futbolonlinehd.com:443/even6/mono.m3u8?token=9a8582e51fb1a071ee58cd754301856dd0bc88ed-0-1784332891-1784314891",
+    "url": "https://cxm8.futbolonlinehd.com:443/even6/mono.m3u8?token=ebad4a1d87835a01e541fbcd17a1ca76de0612ec-f2-1784360074-1784342074",
     "type": "event",
     "source": "https://fltvhd.com/online/canal.php?stream=even6",
     "country": "Boxeo",
     "event_description": "ESPN Knockout – A Confirmar",
     "event_hour": "21:00",
-    "event_date": "2026-07-17",
-    "embed_name": "ESPN 2 | OP3"
-  },
-  {
-    "title": "Golf – The Open Championship – Segunda Vuelta - ESPN 2 | HD",
-    "url": "https://cxm9.futbolonlinehd.com:443/even6/mono.m3u8?token=cbba459055c9b04d273f7fe4bee7d51842d9e204-b9-1784332892-1784314892",
-    "type": "event",
-    "source": "https://fltvhd.com/online/canal.php?stream=even6",
-    "country": "Golf",
-    "event_description": "Golf – The Open Championship – Segunda Vuelta",
-    "event_hour": "13:30",
-    "event_date": "2026-07-17",
-    "embed_name": "ESPN 2 | HD"
-  },
-  {
-    "title": "Golf – The Open Championship – Segunda Vuelta - ESPN 2",
-    "url": "https://cxm6.futbolonlinehd.com:443/even6/mono.m3u8?token=ee907dc0cc7b3236ac42dc81c5f091e121664509-c8-1784332892-1784314892",
-    "type": "event",
-    "source": "https://fltvhd.com/online/canal.php?stream=even6",
-    "country": "Golf",
-    "event_description": "Golf – The Open Championship – Segunda Vuelta",
-    "event_hour": "13:30",
-    "event_date": "2026-07-17",
-    "embed_name": "ESPN 2"
-  },
-  {
-    "title": "Golf – The Open Championship – Segunda Vuelta - ESPN 2 | OP2",
-    "url": "https://cxm9.futbolonlinehd.com:443/even6/mono.m3u8?token=a2890d4c66294995c3ce74c00c843a7361588a77-66-1784332893-1784314893",
-    "type": "event",
-    "source": "https://fltvhd.com/online/canal.php?stream=even6",
-    "country": "Golf",
-    "event_description": "Golf – The Open Championship – Segunda Vuelta",
-    "event_hour": "13:30",
-    "event_date": "2026-07-17",
-    "embed_name": "ESPN 2 | OP2"
-  },
-  {
-    "title": "Golf – The Open Championship – Segunda Vuelta - ESPN 2 | OP3",
-    "url": "https://cxm8.futbolonlinehd.com:443/even6/mono.m3u8?token=b186f0414a794c2cd7fde090c0e6a50d8f4e6f29-7a-1784332893-1784314893",
-    "type": "event",
-    "source": "https://fltvhd.com/online/canal.php?stream=even6",
-    "country": "Golf",
-    "event_description": "Golf – The Open Championship – Segunda Vuelta",
-    "event_hour": "13:30",
     "event_date": "2026-07-17",
     "embed_name": "ESPN 2 | OP3"
   }
